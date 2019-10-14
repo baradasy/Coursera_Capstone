@@ -1,0 +1,1432 @@
+id,city,country,month,name,series,state,year,date,cun,location_type,location_path,latitude,longitude
+aachen_icon,Aachen,Germany,January,Aachen,icon,,2009,2009-01-01,Aachen,city,"Aachen, Germany",50.776351,6.083862
+aarhus_icon,Aarhus,Denmark,January,Aarhus,icon,,2014,2014-01-01,Arhus,city,"Aarhus, Denmark",56.14962779999999,10.2134046
+aberdeen_yah,Aberdeen,United Kingdom,August,Aberdeen,yah,Scotland,2017,2017-08-01,Aberdeen,city,"Aberdeen, Scotland, United Kingdom",57.1482429,-2.0928095
+abu_dhabi_icon,Abu Dhabi,United Arab Emirates,January,Abu Dhabi,icon,,2011,2011-01-01,Abu Dhabi,city,"Abu Dhabi, United Arab Emirates",23.99764435,53.6439097569213
+acapulco_bts,Acapulco,Mexico,August,Acapulco,bts,Guerrero,2018,2018-08-01,Acapulco de Juarez,city,"Acapulco, Guerrero, Mexico",16.868049499999998,-99.8940182
+acapulco_icon,Acapulco,Mexico,January,Acapulco,icon,Guerrero,2010,2010-01-01,Acapulco de Juarez,city,"Acapulco, Guerrero, Mexico",16.868049499999998,-99.8940182
+adana_yah,Adana,Turkey,October,Adana,yah,,2017,2017-10-01,Adana,city,"Adana, Turkey",36.9936175,35.3258349
+alabama_bto,,United States,September,Alabama,bto,Alabama,2018,2018-09-01,,state,"Alabama, United States",33.258881699999996,-86.8295337
+alabama_bts,,United States,March,Alabama,bts,Alabama,2018,2018-03-01,,state,"Alabama, United States",33.258881699999996,-86.8295337
+alabama_yah,,United States,July,Alabama,yah,Alabama,2014,2014-07-01,,state,"Alabama, United States",33.258881699999996,-86.8295337
+alaska_bto,,United States,August,Alaska,bto,Alaska,2018,2018-08-01,,state,"Alaska, United States",64.44596130000001,-149.680909
+alaska_bts,,United States,March,Alaska,bts,Alaska,2018,2018-03-01,,state,"Alaska, United States",64.44596130000001,-149.680909
+alaska_icon,,United States,January,Alaska,icon,Alaska,2009,2009-01-01,,state,"Alaska, United States",64.44596130000001,-149.680909
+alaska_yah,,United States,April,Alaska,yah,Alaska,2013,2013-04-01,,state,"Alaska, United States",64.44596130000001,-149.680909
+alaska_yaho,,United States,August,Alaska,yaho,Alaska,2016,2016-08-01,,state,"Alaska, United States",64.44596130000001,-149.680909
+alberta_bts,,Canada,May,Alberta,bts,Alberta,2018,2018-05-01,,state,"Alberta, Canada",55.001251,-115.00213600000001
+alicante_icon,Alicante,Spain,January,Alicante,icon,,2013,2013-01-01,Alicante,city,"Alicante, Spain",38.353738,-0.49018459999999997
+amsterdam_icon,Amsterdam,Netherlands,January,Amsterdam,icon,,2009,2009-01-01,Amsterdam,city,"Amsterdam, Netherlands",52.3745403,4.89797550561798
+amsterdam_icon_2,Amsterdam,Netherlands,January,Amsterdam v.2,icon,,2015,2015-01-01,Amsterdam,city,"Amsterdam, Netherlands",52.3745403,4.89797550561798
+amsterdam_rlf,Amsterdam,Netherlands,November,Amsterdam,rlf,,2011,2011-11-01,Amsterdam,city,"Amsterdam, Netherlands",52.3745403,4.89797550561798
+amsterdam_rlf_2,Amsterdam,Netherlands,November,Amsterdam Gold,rlf,,2014,2014-11-01,Amsterdam,city,"Amsterdam, Netherlands",52.3745403,4.89797550561798
+amsterdam_rlf_3,Amsterdam,Netherlands,November,Amsterdam Green,rlf,,2015,2015-11-01,Amsterdam,city,"Amsterdam, Netherlands",52.3745403,4.89797550561798
+amsterdam_yah,Amsterdam,Netherlands,November,Amsterdam,yah,,2013,2013-11-01,Amsterdam,city,"Amsterdam, Netherlands",52.3745403,4.89797550561798
+amsterdam_yahx,Amsterdam,Netherlands,October,Amsterdam,yahx,,2017,2017-10-01,Amsterdam,city,"Amsterdam, Netherlands",52.3745403,4.89797550561798
+andorra_yah,,Andorra,September,Andorra,yah,,2019,2019-09-01,,country,Andorra,42.540716700000004,1.5732033
+ankara_icon,Ankara,Turkey,January,Ankara,icon,,2009,2009-01-01,Ankara,city,"Ankara, Turkey",39.9207774,32.854067
+ankara_yah,Ankara,Turkey,September,Ankara,yah,,2017,2017-09-01,Ankara,city,"Ankara, Turkey",39.9207774,32.854067
+antalya_icon,Antalya,Turkey,January,Antalya,icon,,2013,2013-01-01,Antalya,city,"Antalya, Turkey",36.9009641,30.6954846
+antalya_yah,Antalya,Turkey,October,Antalya,yah,,2017,2017-10-01,Antalya,city,"Antalya, Turkey",36.9009641,30.6954846
+antigua_icon,Antigua,Guatemala,January,Antigua,icon,,2017,2017-01-01,Antigua Guatemala,city,"Antigua, Guatemala",14.5589875,-90.73332579999999
+antwerp_icon,Antwerp,Belgium,January,Antwerp,icon,,2010,2010-01-01,Antwerpen,city,"Antwerp, Belgium",51.2211097,4.3997081
+arequipa_icon,Arequipa,Peru,January,Arequipa,icon,,2013,2013-01-01,Arequipa,city,"Arequipa, Peru",-16.3988667,-71.53696070000001
+argentina_bts,,Argentina,August,Argentina,bts,,2018,2018-08-01,,country,Argentina,-34.9964963,-64.9672817
+argentina_icon,,Argentina,January,Argentina,icon,,2010,2010-01-01,,country,Argentina,-34.9964963,-64.9672817
+arizona_bto,,United States,August,Arizona v.1,bto,Arizona,2018,2018-08-01,,state,"Arizona, United States",34.395342,-111.76327549999999
+arizona_bto_2,,United States,December,Arizona v.2,bto,Arizona v.2,2018,2018-12-01,,state,"Arizona v.2, United States",33.7137821,-117.7935252
+arizona_bts,,United States,March,Arizona v.1,bts,Arizona,2018,2018-03-01,,state,"Arizona, United States",34.395342,-111.76327549999999
+arizona_bts_2,,United States,December,Arizona v.2,bts,Arizona,2018,2018-12-01,,state,"Arizona, United States",34.395342,-111.76327549999999
+arizona_btx,,United States,November,Arizona,btx,Arizona,2018,2018-11-01,,state,"Arizona, United States",34.395342,-111.76327549999999
+arizona_icon,,United States,January,Arizona,icon,Arizona,2009,2009-01-01,,state,"Arizona, United States",34.395342,-111.76327549999999
+arizona_yah,,United States,April,Arizona,yah,Arizona,2013,2013-04-01,,state,"Arizona, United States",34.395342,-111.76327549999999
+arizona_yaho,,United States,August,Arizona,yaho,Arizona,2016,2016-08-01,,state,"Arizona, United States",34.395342,-111.76327549999999
+arkansas_bto,,United States,September,Arkansas,bto,Arkansas,2018,2018-09-01,,state,"Arkansas, United States",35.2048883,-92.4479108
+arkansas_bts,,United States,March,Arkansas,bts,Arkansas,2018,2018-03-01,,state,"Arkansas, United States",35.2048883,-92.4479108
+arnhem_icon,Arnhem,Netherlands,January,Arnhem,icon,,2013,2013-01-01,Arnhem,city,"Arnhem, Netherlands",52.005664200000005,5.87623450776413
+aruba_icon,,Aruba,January,Aruba,icon,,2010,2010-01-01,,country,Aruba,12.4902998,-69.96098420000001
+aspen_yah,Aspen,United States,March,Aspen,yah,Colorado,2014,2014-03-01,Aspen,city,"Aspen, Colorado, United States",39.1911128,-106.8235606
+astana_yah,Astana,Kazakhstan,February,Astana,yah,,2017,2017-02-01,Astana,city,"Astana, Kazakhstan",51.15092055,71.4388595154859
+athens_icon,Athens,Greece,January,Athens,icon,,2009,2009-01-01,Athens,city,"Athens, Greece",37.9841493,23.7279843
+athens_yah,Athens,Greece,June,Athens,yah,,2016,2016-06-01,Athens,city,"Athens, Greece",37.9841493,23.7279843
+atlanta_bto,Atlanta,United States,August,Atlanta,bto,Georgia,2018,2018-08-01,Atlanta,city,"Atlanta, Georgia, United States",33.749098700000005,-84.39018490000001
+atlanta_btr1,Atlanta,United States,April,Atlanta v.1,bts,Georgia,2018,2018-04-01,Atlanta,city,"Atlanta, Georgia, United States",33.749098700000005,-84.39018490000001
+atlanta_bts,Atlanta,United States,July,Atlanta v.2,bts,Georgia,2018,2018-07-01,Atlanta,city,"Atlanta, Georgia, United States",33.749098700000005,-84.39018490000001
+atlanta_btx,Atlanta,United States,October,Atlanta,btx,Georgia,2018,2018-10-01,Atlanta,city,"Atlanta, Georgia, United States",33.749098700000005,-84.39018490000001
+atlanta_icon,Atlanta,United States,January,Atlanta,icon,Georgia,2009,2009-01-01,Atlanta,city,"Atlanta, Georgia, United States",33.749098700000005,-84.39018490000001
+atlanta_yah,Atlanta,United States,April,Atlanta,yah,Georgia,2013,2013-04-01,Atlanta,city,"Atlanta, Georgia, United States",33.749098700000005,-84.39018490000001
+atlanta_yaho,Atlanta,United States,August,Atlanta,yaho,Georgia,2016,2016-08-01,Atlanta,city,"Atlanta, Georgia, United States",33.749098700000005,-84.39018490000001
+atlantic_canada_bts,,Canada,May,Atlantic Canada,bts,,2018,2018-05-01,,country,Canada,61.0666922,-107.9917071
+auckland_icon,Auckland,New Zealand,January,Auckland,icon,,2008,2008-01-01,Auckland,city,"Auckland, New Zealand",-36.852095,174.76318030000002
+auckland_rlf,Auckland,New Zealand,November,Auckland,rlf,,2013,2013-11-01,Auckland,city,"Auckland, New Zealand",-36.852095,174.76318030000002
+austin_bts,Austin,United States,April,Austin,bts,Texas,2018,2018-04-01,Austin,city,"Austin, Texas, United States",30.2711286,-97.7436995
+austin_icon,Austin,United States,January,Austin,icon,Texas,2009,2009-01-01,Austin,city,"Austin, Texas, United States",30.2711286,-97.7436995
+austin_yah,Austin,United States,March,Austin,yah,Texas,2013,2013-03-01,Austin,city,"Austin, Texas, United States",30.2711286,-97.7436995
+australia_icon,,Australia,January,Australia,icon,,2008,2008-01-01,,country,Australia,-24.7761086,134.755
+australia_rlf,,Australia,January,Australia,rlf,,2015,2015-01-01,,country,Australia,-24.7761086,134.755
+australia_rlf_2,,Australia,November,Australia Green,rlf,,2016,2016-11-01,,country,Australia,-24.7761086,134.755
+australia_rlf_3,,Australia,November,Australia Red,rlf,,2018,2018-11-01,,country,Australia,-24.7761086,134.755
+australia_yah,,Australia,October,Australia,yah,,2016,2016-10-01,,country,Australia,-24.7761086,134.755
+australia_yahx,,Australia,October,Australia,yahx,,2017,2017-10-01,,country,Australia,-24.7761086,134.755
+austria_icon,,Austria,January,Austria,icon,,2009,2009-01-01,,country,Austria,47.2000338,13.199959
+austria_yah,,Austria,November,Austria,yah,,2017,2017-11-01,,country,Austria,47.2000338,13.199959
+austria_yaho,,Austria,April,Austria,yaho,,2019,2019-04-01,,country,Austria,47.2000338,13.199959
+austria_yahox,,Austria,November,Austria,yahox,,2018,2018-11-01,,country,Austria,47.2000338,13.199959
+austria_yahx,,Austria,November,Austria,yahx,,2018,2018-11-01,,country,Austria,47.2000338,13.199959
+ba_na_hills_yah,Ba Na Hills,Vietnam,April,Ba Na Hills,yah,,2019,2019-04-01,Ba Na Hills,city,"Ba Na Hills, Vietnam",16.0092775,107.98102790000002
+ba_na_hills_yaho,Ba Na Hills,Vietnam,April,Ba Na Hills,yaho,,2019,2019-04-01,Ba Na Hills,city,"Ba Na Hills, Vietnam",16.0092775,107.98102790000002
+bacolod_icon,Bacolod,Philippines,January,Bacolod,icon,,2009,2009-01-01,Bacolod City,city,"Bacolod, Philippines",10.6762836,122.95137859999998
+bacolod_yah,Bacolod,Philippines,April,Bacolod,yah,,2017,2017-04-01,Bacolod City,city,"Bacolod, Philippines",10.6762836,122.95137859999998
+baguio_icon,Baguio,Philippines,January,Baguio,icon,,2008,2008-01-01,Baguio,city,"Baguio, Philippines",16.412007,120.5933937
+baguio_icon_2,Baguio,Philippines,January,Baguio v.2,icon,,2016,2016-01-01,Baguio,city,"Baguio, Philippines",16.412007,120.5933937
+baguio_yah,Baguio,Philippines,February,Baguio,yah,,2017,2017-02-01,Baguio,city,"Baguio, Philippines",16.412007,120.5933937
+bahamas_bts,,Bahamas,December,Bahamas,bts,,2018,2018-12-01,,country,Bahamas,24.7736546,-78.0000547
+bahamas_icon,,Bahamas,January,Bahamas,icon,,2011,2011-01-01,,country,Bahamas,24.7736546,-78.0000547
+bahrain_icon,,Bahrain,January,Bahrain,icon,,2009,2009-01-01,,country,Bahrain,26.155124899999997,50.5344606
+bahrain_icon_2,,Bahrain,January,Bahrain v.2,icon,,2012,2012-01-01,,country,Bahrain,26.155124899999997,50.5344606
+bahrain_yah,,Bahrain,August,Bahrain,yah,,2018,2018-08-01,,country,Bahrain,26.155124899999997,50.5344606
+baku_icon,Baku,Azerbaijan,January,Baku,icon,,2015,2015-01-01,Baku,city,"Baku, Azerbaijan",40.3754434,49.8326748
+balearic_islands_yah,,Spain,May,Balearic Islands,yah,,2019,2019-05-01,,country,Spain,39.3262345,-4.838064900000001
+bali_icon,Bali,Indonesia,January,Bali,icon,,2008,2008-01-01,Bali,city,"Bali, Indonesia",-8.4560181,115.270385511912
+banff_bts,Banff,Canada,May,Banff,bts,Alberta,2018,2018-05-01,Banff,city,"Banff, Alberta, Canada",51.177778100000005,-115.5682504
+banff_icon,Banff,Canada,January,Banff,icon,Alberta,2009,2009-01-01,Banff,city,"Banff, Alberta, Canada",51.177778100000005,-115.5682504
+banff_yah,Banff,Canada,April,Banff,yah,Alberta,2013,2013-04-01,Banff,city,"Banff, Alberta, Canada",51.177778100000005,-115.5682504
+bangkok_icon,Bangkok,Thailand,January,Bangkok,icon,,2009,2009-01-01,Bangkok,city,"Bangkok, Thailand",13.7538929,100.8160803
+bangkok_rlf,Bangkok,Thailand,November,Bangkok,rlf,,2014,2014-11-01,Bangkok,city,"Bangkok, Thailand",13.7538929,100.8160803
+bangkok_rlf_2,Bangkok,Thailand,November,Bangkok Green,rlf,,2015,2015-11-01,Bangkok,city,"Bangkok, Thailand",13.7538929,100.8160803
+bangkok_rlf_3,Bangkok,Thailand,November,Bangkok Silver,rlf,,2016,2016-11-01,Bangkok,city,"Bangkok, Thailand",13.7538929,100.8160803
+bangkok_rlf_4,Bangkok,Thailand,November,Bangkok Blue,rlf,,2017,2017-11-01,Bangkok,city,"Bangkok, Thailand",13.7538929,100.8160803
+baotou_icon,Baotou,China,January,Baotou,icon,,2014,2014-01-01,Baotou,city,"Baotou, China",40.654915700000004,109.83445859999999
+baotou_yah,Baotou,China,January,Baotou,yah,,2019,2019-01-01,Baotou,city,"Baotou, China",40.654915700000004,109.83445859999999
+barcelona_icon,Barcelona,Spain,January,Barcelona,icon,,2008,2008-01-01,Barcelona,city,"Barcelona, Spain",41.3828939,2.1774322
+barcelona_yah,Barcelona,Spain,August,Barcelona,yah,,2016,2016-08-01,Barcelona,city,"Barcelona, Spain",41.3828939,2.1774322
+basel_icon,Basel,Switzerland,January,Basel,icon,,2009,2009-01-01,Basel,city,"Basel, Switzerland",47.55810770000001,7.5878261
+batangas_icon,Batangas,Philippines,January,Batangas,icon,,2011,2011-01-01,Batangas,city,"Batangas, Philippines",13.916453,121.08648840000001
+batangas_yah,Batangas,Philippines,April,Batangas,yah,,2017,2017-04-01,Batangas,city,"Batangas, Philippines",13.916453,121.08648840000001
+beijing_icon,Beijing,China,January,Beijing,icon,,2008,2008-01-01,Beijing,city,"Beijing, China",40.190632,116.412144
+beijing_rlf,Beijing,China,January,Beijing Blue,rlf,,2012,2012-01-01,Beijing,city,"Beijing, China",40.190632,116.412144
+beijing_rlf_2,Beijing,China,November,Beijing Gold,rlf,,2014,2014-11-01,Beijing,city,"Beijing, China",40.190632,116.412144
+beijing_rlf_3,Beijing,China,November,Beijing Green,rlf,,2015,2015-11-01,Beijing,city,"Beijing, China",40.190632,116.412144
+beijing_rlf_4,Beijing,China,November,Beijing Silver,rlf,,2016,2016-11-01,Beijing,city,"Beijing, China",40.190632,116.412144
+beijing_yah,Beijing,China,September,Beijing,yah,,2017,2017-09-01,Beijing,city,"Beijing, China",40.190632,116.412144
+belfast_icon,Belfast,United Kingdom,January,Belfast,icon,Northern Ireland,2009,2009-01-01,Belfast,city,"Belfast, Northern Ireland, United Kingdom",54.5964411,-5.9302760999999995
+belgium_icon,,Belgium,January,Belgium,icon,,2010,2010-01-01,,country,Belgium,50.6402809,4.666714499999999
+belgium_yah,,Belgium,September,Belgium,yah,,2018,2018-09-01,,country,Belgium,50.6402809,4.666714499999999
+belgium_yaho,,Belgium,May,Belgium,yaho,,2019,2019-05-01,,country,Belgium,50.6402809,4.666714499999999
+belgium_yahox,,Belgium,November,Belgium,yahox,,2018,2018-11-01,,country,Belgium,50.6402809,4.666714499999999
+belgium_yahx,,Belgium,November,Belgium,yahx,,2018,2018-11-01,,country,Belgium,50.6402809,4.666714499999999
+bengbu_yah,Bengbu,China,September,Bengbu,yah,,2019,2019-09-01,Bengbu,city,"Bengbu, China",32.9176422,117.38256729999999
+bergen_icon,Bergen,Norway,January,Bergen,icon,,2014,2014-01-01,Bergen,city,"Bergen, Norway",60.39430550000001,5.3259192
+bergen_yah,Bergen,Norway,June,Bergen,yah,,2019,2019-06-01,Bergen,city,"Bergen, Norway",60.39430550000001,5.3259192
+berlin_icon,Berlin,Germany,January,Berlin,icon,,2009,2009-01-01,Berlin,city,"Berlin, Germany",52.517036499999996,13.388859900000002
+berlin_icon_2,Berlin,Germany,January,Berlin v.2,icon,,2015,2015-01-01,Berlin,city,"Berlin, Germany",52.517036499999996,13.388859900000002
+berlin_rlf,Berlin,Germany,January,Berlin,rlf,,2013,2013-01-01,Berlin,city,"Berlin, Germany",52.517036499999996,13.388859900000002
+berlin_rlf_2,Berlin,Germany,November,Berlin Red,rlf,,2013,2013-11-01,Berlin,city,"Berlin, Germany",52.517036499999996,13.388859900000002
+berlin_rlf_3,Berlin,Germany,November,Berlin Gold,rlf,,2014,2014-11-01,Berlin,city,"Berlin, Germany",52.517036499999996,13.388859900000002
+berlin_rlf_4,Berlin,Germany,November,Berlin Green,rlf,,2015,2015-11-01,Berlin,city,"Berlin, Germany",52.517036499999996,13.388859900000002
+berlin_yah,Berlin,Germany,May,Berlin,yah,,2016,2016-05-01,Berlin,city,"Berlin, Germany",52.517036499999996,13.388859900000002
+berlin_yaho,Berlin,Germany,October,Berlin,yaho,,2016,2016-10-01,Berlin,city,"Berlin, Germany",52.517036499999996,13.388859900000002
+berlin_yahx,Berlin,Germany,October,Berlin,yahx,,2016,2016-10-01,Berlin,city,"Berlin, Germany",52.517036499999996,13.388859900000002
+berlin_yahx_2,Berlin,Germany,November,Berlin v.2,yahx,,2017,2017-11-01,Berlin,city,"Berlin, Germany",52.517036499999996,13.388859900000002
+berne_icon,Berne,Switzerland,January,Berne,icon,,2009,2009-01-01,Bern,city,"Berne, Switzerland",46.9482713,7.4514512
+bielefeld_icon,Bielefeld,Germany,January,Bielefeld,icon,,2011,2011-01-01,Bielefeld,city,"Bielefeld, Germany",52.0191005,8.531007
+bilbao_yah,Bilbao,Spain,June,Bilbao,yah,,2019,2019-06-01,Bilbao,city,"Bilbao, Spain",43.2630051,-2.9349915
+birmingham_yah,Birmingham,United Kingdom,August,Birmingham,yah,England,2016,2016-08-01,Birmingham,city,"Birmingham, England, United Kingdom",52.47753960000001,-1.894053
+bodrum_yah,Bodrum,Turkey,September,Bodrum,yah,,2016,2016-09-01,Bodrum,city,"Bodrum, Turkey",37.06681635,27.4845304318967
+bogota_bts,Bogota,Colombia,August,Bogota,bts,,2018,2018-08-01,Bogota,city,"Bogota, Colombia",4.59808,-74.0760439
+bolivia_icon,,Bolivia,January,Bolivia,icon,,2015,2015-01-01,,country,Bolivia,-17.056869600000002,-64.9912286
+bonn_icon,Bonn,Germany,January,Bonn,icon,,2009,2009-01-01,Bonn,city,"Bonn, Germany",50.735851000000004,7.10066
+boracay_icon,Boracay,Philippines,January,Boracay,icon,,2012,2012-01-01,Boracay,city,"Boracay, Philippines",11.9687199,121.923918
+boracay_icon_2,Boracay,Philippines,January,Boracay v.2,icon,,2016,2016-01-01,Boracay,city,"Boracay, Philippines",11.9687199,121.923918
+boracay_rlf,Boracay,Philippines,January,Boracay,rlf,,2015,2015-01-01,Boracay,city,"Boracay, Philippines",11.9687199,121.923918
+boracay_yah,Boracay,Philippines,February,Boracay,yah,,2017,2017-02-01,Boracay,city,"Boracay, Philippines",11.9687199,121.923918
+bordeaux_icon,Bordeaux,France,January,Bordeaux,icon,,2015,2015-01-01,Bordeaux,city,"Bordeaux, France",44.841225,-0.5800364
+bordeaux_yah,Bordeaux,France,June,Bordeaux,yah,,2019,2019-06-01,Bordeaux,city,"Bordeaux, France",44.841225,-0.5800364
+boston_btr1,Boston,United States,May,Boston v.1,bts,Massachusetts,2018,2018-05-01,Boston,city,"Boston, Massachusetts, United States",42.3602534,-71.0582912
+boston_bts,Boston,United States,June,Boston v.2,bts,Massachusetts,2018,2018-06-01,Boston,city,"Boston, Massachusetts, United States",42.3602534,-71.0582912
+boston_btx,Boston,United States,November,Boston,btx,Massachusetts,2018,2018-11-01,Boston,city,"Boston, Massachusetts, United States",42.3602534,-71.0582912
+boston_icon,Boston,United States,January,Boston,icon,Massachusetts,2008,2008-01-01,Boston,city,"Boston, Massachusetts, United States",42.3602534,-71.0582912
+boston_rlf,Boston,United States,January,Boston,rlf,Massachusetts,2012,2012-01-01,Boston,city,"Boston, Massachusetts, United States",42.3602534,-71.0582912
+boston_yah,Boston,United States,March,Boston,yah,Massachusetts,2013,2013-03-01,Boston,city,"Boston, Massachusetts, United States",42.3602534,-71.0582912
+boston_yaho,Boston,United States,August,Boston,yaho,Massachusetts,2016,2016-08-01,Boston,city,"Boston, Massachusetts, United States",42.3602534,-71.0582912
+brasil_bts,,Brazil,November,Brasil,bts,,2018,2018-11-01,,country,Brazil,-10.333333300000001,-53.2
+brasil_icon,,Brazil,January,Brasil,icon,,2011,2011-01-01,,country,Brazil,-10.333333300000001,-53.2
+braunschweig_icon,Brunswick,Germany,January,Braunschweig,icon,,2011,2011-01-01,Braunschweig,city,"Brunswick, Germany",52.26465770000001,10.523606599999999
+bremen_icon,Bremen,Germany,January,Bremen,icon,,2009,2009-01-01,Bremen,city,"Bremen, Germany",53.0758196,8.8071646
+bremen_yah,Bremen,Germany,July,Bremen,yah,,2019,2019-07-01,Bremen,city,"Bremen, Germany",53.0758196,8.8071646
+brisbane_icon,Brisbane,Australia,January,Brisbane,icon,Queensland,2008,2008-01-01,Brisbane,city,"Brisbane, Queensland, Australia",-27.468968199999996,153.02349909999998
+brisbane_rlf,Brisbane,Australia,January,Brisbane Green,rlf,,2015,2015-01-01,Brisbane,city,"Brisbane, Australia",-27.468968199999996,153.02349909999998
+brisbane_rlf_2,Brisbane,Australia,January,Brisbane,rlf,,2016,2016-01-01,Brisbane,city,"Brisbane, Australia",-27.468968199999996,153.02349909999998
+brisbane_rlf_3,Brisbane,Australia,November,Brisbane Green v.2,rlf,,2016,2016-11-01,Brisbane,city,"Brisbane, Australia",-27.468968199999996,153.02349909999998
+brisbane_yah,Brisbane,Australia,October,Brisbane,yah,Queensland,2016,2016-10-01,Brisbane,city,"Brisbane, Queensland, Australia",-27.468968199999996,153.02349909999998
+british_columbia_bts,,Canada,June,British Columbia,bts,British Columbia,2018,2018-06-01,,state,"British Columbia, Canada",55.001251,-125.00244099999999
+brno_icon,Brno,Czech Republic,January,Brno,icon,,2015,2015-01-01,Brno,city,"Brno, Czech Republic",49.1922443,16.6113382
+brugge_icon,Brugge,Belgium,January,Brugge,icon,,2013,2013-01-01,Brugge,city,"Brugge, Belgium",51.208552600000004,3.226772
+brugge_yah,Brugge,Belgium,April,Brugge,yah,,2019,2019-04-01,Brugge,city,"Brugge, Belgium",51.208552600000004,3.226772
+brunei_icon,,Brunei,January,Brunei,icon,,2014,2014-01-01,,country,Brunei,4.4137154999999995,114.5653908
+brunei_rlf,,Brunei,January,Brunei,rlf,,2015,2015-01-01,,country,Brunei,4.4137154999999995,114.5653908
+brussels_icon,Brussels,Belgium,January,Brussels,icon,,2010,2010-01-01,Brussels,city,"Brussels, Belgium",50.8465573,4.351697
+brussels_yah,Brussels,Belgium,December,Brussels,yah,,2016,2016-12-01,Brussels,city,"Brussels, Belgium",50.8465573,4.351697
+bucharest_icon,Bucharest,Romania,January,Bucharest,icon,,2009,2009-01-01,Bucharest,city,"Bucharest, Romania",44.4361414,26.1027202
+bucharest_yah,Bucharest,Romania,August,Bucharest,yah,,2019,2019-08-01,Bucharest,city,"Bucharest, Romania",44.4361414,26.1027202
+budapest_icon,Budapest,Hungary,January,Budapest,icon,,2010,2010-01-01,Budapest,city,"Budapest, Hungary",47.4983815,19.0404707
+budapest_yah,Budapest,Hungary,November,Budapest,yah,,2016,2016-11-01,Budapest,city,"Budapest, Hungary",47.4983815,19.0404707
+budapest_yah_2,Budapest,Hungary,January,Budapest v.2,yah,,2018,2018-01-01,Budapest,city,"Budapest, Hungary",47.4983815,19.0404707
+buenos_aires_bts,Buenos Aires,Argentina,March,Buenos Aires,bts,,2019,2019-03-01,Buenos Aires,city,"Buenos Aires, Argentina",-34.607561600000004,-58.437076
+buenos_aires_icon,Buenos Aires,Argentina,January,Buenos Aires,icon,,2010,2010-01-01,Buenos Aires,city,"Buenos Aires, Argentina",-34.607561600000004,-58.437076
+bulacan_yah,Bulacan,Philippines,March,Bulacan,yah,,2017,2017-03-01,Bulacan,city,"Bulacan, Philippines",15.0,121.08333300000001
+bulgaria_icon,,Bulgaria,January,Bulgaria,icon,,2009,2009-01-01,,country,Bulgaria,42.6073975,25.4856617
+bulgaria_yah,,Bulgaria,October,Bulgaria,yah,,2018,2018-10-01,,country,Bulgaria,42.6073975,25.4856617
+bulgaria_yaho,,Bulgaria,March,Bulgaria,yaho,,2019,2019-03-01,,country,Bulgaria,42.6073975,25.4856617
+busan_rlf,Busan,South Korea,January,Busan,rlf,,2014,2014-01-01,Busan,city,"Busan, South Korea",35.1799528,129.0752365
+busan_rlf_2,Busan,South Korea,November,Busan Gold,rlf,,2014,2014-11-01,Busan,city,"Busan, South Korea",35.1799528,129.0752365
+caerdydd_yah,Cardiff,United Kingdom,May,Caerdydd,yah,Wales,2017,2017-05-01,Cardiff,city,"Cardiff, Wales, United Kingdom",51.481654600000006,-3.1791934
+cagayan_de_oro_icon,Cagayan de Oro,Philippines,January,Cagayan de Oro,icon,,2011,2011-01-01,Cagayan de Oro,city,"Cagayan de Oro, Philippines",8.42980265,124.682410212383
+cagayan_de_oro_yah,Cagayan de Oro,Philippines,April,Cagayan de Oro,yah,,2017,2017-04-01,Cagayan de Oro,city,"Cagayan de Oro, Philippines",8.42980265,124.682410212383
+cairo_icon,Cairo,Egypt,January,Cairo,icon,,2009,2009-01-01,Cairo,city,"Cairo, Egypt",30.048819,31.243665999999997
+calgary_bts,Calgary,Canada,June,Calgary,bts,Alberta,2018,2018-06-01,Calgary,city,"Calgary, Alberta, Canada",51.02532675,-114.049868485806
+calgary_icon,Calgary,Canada,January,Calgary,icon,Alberta,2009,2009-01-01,Calgary,city,"Calgary, Alberta, Canada",51.02532675,-114.049868485806
+calgary_yah,Calgary,Canada,April,Calgary,yah,Alberta,2013,2013-04-01,Calgary,city,"Calgary, Alberta, Canada",51.02532675,-114.049868485806
+calgary_yaho,Calgary,Canada,February,Calgary,yaho,Alberta,2017,2017-02-01,Calgary,city,"Calgary, Alberta, Canada",51.02532675,-114.049868485806
+cali_bts,Cali,Colombia,August,Cali,bts,,2018,2018-08-01,Cali,city,"Cali, Colombia",3.4517922999999997,-76.5324943
+california_bto,,United States,August,California,bto,California,2018,2018-08-01,,state,"California, United States",36.7014631,-118.75599740000001
+california_bts,,United States,March,California,bts,California,2018,2018-03-01,,state,"California, United States",36.7014631,-118.75599740000001
+california_btx,,United States,October,California,btx,California,2018,2018-10-01,,state,"California, United States",36.7014631,-118.75599740000001
+california_icon,,United States,January,California,icon,California,2009,2009-01-01,,state,"California, United States",36.7014631,-118.75599740000001
+california_yah,,United States,March,California,yah,California,2013,2013-03-01,,state,"California, United States",36.7014631,-118.75599740000001
+california_yaho,,United States,August,California,yaho,California,2016,2016-08-01,,state,"California, United States",36.7014631,-118.75599740000001
+california_yahox,,United States,November,California,yahox,California,2014,2014-11-01,,state,"California, United States",36.7014631,-118.75599740000001
+cambodia_icon,,Cambodia,January,Cambodia,icon,,2015,2015-01-01,,country,Cambodia,13.5066394,104.869423
+cambodia_yah,,Cambodia,August,Cambodia,yah,,2018,2018-08-01,,country,Cambodia,13.5066394,104.869423
+cambodia_yaho,,Cambodia,August,Cambodia,yaho,,2018,2018-08-01,,country,Cambodia,13.5066394,104.869423
+cambridge_icon,Cambridge,United Kingdom,January,Cambridge,icon,England,2015,2015-01-01,Cambridge,city,"Cambridge, England, United Kingdom",52.2034823,0.1235817
+cambridge_yah,Cambridge,United States,April,Cambridge,yah,Massachusetts,2013,2013-04-01,Cambridge,city,"Cambridge, Massachusetts, United States",42.3750997,-71.1056157
+cameron_highlands_yah,,Malaysia,November,Cameron Highlands,yah,,2017,2017-11-01,,country,Malaysia,4.5693754,102.2656823
+canada_bto,,Canada,August,Canada,bto,,2018,2018-08-01,,country,Canada,61.0666922,-107.9917071
+canada_bts,,Canada,June,Canada v.1,bts,,2018,2018-06-01,,country,Canada,61.0666922,-107.9917071
+canada_bts_2,,Canada,December,Canada v.2,bts,,2018,2018-12-01,,country,Canada,61.0666922,-107.9917071
+canada_btx,,Canada,October,Canada,btx,,2018,2018-10-01,,country,Canada,61.0666922,-107.9917071
+canada_icon,,Canada,January,Canada,icon,,2009,2009-01-01,,country,Canada,61.0666922,-107.9917071
+canada_yah,,Canada,March,Canada,yah,,2013,2013-03-01,,country,Canada,61.0666922,-107.9917071
+canada_yah_2,,Canada,March,Canada v.2,yah,,2014,2014-03-01,,country,Canada,61.0666922,-107.9917071
+canada_yaho,,Canada,February,Canada,yaho,,2017,2017-02-01,,country,Canada,61.0666922,-107.9917071
+canary_islands_yah,,Spain,June,Canary Islands,yah,,2019,2019-06-01,,country,Spain,39.3262345,-4.838064900000001
+cancun_bts,Cancun,Mexico,August,Cancún,bts,Quintana Roo,2018,2018-08-01,Cancun,city,"Cancun, Quintana Roo, Mexico",21.1617854,-86.8510468
+cancun_icon,Cancun,Mexico,January,Cancún,icon,Quintana Roo,2009,2009-01-01,Cancun,city,"Cancun, Quintana Roo, Mexico",21.1617854,-86.8510468
+cancun_icon_2,Cancun,Mexico,January,Cancún v.2,icon,Quintana Roo,2011,2011-01-01,Cancun,city,"Cancun, Quintana Roo, Mexico",21.1617854,-86.8510468
+cannes_yah,Cannes,France,September,Cannes,yah,,2016,2016-09-01,Cannes,city,"Cannes, France",43.551519799999994,7.013441800000001
+cardiff_icon,Cardiff,United Kingdom,January,Cardiff,icon,Wales,2009,2009-01-01,Cardiff,city,"Cardiff, Wales, United Kingdom",51.481654600000006,-3.1791934
+casablanca_yah,Casablanca,Morocco,July,Casablanca,yah,,2017,2017-07-01,Casablanca,city,"Casablanca, Morocco",33.59506270000001,-7.6187768
+cayman_islands_bts,,Cayman Islands,August,Cayman Islands,bts,,2018,2018-08-01,,country,Cayman Islands,19.5417212,-80.5667132
+cebu_icon,Cebu,Philippines,January,Cebu,icon,,2009,2009-01-01,Cebu City,city,"Cebu, Philippines",10.45,123.84
+cebu_icon_2,Cebu,Philippines,January,Cebu v.2,icon,,2016,2016-01-01,Cebu City,city,"Cebu, Philippines",10.45,123.84
+cebu_rlf,Cebu,Philippines,January,Cebu,rlf,,2015,2015-01-01,Cebu City,city,"Cebu, Philippines",10.45,123.84
+cebu_rlf_2,Cebu,Philippines,November,Cebu Silver,rlf,,2016,2016-11-01,Cebu City,city,"Cebu, Philippines",10.45,123.84
+cebu_yah,Cebu,Philippines,February,Cebu,yah,,2017,2017-02-01,Cebu City,city,"Cebu, Philippines",10.45,123.84
+cebu_yahx,Cebu,Philippines,November,Cebu,yahx,,2017,2017-11-01,Cebu City,city,"Cebu, Philippines",10.45,123.84
+cebu_yahx_2,Cebu,Philippines,November,Cebu v.2,yahx,,2018,2018-11-01,Cebu City,city,"Cebu, Philippines",10.45,123.84
+changchun_icon,Changchun,China,January,Changchun,icon,,2012,2012-01-01,Changchun,city,"Changchun, China",43.888216799999995,125.3182578
+changchun_rlf,Changchun,China,November,Changchun Blue,rlf,,2016,2016-11-01,Changchun,city,"Changchun, China",43.888216799999995,125.3182578
+changchun_yah,Changchun,China,June,Changchun,yah,,2018,2018-06-01,Changchun,city,"Changchun, China",43.888216799999995,125.3182578
+changde_yah,Changde,China,September,Changde,yah,,2019,2019-09-01,Changde,city,"Changde, China",29.038201,111.6882053
+changsha_icon,Changsha,China,January,Changsha,icon,,2010,2010-01-01,Changsha,city,"Changsha, China",28.1979483,112.97133000000001
+changsha_rlf,Changsha,China,November,Changsha Blue,rlf,,2016,2016-11-01,Changsha,city,"Changsha, China",28.1979483,112.97133000000001
+changsha_yah,Changsha,China,September,Changsha,yah,,2017,2017-09-01,Changsha,city,"Changsha, China",28.1979483,112.97133000000001
+changzhou_rlf,Changzhou,China,November,Changzhou Blue,rlf,,2016,2016-11-01,Changzhou,city,"Changzhou, China",31.8129864,119.96920449999999
+charlotte_btr1,Charlotte,United States,May,Charlotte v.1,bts,North Carolina,2018,2018-05-01,Charlotte,city,"Charlotte, North Carolina, United States",35.2270869,-80.8431268
+charlotte_bts,Charlotte,United States,July,Charlotte v.2,bts,North Carolina,2018,2018-07-01,Charlotte,city,"Charlotte, North Carolina, United States",35.2270869,-80.8431268
+charlotte_icon,Charlotte,United States,January,Charlotte,icon,North Carolina,2008,2008-01-01,Charlotte,city,"Charlotte, North Carolina, United States",35.2270869,-80.8431268
+charlotte_yah,Charlotte,United States,March,Charlotte,yah,North Carolina,2013,2013-03-01,Charlotte,city,"Charlotte, North Carolina, United States",35.2270869,-80.8431268
+charlotte_yaho,Charlotte,United States,March,Charlotte,yaho,North Carolina,2017,2017-03-01,Charlotte,city,"Charlotte, North Carolina, United States",35.2270869,-80.8431268
+chengdu_icon,Chengdu,China,January,Chengdu,icon,,2008,2008-01-01,Chengdu,city,"Chengdu, China",30.662420500000003,104.0633219
+chengdu_rlf,Chengdu,China,January,Chengdu Blue,rlf,,2014,2014-01-01,Chengdu,city,"Chengdu, China",30.662420500000003,104.0633219
+chengdu_rlf_2,Chengdu,China,November,Chengdu Gold,rlf,,2014,2014-11-01,Chengdu,city,"Chengdu, China",30.662420500000003,104.0633219
+chengdu_rlf_3,Chengdu,China,November,Chengdu Green,rlf,,2015,2015-11-01,Chengdu,city,"Chengdu, China",30.662420500000003,104.0633219
+chengdu_rlf_4,Chengdu,China,November,Chengdu Silver,rlf,,2016,2016-11-01,Chengdu,city,"Chengdu, China",30.662420500000003,104.0633219
+chengdu_yah,Chengdu,China,September,Chengdu,yah,,2017,2017-09-01,Chengdu,city,"Chengdu, China",30.662420500000003,104.0633219
+chiangmai_icon,Chiangmai,Thailand,January,Chiangmai,icon,,2009,2009-01-01,Сhiang Mai,city,"Chiangmai, Thailand",18.790876,98.98804799999999
+chiapas_bts,,Mexico,March,Chiapas,bts,Chiapas,2019,2019-03-01,,state,"Chiapas, Mexico",16.500000099999998,-92.5000001
+chicago_bto,Chicago,United States,August,Chicago,bto,Illinois,2018,2018-08-01,Chicago,city,"Chicago, Illinois, United States",41.875561600000005,-87.6244212
+chicago_bts,Chicago,United States,April,Chicago,bts,Illinois,2018,2018-04-01,Chicago,city,"Chicago, Illinois, United States",41.875561600000005,-87.6244212
+chicago_btx,Chicago,United States,October,Chicago,btx,Illinois,2018,2018-10-01,Chicago,city,"Chicago, Illinois, United States",41.875561600000005,-87.6244212
+chicago_icon,Chicago,United States,January,Chicago,icon,Illinois,2008,2008-01-01,Chicago,city,"Chicago, Illinois, United States",41.875561600000005,-87.6244212
+chicago_yah,Chicago,United States,March,Chicago,yah,Illinois,2013,2013-03-01,Chicago,city,"Chicago, Illinois, United States",41.875561600000005,-87.6244212
+chicago_yaho,Chicago,United States,August,Chicago,yaho,Illinois,2016,2016-08-01,Chicago,city,"Chicago, Illinois, United States",41.875561600000005,-87.6244212
+chicago_yahox,Chicago,United States,November,Chicago,yahox,Illinois,2014,2014-11-01,Chicago,city,"Chicago, Illinois, United States",41.875561600000005,-87.6244212
+chihuahua_bts,Chihuahua,Mexico,January,Chihuahua,bts,Chihuahua,2019,2019-01-01,Chihuahua,city,"Chihuahua, Chihuahua, Mexico",28.938764000000003,-106.384451167241
+chihuahua_icon,Chihuahua,Mexico,January,Chihuahua,icon,Chihuahua,2008,2008-01-01,Chihuahua,city,"Chihuahua, Chihuahua, Mexico",28.938764000000003,-106.384451167241
+chile_bts,,Chile,August,Chile,bts,,2018,2018-08-01,,country,Chile,-31.7613365,-71.3187697
+chile_icon,,Chile,January,Chile,icon,,2010,2010-01-01,,country,Chile,-31.7613365,-71.3187697
+chile_icon_2,,Chile,January,Chile v.2,icon,,2016,2016-01-01,,country,Chile,-31.7613365,-71.3187697
+china_icon,,China,January,China,icon,,2008,2008-01-01,,country,China,35.000074,104.999927
+china_yahx,,China,June,China,yahx,,2018,2018-06-01,,country,China,35.000074,104.999927
+chongqing_icon,Chongqing,China,January,Chongqing,icon,,2008,2008-01-01,Chongqing,city,"Chongqing, China",29.5585712,106.5492822
+chongqing_rlf,Chongqing,China,November,Chongqing Blue,rlf,,2014,2014-11-01,Chongqing,city,"Chongqing, China",29.5585712,106.5492822
+chongqing_yah,Chongqing,China,September,Chongqing,yah,,2017,2017-09-01,Chongqing,city,"Chongqing, China",29.5585712,106.5492822
+ciudad_de_mexico_bts,Mexico City,Mexico,August,Ciudad de México,bts,State of Mexico,2018,2018-08-01,Mexico City,city,"Mexico City, State of Mexico, Mexico",19.501724,-99.06021390000001
+ciudad_de_mexico_icon,Mexico City,Mexico,January,Ciudad de México,icon,State of Mexico,2010,2010-01-01,Mexico City,city,"Mexico City, State of Mexico, Mexico",19.501724,-99.06021390000001
+cleveland_icon,Cleveland,United States,January,Cleveland,icon,Ohio,2008,2008-01-01,Cleveland,city,"Cleveland, Ohio, United States",41.5051613,-81.6934446
+cluj_napoca_icon,Cluj-Napoca,Romania,January,Cluj-Napoca,icon,,2009,2009-01-01,Cluj-Napoca,city,"Cluj-Napoca, Romania",46.769379,23.589954199999998
+colombia_bts,,Colombia,August,Colombia,bts,,2018,2018-08-01,,country,Colombia,2.8894433999999998,-73.78389200000001
+colombia_icon,,Colombia,January,Colombia,icon,,2014,2014-01-01,,country,Colombia,2.8894433999999998,-73.78389200000001
+colorado_bto,,United States,August,Colorado,bto,Colorado,2018,2018-08-01,,state,"Colorado, United States",38.7251776,-105.60771670000001
+colorado_bts,,United States,March,Colorado,bts,Colorado,2018,2018-03-01,,state,"Colorado, United States",38.7251776,-105.60771670000001
+colorado_btx,,United States,October,Colorado,btx,Colorado,2018,2018-10-01,,state,"Colorado, United States",38.7251776,-105.60771670000001
+colorado_icon,,United States,January,Colorado,icon,Colorado,2009,2009-01-01,,state,"Colorado, United States",38.7251776,-105.60771670000001
+colorado_yah,,United States,March,Colorado,yah,Colorado,2013,2013-03-01,,state,"Colorado, United States",38.7251776,-105.60771670000001
+colorado_yaho,,United States,August,Colorado,yaho,Colorado,2016,2016-08-01,,state,"Colorado, United States",38.7251776,-105.60771670000001
+connecticut_bto,,United States,August,Connecticut,bto,Connecticut,2018,2018-08-01,,state,"Connecticut, United States",41.6500201,-72.7342163
+connecticut_bts,,United States,March,Connecticut,bts,Connecticut,2018,2018-03-01,,state,"Connecticut, United States",41.6500201,-72.7342163
+copenhagen_icon,Copenhagen,Denmark,January,Copenhagen,icon,,2010,2010-01-01,Copenhagen,city,"Copenhagen, Denmark",55.6867243,12.5700724
+copenhagen_yah,Copenhagen,Denmark,July,Copenhagen,yah,,2016,2016-07-01,Copenhagen,city,"Copenhagen, Denmark",55.6867243,12.5700724
+cordoba_bts,Cordoba,Argentina,August,Córdoba,bts,,2018,2018-08-01,Cordoba,city,"Cordoba, Argentina",-32.0967361,-63.794092299999996
+corfu_icon,Corfu,Greece,January,Corfu,icon,,2009,2009-01-01,Corfu,city,"Corfu, Greece",39.591337,19.8596189187339
+corfu_yah,Corfu,Greece,November,Corfu,yah,,2018,2018-11-01,Corfu,city,"Corfu, Greece",39.591337,19.8596189187339
+costa_rica_bts,,Costa Rica,December,Costa Rica,bts,,2018,2018-12-01,,country,Costa Rica,10.2735633,-84.0739102
+costa_rica_icon,,Costa Rica,January,Costa Rica,icon,,2012,2012-01-01,,country,Costa Rica,10.2735633,-84.0739102
+cozumel_bts,Cozumel,Mexico,January,Cozumel,bts,Quintana Roo,2019,2019-01-01,Cozumel,city,"Cozumel, Quintana Roo, Mexico",20.4317585,-86.9202745659766
+cozumel_icon,Cozumel,Mexico,January,Cozumel,icon,Quintana Roo,2011,2011-01-01,Cozumel,city,"Cozumel, Quintana Roo, Mexico",20.4317585,-86.9202745659766
+crete_icon,Crete,Greece,January,Crete,icon,,2009,2009-01-01,Crete,city,"Crete, Greece",35.2788061,24.9342885396631
+culiacan_icon,Culiacan,Mexico,January,Culiacán,icon,Sinaloa,2009,2009-01-01,Culiacan,city,"Culiacan, Sinaloa, Mexico",24.7978965,-107.393395
+curacao_icon,,Curacao,January,Curaçao,icon,,2011,2011-01-01,,country,Curacao,12.1845,-68.9640875031406
+cusco_icon,Cusco,Peru,January,Cusco,icon,,2013,2013-01-01,Cusco,city,"Cusco, Peru",-13.521234900000001,-71.97112440000001
+cyprus_icon,,Cyprus,January,Cyprus,icon,,2009,2009-01-01,,country,Cyprus,34.982301799999995,33.1451285
+cyprus_yah,,Cyprus,June,Cyprus,yah,,2018,2018-06-01,,country,Cyprus,34.982301799999995,33.1451285
+cyprus_yaho,,Cyprus,March,Cyprus,yaho,,2019,2019-03-01,,country,Cyprus,34.982301799999995,33.1451285
+czech_republic_icon,,Czech Republic,January,Czech Republic,icon,,2010,2010-01-01,,country,Czech Republic,49.816700299999994,15.4749544
+czech_republic_yah,,Czech Republic,July,Czech Republic,yah,,2018,2018-07-01,,country,Czech Republic,49.816700299999994,15.4749544
+czech_republic_yaho,,Czech Republic,January,Czech Republic,yaho,,2019,2019-01-01,,country,Czech Republic,49.816700299999994,15.4749544
+czech_republic_yahox,,Czech Republic,November,Czech Republic,yahox,,2018,2018-11-01,,country,Czech Republic,49.816700299999994,15.4749544
+czech_republic_yahx,,Czech Republic,November,Czech Republic,yahx,,2018,2018-11-01,,country,Czech Republic,49.816700299999994,15.4749544
+dali_city_icon,Dali,China,January,Dali City,icon,,2016,2016-01-01,Dali,city,"Dali, China",25.7484555,100.20213709999999
+dali_yah,Dali,China,June,Dali,yah,,2018,2018-06-01,Dali,city,"Dali, China",25.7484555,100.20213709999999
+dalian_icon,Dalian,China,January,Dalian,icon,,2009,2009-01-01,Dalian,city,"Dalian, China",38.9181714,121.62829450000001
+dalian_rlf,Dalian,China,November,Dalian Blue,rlf,,2016,2016-11-01,Dalian,city,"Dalian, China",38.9181714,121.62829450000001
+dalian_yah,Dalian,China,September,Dalian,yah,,2017,2017-09-01,Dalian,city,"Dalian, China",38.9181714,121.62829450000001
+dallas_bto,Dallas,United States,August,Dallas,bto,Texas,2018,2018-08-01,Dallas,city,"Dallas, Texas, United States",32.7762719,-96.7968559
+dallas_bts,Dallas,United States,April,Dallas,bts,Texas,2018,2018-04-01,Dallas,city,"Dallas, Texas, United States",32.7762719,-96.7968559
+dallas_icon,Dallas,United States,January,Dallas,icon,Texas,2009,2009-01-01,Dallas,city,"Dallas, Texas, United States",32.7762719,-96.7968559
+dallas_yah,Dallas,United States,March,Dallas,yah,Texas,2013,2013-03-01,Dallas,city,"Dallas, Texas, United States",32.7762719,-96.7968559
+dallas_yaho,Dallas,United States,August,Dallas,yaho,Texas,2016,2016-08-01,Dallas,city,"Dallas, Texas, United States",32.7762719,-96.7968559
+danang_yah,Da Nang,Vietnam,February,Danang,yah,,2018,2018-02-01,Da Nang,city,"Da Nang, Vietnam",16.067999999999998,108.212
+danang_yaho,Da Nang,Vietnam,February,Danang,yaho,,2018,2018-02-01,Da Nang,city,"Da Nang, Vietnam",16.067999999999998,108.212
+darmstadt_icon,Darmstadt,Germany,January,Darmstadt,icon,,2012,2012-01-01,Darmstadt,city,"Darmstadt, Germany",49.872775,8.651177
+datong_yah,Datong,China,January,Datong,yah,,2019,2019-01-01,Datong,city,"Datong, China",40.0921758,113.2950953
+davao_icon,Davao,Philippines,January,Davao,icon,,2011,2011-01-01,Davao,city,"Davao, Philippines",7.0645241,125.60841429999999
+davao_yah,Davao,Philippines,April,Davao,yah,,2017,2017-04-01,Davao,city,"Davao, Philippines",7.0645241,125.60841429999999
+delaware_bto,,United States,August,Delaware,bto,Delaware,2018,2018-08-01,,state,"Delaware, United States",38.6920451,-75.4013315
+delaware_btr1,,United States,April,Delaware v.1,bts,Delaware,2018,2018-04-01,,state,"Delaware, United States",38.6920451,-75.4013315
+delaware_bts,,United States,June,Delaware v.2,bts,Delaware,2018,2018-06-01,,state,"Delaware, United States",38.6920451,-75.4013315
+den_haag_icon,The Hague,Netherlands,January,Den Haag,icon,,2012,2012-01-01,The Hague,city,"The Hague, Netherlands",52.07494555,4.269680220536451
+den_haag_yah,The Hague,Netherlands,August,Den Haag,yah,,2017,2017-08-01,The Hague,city,"The Hague, Netherlands",52.07494555,4.269680220536451
+denmark_icon,,Denmark,January,Denmark,icon,,2013,2013-01-01,,country,Denmark,55.670249,10.333328300000002
+denmark_yah,,Denmark,September,Denmark,yah,,2018,2018-09-01,,country,Denmark,55.670249,10.333328300000002
+denmark_yaho,,Denmark,August,Denmark,yaho,,2019,2019-08-01,,country,Denmark,55.670249,10.333328300000002
+denver_bts,Denver,United States,April,Denver v.1,bts,Colorado,2018,2018-04-01,Denver,city,"Denver, Colorado, United States",39.7392364,-104.98486229999999
+denver_bts_2,Denver,United States,January,Denver v.2,bts,Colorado,2019,2019-01-01,Denver,city,"Denver, Colorado, United States",39.7392364,-104.98486229999999
+denver_icon,Denver,United States,January,Denver,icon,Colorado,2009,2009-01-01,Denver,city,"Denver, Colorado, United States",39.7392364,-104.98486229999999
+denver_yah,Denver,United States,April,Denver,yah,Colorado,2013,2013-04-01,Denver,city,"Denver, Colorado, United States",39.7392364,-104.98486229999999
+denver_yaho,Denver,United States,March,Denver,yaho,Colorado,2017,2017-03-01,Denver,city,"Denver, Colorado, United States",39.7392364,-104.98486229999999
+detroit_btr1,Detroit,United States,February,Detroit v.1,bts,Michigan,2018,2018-02-01,Detroit,city,"Detroit, Michigan, United States",42.331550899999996,-83.04664029999999
+detroit_bts,Detroit,United States,June,Detroit v.2,bts,Michigan,2018,2018-06-01,Detroit,city,"Detroit, Michigan, United States",42.331550899999996,-83.04664029999999
+detroit_icon,Detroit,United States,January,Detroit,icon,Michigan,2009,2009-01-01,Detroit,city,"Detroit, Michigan, United States",42.331550899999996,-83.04664029999999
+detroit_yah,Detroit,United States,March,Detroit,yah,Michigan,2013,2013-03-01,Detroit,city,"Detroit, Michigan, United States",42.331550899999996,-83.04664029999999
+deyang_icon,Deyang,China,January,Deyang,icon,,2017,2017-01-01,Deyang,city,"Deyang, China",31.1244028,104.39013
+deyang_yah,Deyang,China,September,Deyang,yah,,2019,2019-09-01,Deyang,city,"Deyang, China",31.1244028,104.39013
+disney_california_adventure_bto,Anaheim,United States,July,Disney California Adventure,bto,California,2019,2019-07-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disney_california_adventure_bts,Anaheim,United States,April,Disney California Adventure,bts,California,2019,2019-04-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disney_california_adventure_yah,Anaheim,United States,January,Disney California Adventure,yah,California,2015,2015-01-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disney_california_adventure_yah_2,Anaheim,United States,October,Disney California Adventure v.2,yah,California,2017,2017-10-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disney_california_adventure_yaho,Anaheim,United States,November,Disney California Adventure,yaho,California,2017,2017-11-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disney_california_adventure_yaho_2,Anaheim,United States,August,Disney California Adventure v.2,yaho,California,2016,2016-08-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disneyland_bto,Anaheim,United States,July,Disneyland,bto,California,2019,2019-07-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disneyland_bts,Anaheim,United States,April,Disneyland,bts,California,2019,2019-04-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disneyland_paris_yah,Marne la Vallee,France,June,Disneyland Paris,yah,,2018,2018-06-01,Marne la Vallee,special,"Marne la Vallee, France",48.8497513,2.6715919723916803
+disneyland_yah,Anaheim,United States,January,Disneyland,yah,California,2015,2015-01-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disneyland_yah_2,Anaheim,United States,August,Disneyland v.2,yah,California,2017,2017-08-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disneyland_yah_3,Anaheim,United States,April,Disneyland v.3,yah,California,2018,2018-04-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disneyland_yah_4,Anaheim,United States,June,Disneyland v.4,yah,California,2018,2018-06-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disneyland_yaho,Anaheim,United States,August,Disneyland,yaho,California,2016,2016-08-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disneyland_yaho_2,Anaheim,United States,November,Disneyland v.2,yaho,California,2017,2017-11-01,Anaheim,special,"Anaheim, California, United States",33.8347516,-117.911732
+disneys_animal_kingdom_bto,Orlando,United States,July,Disney's Animal Kingdom,bto,Florida,2019,2019-07-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+disneys_animal_kingdom_bts,Orlando,United States,April,Disney's Animal Kingdom,bts,Florida,2019,2019-04-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+disneys_animal_kingdom_yah,Orlando,United States,January,Disney's Animal Kingdom,yah,Florida,2015,2015-01-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+disneys_animal_kingdom_yah_2,Orlando,United States,September,Disney's Animal Kingdom v.2,yah,Florida,2017,2017-09-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+disneys_animal_kingdom_yaho,Orlando,United States,August,Disney's Animal Kingdom,yaho,Florida,2016,2016-08-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+disneys_animal_kingdom_yaho_2,Orlando,United States,November,Disney's Animal Kingdom v.2,yaho,Florida,2017,2017-11-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+disneys_hollywood studios_yah,Lake Buena Vista,United States,January,Disney's Hollywood Studios,yah,Florida,2015,2015-01-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+disneys_hollywood_studios_bto,Lake Buena Vista,United States,July,Disney's Hollywood Studios,bto,Florida,2019,2019-07-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+disneys_hollywood_studios_bts,Lake Buena Vista,United States,April,Disney's Hollywood Studios,bts,Florida,2019,2019-04-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+disneys_hollywood_studios_yah_2,Lake Buena Vista,United States,January,Disney's Hollywood Studios v.2,yah,Florida,2017,2017-01-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+disneys_hollywood_studios_yah_3,Lake Buena Vista,United States,September,Disney's Hollywood Studios v.3,yah,Florida,2017,2017-09-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+disneys_hollywood_studios_yaho,Lake Buena Vista,United States,August,Disney's Hollywood Studios,yaho,Florida,2016,2016-08-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+disneys_hollywood_studios_yaho_2,Lake Buena Vista,United States,October,Disney's Hollywood Studios v.2,yaho,Florida,2016,2016-10-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+disneys_hollywood_studios_yaho_3,Lake Buena Vista,United States,November,Disney's Hollywood Studios v.3,yaho,Florida,2017,2017-11-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+dongguan_icon,Dongguan,China,January,Dongguan,icon,,2011,2011-01-01,Dongguan,city,"Dongguan, China",23.0444712,113.74655120000001
+dongguan_rlf,Dongguan,China,November,Dongguan Blue,rlf,,2016,2016-11-01,Dongguan,city,"Dongguan, China",23.0444712,113.74655120000001
+dongguan_yah,Dongguan,China,June,Dongguan,yah,,2018,2018-06-01,Dongguan,city,"Dongguan, China",23.0444712,113.74655120000001
+dresden_icon,Dresden,Germany,January,Dresden,icon,,2011,2011-01-01,Dresden,city,"Dresden, Germany",51.0493286,13.7381437
+dresden_yah,Dresden,Germany,April,Dresden,yah,,2017,2017-04-01,Dresden,city,"Dresden, Germany",51.0493286,13.7381437
+dubai_icon,Dubai,United Arab Emirates,January,Dubai,icon,,2010,2010-01-01,Dubai,city,"Dubai, United Arab Emirates",25.0750095,55.1887608818332
+dubai_yah,Dubai,United Arab Emirates,July,Dubai,yah,,2016,2016-07-01,Dubai,city,"Dubai, United Arab Emirates",25.0750095,55.1887608818332
+dublin_icon,Dublin,Ireland,January,Dublin,icon,,2009,2009-01-01,Dublin,city,"Dublin, Ireland",53.3497645,-6.2602732
+dublin_yah,Dublin,Ireland,May,Dublin,yah,,2019,2019-05-01,Dublin,city,"Dublin, Ireland",53.3497645,-6.2602732
+durban_yah,Durban,South Africa,November,Durban,yah,,2017,2017-11-01,Durban,city,"Durban, South Africa",-29.861825,31.009909000000004
+dusseldorf_icon,Dusseldorf,Germany,January,Düsseldorf,icon,,2009,2009-01-01,Duesseldorf,city,"Dusseldorf, Germany",51.2254018,6.7763137
+dusseldorf_yah,Dusseldorf,Germany,September,Düsseldorf,yah,,2017,2017-09-01,Duesseldorf,city,"Dusseldorf, Germany",51.2254018,6.7763137
+edinburgh_icon,Edinburgh,United Kingdom,January,Edinburgh,icon,Scotland,2009,2009-01-01,Edinburgh,city,"Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749
+edinburgh_yah,Edinburgh,United Kingdom,June,Edinburgh,yah,Scotland,2016,2016-06-01,Edinburgh,city,"Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749
+edmonton_bts,Edmonton,Canada,May,Edmonton,bts,Alberta,2018,2018-05-01,Edmonton,city,"Edmonton, Alberta, Canada",53.535410999999996,-113.50799599999999
+edmonton_icon,Edmonton,Canada,January,Edmonton,icon,Alberta,2009,2009-01-01,Edmonton,city,"Edmonton, Alberta, Canada",53.535410999999996,-113.50799599999999
+edmonton_yah,Edmonton,Canada,April,Edmonton,yah,Alberta,2013,2013-04-01,Edmonton,city,"Edmonton, Alberta, Canada",53.535410999999996,-113.50799599999999
+egypt_icon,,Egypt,January,Egypt,icon,,2009,2009-01-01,,country,Egypt,26.254049300000002,29.2675469
+egypt_yahx,,Egypt,December,Egypt,yahx,,2018,2018-12-01,,country,Egypt,26.254049300000002,29.2675469
+el_salvador_bts,,El Salvador,December,El Salvador,bts,,2018,2018-12-01,,country,El Salvador,13.800038199999998,-88.9140683
+el_salvador_icon,,El Salvador,January,El Salvador,icon,,2011,2011-01-01,,country,El Salvador,13.800038199999998,-88.9140683
+england_icon,,United Kingdom,January,England,icon,England,2009,2009-01-01,,state,"England, United Kingdom",52.795479099999994,-0.5402402866174321
+england_icon_2,,United Kingdom,January,England v.2,icon,England,2010,2010-01-01,,state,"England, United Kingdom",52.795479099999994,-0.5402402866174321
+england_icon_3,,United Kingdom,January,England v.3,icon,England,2015,2015-01-01,,state,"England, United Kingdom",52.795479099999994,-0.5402402866174321
+england_yah,,United Kingdom,September,England,yah,England,2017,2017-09-01,,state,"England, United Kingdom",52.795479099999994,-0.5402402866174321
+england_yaho,,England,June,England,yaho,,2019,2019-06-01,,country,England,52.795479099999994,-0.5402402866174321
+england_yahox,,United Kingdom,November,England,yahox,England,2018,2018-11-01,,state,"England, United Kingdom",52.795479099999994,-0.5402402866174321
+england_yahx,,United Kingdom,November,England,yahx,England,2018,2018-11-01,,state,"England, United Kingdom",52.795479099999994,-0.5402402866174321
+ensenada_bts,Ensenada,Mexico,August,Ensenada,bts,Baja California,2018,2018-08-01,Ensenada,city,"Ensenada, Baja California, Mexico",30.192766100000004,-115.23146257799401
+ensenada_icon,Ensenada,Mexico,January,Ensenada,icon,Baja California,2011,2011-01-01,Ensenada,city,"Ensenada, Baja California, Mexico",30.192766100000004,-115.23146257799401
+epcot_bto,Orlando,United States,July,Epcot,bto,Florida,2019,2019-07-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+epcot_bts,Orlando,United States,April,Epcot,bts,Florida,2019,2019-04-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+epcot_yah,Orlando,United States,January,Epcot,yah,Florida,2015,2015-01-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+epcot_yah_2,Orlando,United States,April,Epcot v.2,yah,Florida,2015,2015-04-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+epcot_yah_3,Orlando,United States,October,Epcot v.3,yah,Florida,2017,2017-10-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+epcot_yaho,Orlando,United States,August,Epcot,yaho,Florida,2016,2016-08-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+epcot_yaho_2,Orlando,United States,November,Epcot v.2,yaho,Florida,2017,2017-11-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+finland_icon,,Finland,January,Finland,icon,,2012,2012-01-01,,country,Finland,63.2467777,25.9209164
+finland_yah,,Finland,August,Finland,yah,,2018,2018-08-01,,country,Finland,63.2467777,25.9209164
+finland_yaho,,Finland,October,Finland,yaho,,2019,2019-10-01,,country,Finland,63.2467777,25.9209164
+florida_bto,,United States,August,Florida,bto,Florida,2018,2018-08-01,,state,"Florida, United States",27.7567667,-81.4639835
+florida_bts,,United States,March,Florida,bts,Florida,2018,2018-03-01,,state,"Florida, United States",27.7567667,-81.4639835
+florida_btx,,United States,November,Florida,btx,Florida,2018,2018-11-01,,state,"Florida, United States",27.7567667,-81.4639835
+florida_icon,,United States,January,Florida,icon,Florida,2009,2009-01-01,,state,"Florida, United States",27.7567667,-81.4639835
+florida_yah,,United States,March,Florida,yah,Florida,2013,2013-03-01,,state,"Florida, United States",27.7567667,-81.4639835
+florida_yaho,,United States,August,Florida,yaho,Florida,2016,2016-08-01,,state,"Florida, United States",27.7567667,-81.4639835
+florida_yahox,,United States,November,Florida,yahox,Florida,2014,2014-11-01,,state,"Florida, United States",27.7567667,-81.4639835
+fort_worth_icon,Fort Worth,United States,January,Fort Worth,icon,Texas,2008,2008-01-01,Fort Worth,city,"Fort Worth, Texas, United States",32.753177,-97.3327459
+foshan_icon,Foshan,China,January,Foshan,icon,,2010,2010-01-01,Foshan,city,"Foshan, China",23.0247687,113.1146335
+foshan_rlf,Foshan,China,November,Foshan Blue,rlf,,2016,2016-11-01,Foshan,city,"Foshan, China",23.0247687,113.1146335
+foshan_yah,Foshan,China,June,Foshan,yah,,2018,2018-06-01,Foshan,city,"Foshan, China",23.0247687,113.1146335
+france_icon,,France,January,France,icon,,2009,2009-01-01,,country,France,46.603353999999996,1.8883334999999999
+france_yah,,France,August,France,yah,,2017,2017-08-01,,country,France,46.603353999999996,1.8883334999999999
+france_yaho,,France,June,France,yaho,,2019,2019-06-01,,country,France,46.603353999999996,1.8883334999999999
+france_yahox,,France,October,France,yahox,,2018,2018-10-01,,country,France,46.603353999999996,1.8883334999999999
+france_yahx,,France,October,France,yahx,,2018,2018-10-01,,country,France,46.603353999999996,1.8883334999999999
+frankfurt_icon,Frankfurt am Main,Germany,January,Frankfurt,icon,,2009,2009-01-01,Frankfurt am Main,city,"Frankfurt am Main, Germany",50.1106444,8.682091699999999
+frankfurt_yah,Frankfurt am Main,Germany,August,Frankfurt,yah,,2016,2016-08-01,Frankfurt am Main,city,"Frankfurt am Main, Germany",50.1106444,8.682091699999999
+freiburg_icon,Freiburg,Germany,January,Freiburg,icon,,2009,2009-01-01,Freiburg,city,"Freiburg, Germany",47.9960901,7.849400500000001
+fuzhou_icon,Fuzhou,China,January,Fuzhou,icon,,2010,2010-01-01,Fuzhou,city,"Fuzhou, China",26.0774954,119.29182150000001
+fuzhou_rlf,Fuzhou,China,November,Fuzhou Blue,rlf,,2016,2016-11-01,Fuzhou,city,"Fuzhou, China",26.0774954,119.29182150000001
+fuzhou_yah,Fuzhou,China,June,Fuzhou,yah,,2018,2018-06-01,Fuzhou,city,"Fuzhou, China",26.0774954,119.29182150000001
+ganzhou_yah,Ganzhou,China,March,Ganzhou,yah,,2019,2019-03-01,Ganzhou,city,"Ganzhou, China",25.8222423,114.91567109999998
+gdansk_icon,Gdansk,Poland,January,Gdańsk,icon,,2010,2010-01-01,Gdansk,city,"Gdansk, Poland",54.347629000000005,18.645232399999998
+gdynia_icon,Gdynia,Poland,January,Gdynia,icon,,2011,2011-01-01,Gdynia,city,"Gdynia, Poland",54.51649820000001,18.5402738
+general_santos_icon,General Santos,Philippines,January,General Santos,icon,,2016,2016-01-01,General Santos,city,"General Santos, Philippines",6.112331,125.17171450000001
+geneva_icon,Geneva,Switzerland,January,Geneva,icon,,2009,2009-01-01,Geneve,city,"Geneva, Switzerland",46.2017559,6.146601400000001
+geneva_yah,Geneva,Switzerland,February,Geneva,yah,,2018,2018-02-01,Geneve,city,"Geneva, Switzerland",46.2017559,6.146601400000001
+gent_icon,Gent,Belgium,January,Gent,icon,,2012,2012-01-01,Gent,city,"Gent, Belgium",51.0538286,3.7250121
+genting_highlands_yah,,Malaysia,September,Genting Highlands,yah,,2018,2018-09-01,,country,Malaysia,4.5693754,102.2656823
+georgia_bto,,United States,August,Georgia,bto,Georgia,2018,2018-08-01,,state,"Georgia, United States",32.329380900000004,-83.1137366
+georgia_bts,,United States,March,Georgia,bts,Georgia,2018,2018-03-01,,state,"Georgia, United States",32.329380900000004,-83.1137366
+germany_icon,,Germany,January,Germany,icon,,2009,2009-01-01,,country,Germany,51.0834196,10.4234469
+germany_icon_2,,Germany,January,Germany v.2,icon,,2015,2015-01-01,,country,Germany,51.0834196,10.4234469
+germany_yah,,Germany,February,Germany,yah,,2018,2018-02-01,,country,Germany,51.0834196,10.4234469
+germany_yaho,,Germany,February,Germany,yaho,,2019,2019-02-01,,country,Germany,51.0834196,10.4234469
+germany_yahox,,Germany,November,Germany,yahox,,2018,2018-11-01,,country,Germany,51.0834196,10.4234469
+germany_yahx,,Germany,November,Germany,yahx,,2018,2018-11-01,,country,Germany,51.0834196,10.4234469
+glasgow_icon,Glasgow,United Kingdom,January,Glasgow,icon,Scotland,2012,2012-01-01,Glasgow,city,"Glasgow, Scotland, United Kingdom",55.86113889999999,-4.2501672
+glasgow_yah,Glasgow,United Kingdom,September,Glasgow,yah,Scotland,2017,2017-09-01,Glasgow,city,"Glasgow, Scotland, United Kingdom",55.86113889999999,-4.2501672
+gold_coast_icon,Gold Coast,Australia,January,Gold Coast,icon,Queensland,2008,2008-01-01,Gold Coast,city,"Gold Coast, Queensland, Australia",-28.002373100000003,153.4145987
+gold_coast_rlf,Gold Coast,Australia,January,Gold Coast,rlf,,2016,2016-01-01,Gold Coast,city,"Gold Coast, Australia",-28.002373100000003,153.4145987
+gold_coast_rlf_2,Gold Coast,Australia,November,Gold Coast Green,rlf,,2016,2016-11-01,Gold Coast,city,"Gold Coast, Australia",-28.002373100000003,153.4145987
+gold_coast_yah,Gold Coast,Australia,October,Gold Coast,yah,Queensland,2016,2016-10-01,Gold Coast,city,"Gold Coast, Queensland, Australia",-28.002373100000003,153.4145987
+gothenburg_icon,Gothenburg,Sweden,January,Gothenburg,icon,,2012,2012-01-01,Goeteborg,city,"Gothenburg, Sweden",57.7072326,11.9670171
+greece_icon,,Greece,January,Greece,icon,,2009,2009-01-01,,country,Greece,38.995368299999996,21.987713199999998
+greece_yah,,Greece,March,Greece,yah,,2018,2018-03-01,,country,Greece,38.995368299999996,21.987713199999998
+greece_yaho,,Greece,March,Greece,yaho,,2019,2019-03-01,,country,Greece,38.995368299999996,21.987713199999998
+greece_yahx,,Greece,October,Greece,yahx,,2018,2018-10-01,,country,Greece,38.995368299999996,21.987713199999998
+groningen_icon,Groningen,Netherlands,January,Groningen,icon,,2012,2012-01-01,Groningen,city,"Groningen, Netherlands",53.22179250000001,6.558245334798531
+guadalajara_bts,Guadalajara,Mexico,August,Guadalajara,bts,Jalisco,2018,2018-08-01,Guadalajara,city,"Guadalajara, Jalisco, Mexico",20.6720375,-103.3383962
+guadalajara_icon,Guadalajara,Mexico,January,Guadalajara,icon,Jalisco,2009,2009-01-01,Guadalajara,city,"Guadalajara, Jalisco, Mexico",20.6720375,-103.3383962
+guadalajara_icon_2,Guadalajara,Mexico,January,Guadalajara v.2,icon,Jalisco,2017,2017-01-01,Guadalajara,city,"Guadalajara, Jalisco, Mexico",20.6720375,-103.3383962
+guanajuato_bts,Guanajuato,Mexico,January,Guanajuato,bts,Guanajuato,2019,2019-01-01,Guanajuato,city,"Guanajuato, Guanajuato, Mexico",21.02405745,-101.24278280175301
+guanajuato_icon,Guanajuato,Mexico,January,Guanajuato,icon,Guanajuato,2009,2009-01-01,Guanajuato,city,"Guanajuato, Guanajuato, Mexico",21.02405745,-101.24278280175301
+guanajuato_icon_2,Guanajuato,Mexico,January,Guanajuato v.2,icon,Guanajuato,2011,2011-01-01,Guanajuato,city,"Guanajuato, Guanajuato, Mexico",21.02405745,-101.24278280175301
+guangzhou_icon,Guangzhou,China,January,Guangzhou,icon,,2008,2008-01-01,Guangzhou,city,"Guangzhou, China",23.1301964,113.25929450000001
+guangzhou_rlf,Guangzhou,China,January,Guangzhou Blue,rlf,,2014,2014-01-01,Guangzhou,city,"Guangzhou, China",23.1301964,113.25929450000001
+guangzhou_rlf_2,Guangzhou,China,November,Guangzhou Gold,rlf,,2014,2014-11-01,Guangzhou,city,"Guangzhou, China",23.1301964,113.25929450000001
+guangzhou_rlf_3,Guangzhou,China,November,Guangzhou Green,rlf,,2015,2015-11-01,Guangzhou,city,"Guangzhou, China",23.1301964,113.25929450000001
+guangzhou_rlf_4,Guangzhou,China,November,Guangzhou Silver,rlf,,2016,2016-11-01,Guangzhou,city,"Guangzhou, China",23.1301964,113.25929450000001
+guangzhou_yah,Guangzhou,China,September,Guangzhou,yah,,2017,2017-09-01,Guangzhou,city,"Guangzhou, China",23.1301964,113.25929450000001
+guatemala_bts,,Guatemala,January,Guatemala,bts,,2019,2019-01-01,,country,Guatemala,15.635608800000002,-89.8988087
+guatemala_icon,,Guatemala,January,Guatemala,icon,,2010,2010-01-01,,country,Guatemala,15.635608800000002,-89.8988087
+guatemala_icon_2,,Guatemala,January,Guatemala v.2,icon,,2017,2017-01-01,,country,Guatemala,15.635608800000002,-89.8988087
+guilin_icon,Guilin,China,January,Guilin,icon,,2014,2014-01-01,Guilin,city,"Guilin, China",25.2777506,110.291804
+guilin_yah,Guilin,China,June,Guilin,yah,,2018,2018-06-01,Guilin,city,"Guilin, China",25.2777506,110.291804
+guiyang_icon,Guiyang,China,January,Guiyang,icon,,2014,2014-01-01,Guiyang,city,"Guiyang, China",26.581411199999998,106.7052544
+guiyang_yah,Guiyang,China,August,Guiyang,yah,,2018,2018-08-01,Guiyang,city,"Guiyang, China",26.581411199999998,106.7052544
+gyeongju_rlf,Gyeongju,South Korea,January,Gyeongju,rlf,,2014,2014-01-01,Gyeongju,city,"Gyeongju, South Korea",35.8556705,129.2248811
+hai_phong_yah,Hai Phong,Vietnam,March,Hai Phong,yah,,2018,2018-03-01,Haiphong,city,"Hai Phong, Vietnam",20.858864,106.6749591
+haikou_icon,Haikou,China,January,Haikou,icon,,2012,2012-01-01,Haikou,city,"Haikou, China",20.0423626,110.3409936
+haikou_yah,Haikou,China,December,Haikou,yah,,2018,2018-12-01,Haikou,city,"Haikou, China",20.0423626,110.3409936
+hamburg_icon,Hamburg,Germany,January,Hamburg,icon,,2009,2009-01-01,Hamburg,city,"Hamburg, Germany",53.550341,10.000653999999999
+hamburg_yah,Hamburg,Germany,June,Hamburg,yah,,2016,2016-06-01,Hamburg,city,"Hamburg, Germany",53.550341,10.000653999999999
+hamptons_icon,,United States,January,Hamptons,icon,New York,2010,2010-01-01,,state,"New York, United States",40.7127281,-74.0060152
+hangzhou_icon,Hangzhou,China,January,Hangzhou,icon,,2011,2011-01-01,Hangzhou,city,"Hangzhou, China",30.248963399999997,120.20523419999999
+hangzhou_rlf,Hangzhou,China,January,Hangzhou Blue,rlf,,2013,2013-01-01,Hangzhou,city,"Hangzhou, China",30.248963399999997,120.20523419999999
+hangzhou_rlf_2,Hangzhou,China,November,Hangzhou Silver,rlf,,2016,2016-11-01,Hangzhou,city,"Hangzhou, China",30.248963399999997,120.20523419999999
+hangzhou_yah,Hangzhou,China,September,Hangzhou,yah,,2017,2017-09-01,Hangzhou,city,"Hangzhou, China",30.248963399999997,120.20523419999999
+hangzhou_yahx,Hangzhou,China,November,Hangzhou,yahx,,2017,2017-11-01,Hangzhou,city,"Hangzhou, China",30.248963399999997,120.20523419999999
+hannover_icon,Hannover,Germany,January,Hannover,icon,,2010,2010-01-01,Hannover,city,"Hannover, Germany",52.374477899999995,9.738553199999998
+hanoi_icon,Hanoi,Vietnam,January,Hanoi,icon,,2014,2014-01-01,Hanoi,city,"Hanoi, Vietnam",21.029449800000002,105.85444409999998
+hanoi_yah,Hanoi,Vietnam,August,Hanoi,yah,,2016,2016-08-01,Hanoi,city,"Hanoi, Vietnam",21.029449800000002,105.85444409999998
+hanoi_yaho,Hanoi,Vietnam,August,Hanoi,yaho,,2016,2016-08-01,Hanoi,city,"Hanoi, Vietnam",21.029449800000002,105.85444409999998
+harbin_icon,Harbin,China,January,Harbin,icon,,2011,2011-01-01,Harbin,city,"Harbin, China",45.7656666,126.6160584
+harbin_rlf,Harbin,China,November,Harbin Blue,rlf,,2016,2016-11-01,Harbin,city,"Harbin, China",45.7656666,126.6160584
+harbin_yah,Harbin,China,September,Harbin,yah,,2017,2017-09-01,Harbin,city,"Harbin, China",45.7656666,126.6160584
+hawaii_bto,,United States,August,Hawaii,bto,Hawaii,2018,2018-08-01,,state,"Hawaii, United States",21.2160437,-157.975203
+hawaii_bts,,United States,March,Hawaii,bts,Hawaii,2018,2018-03-01,,state,"Hawaii, United States",21.2160437,-157.975203
+hawaii_btx,,United States,November,Hawaii,btx,Hawaii,2018,2018-11-01,,state,"Hawaii, United States",21.2160437,-157.975203
+hawaii_icon,,United States,January,Hawaii,icon,Hawaii,2008,2008-01-01,,state,"Hawaii, United States",21.2160437,-157.975203
+hawaii_yah,,United States,March,Hawaii,yah,Hawaii,2013,2013-03-01,,state,"Hawaii, United States",21.2160437,-157.975203
+hawaii_yaho,,United States,August,Hawaii,yaho,Hawaii,2016,2016-08-01,,state,"Hawaii, United States",21.2160437,-157.975203
+hawaii_yahox,,United States,November,Hawaii,yahox,Hawaii,2014,2014-11-01,,state,"Hawaii, United States",21.2160437,-157.975203
+hawaii_yahx,,United States,November,Hawaii,yahx,Hawaii,2014,2014-11-01,,state,"Hawaii, United States",21.2160437,-157.975203
+hefei_icon,Hefei,China,January,Hefei,icon,,2011,2011-01-01,Hefei,city,"Hefei, China",31.822809399999997,117.2218033
+hefei_yah,Hefei,China,June,Hefei,yah,,2018,2018-06-01,Hefei,city,"Hefei, China",31.822809399999997,117.2218033
+heidelberg_icon,Heidelberg,Germany,January,Heidelberg,icon,,2011,2011-01-01,Heidelberg,city,"Heidelberg, Germany",49.40935820000001,8.694724
+heidelberg_yah,Heidelberg,Germany,March,Heidelberg,yah,,2018,2018-03-01,Heidelberg,city,"Heidelberg, Germany",49.40935820000001,8.694724
+helsinki_icon,Helsinki,Finland,January,Helsinki,icon,,2013,2013-01-01,Helsinki,city,"Helsinki, Finland",60.1674086,24.9425683
+helsinki_yah,Helsinki,Finland,February,Helsinki,yah,,2018,2018-02-01,Helsinki,city,"Helsinki, Finland",60.1674086,24.9425683
+hengyang_yah,Hengyang,China,October,Hengyang,yah,,2019,2019-10-01,Hengyang,city,"Hengyang, China",26.9018019,112.60585900000001
+hilversum_icon,Hilversum,Netherlands,January,Hilversum,icon,,2014,2014-01-01,Hilversum,city,"Hilversum, Netherlands",52.23158695,5.17349360239234
+ho_chi_minh_city_icon,Ho Chi Minh City,Vietnam,January,Ho Chi Minh City,icon,,2013,2013-01-01,Ho Chi Minh City,city,"Ho Chi Minh City, Vietnam",10.649745199999998,106.761979373444
+ho_chi_minh_city_yah,Ho Chi Minh City,Vietnam,August,Ho Chi Minh City,yah,,2016,2016-08-01,Ho Chi Minh City,city,"Ho Chi Minh City, Vietnam",10.649745199999998,106.761979373444
+ho_chi_minh_city_yaho,Ho Chi Minh City,Vietnam,August,Ho Chi Minh City,yaho,,2016,2016-08-01,Ho Chi Minh City,city,"Ho Chi Minh City, Vietnam",10.649745199999998,106.761979373444
+hohhot_icon,Hohhot,China,January,Hohhot,icon,,2013,2013-01-01,Hohhot,city,"Hohhot, China",40.833796299999996,111.6730788
+hohhot_yah,Hohhot,China,June,Hohhot,yah,,2018,2018-06-01,Hohhot,city,"Hohhot, China",40.833796299999996,111.6730788
+hong_kong_icon,Hong Kong,Hong Kong,January,Hong Kong,icon,,2008,2008-01-01,Hong Kong,city,"Hong Kong, Hong Kong",22.350627,114.18491609999998
+hong_kong_rlf,Hong Kong,Hong Kong,January,Hong Kong,rlf,,2013,2013-01-01,Hong Kong,city,"Hong Kong, Hong Kong",22.350627,114.18491609999998
+hong_kong_rlf_2,Hong Kong,Hong Kong,November,Hong Kong Red,rlf,,2013,2013-11-01,Hong Kong,city,"Hong Kong, Hong Kong",22.350627,114.18491609999998
+hong_kong_rlf_3,Hong Kong,Hong Kong,November,Hong Kong Gold,rlf,,2014,2014-11-01,Hong Kong,city,"Hong Kong, Hong Kong",22.350627,114.18491609999998
+hong_kong_rlf_4,Hong Kong,Hong Kong,November,Hong Kong Green,rlf,,2015,2015-11-01,Hong Kong,city,"Hong Kong, Hong Kong",22.350627,114.18491609999998
+hong_kong_rlf_5,Hong Kong,Hong Kong,November,Hong Kong Silver,rlf,,2016,2016-11-01,Hong Kong,city,"Hong Kong, Hong Kong",22.350627,114.18491609999998
+hong_kong_rlf_6,Hong Kong,Hong Kong,November,Hong Kong v.2,rlf,,2017,2017-11-01,Hong Kong,city,"Hong Kong, Hong Kong",22.350627,114.18491609999998
+hong_kong_yah,Hong Kong,Hong Kong,September,Hong Kong,yah,,2016,2016-09-01,Hong Kong,city,"Hong Kong, Hong Kong",22.350627,114.18491609999998
+hong_kong_yaho,Hong Kong,Hong Kong,August,Hong Kong,yaho,,2016,2016-08-01,Hong Kong,city,"Hong Kong, Hong Kong",22.350627,114.18491609999998
+hong_kong_yahx,Hong Kong,Hong Kong,October,Hong Kong,yahx,,2017,2017-10-01,Hong Kong,city,"Hong Kong, Hong Kong",22.350627,114.18491609999998
+houston_bto,Houston,United States,August,Houston,bto,Texas,2018,2018-08-01,Houston,city,"Houston, Texas, United States",29.7589382,-95.36769740000001
+houston_bts,Houston,United States,April,Houston,bts,Texas,2018,2018-04-01,Houston,city,"Houston, Texas, United States",29.7589382,-95.36769740000001
+houston_icon,Houston,United States,January,Houston,icon,Texas,2008,2008-01-01,Houston,city,"Houston, Texas, United States",29.7589382,-95.36769740000001
+houston_yah,Houston,United States,April,Houston,yah,Texas,2013,2013-04-01,Houston,city,"Houston, Texas, United States",29.7589382,-95.36769740000001
+houston_yaho,Houston,United States,August,Houston,yaho,Texas,2016,2016-08-01,Houston,city,"Houston, Texas, United States",29.7589382,-95.36769740000001
+hsinchu_rlf,Hsinchu,Taiwan,January,Hsinchu,rlf,,2013,2013-01-01,Hsinchu,city,"Hsinchu, Taiwan",24.8066333,120.96868329999998
+hsinchu_rlf_2,Hsinchu,Taiwan,November,Hsinchu Gold,rlf,,2014,2014-11-01,Hsinchu,city,"Hsinchu, Taiwan",24.8066333,120.96868329999998
+hsinchu_rlf_3,Hsinchu,Taiwan,November,Hsinchu Green,rlf,,2015,2015-11-01,Hsinchu,city,"Hsinchu, Taiwan",24.8066333,120.96868329999998
+huizhou_icon,Huizhou,China,January,Huizhou,icon,,2014,2014-01-01,Huizhou,city,"Huizhou, China",29.831086100000004,118.33584409999999
+huizhou_yah,Huizhou,China,December,Huizhou,yah,,2018,2018-12-01,Huizhou,city,"Huizhou, China",29.831086100000004,118.33584409999999
+hungary_icon,,Hungary,January,Hungary,icon,,2010,2010-01-01,,country,Hungary,47.1817585,19.5060937
+hungary_yah,,Hungary,March,Hungary,yah,,2019,2019-03-01,,country,Hungary,47.1817585,19.5060937
+hungary_yaho,,Hungary,May,Hungary,yaho,,2019,2019-05-01,,country,Hungary,47.1817585,19.5060937
+hungary_yahx,,Hungary,November,Hungary,yahx,,2018,2018-11-01,,country,Hungary,47.1817585,19.5060937
+idaho_bto,,United States,August,Idaho,bto,Idaho,2018,2018-08-01,,state,"Idaho, United States",43.644764200000004,-114.0154071
+idaho_bts,,United States,March,Idaho,bts,Idaho,2018,2018-03-01,,state,"Idaho, United States",43.644764200000004,-114.0154071
+illinois_bto,,United States,August,Illinois,bto,Illinois,2018,2018-08-01,,state,"Illinois, United States",40.079660600000004,-89.4337288
+illinois_bts,,United States,March,Illinois v.1,bts,Illinois,2018,2018-03-01,,state,"Illinois, United States",40.079660600000004,-89.4337288
+illinois_bts_2,,United States,April,Illinois v.2,bts,Illinois,2019,2019-04-01,,state,"Illinois, United States",40.079660600000004,-89.4337288
+illinois_yah,,United States,July,Illinois,yah,Illinois,2015,2015-07-01,,state,"Illinois, United States",40.079660600000004,-89.4337288
+illinois_yaho,,United States,August,Illinois,yaho,Illinois,2016,2016-08-01,,state,"Illinois, United States",40.079660600000004,-89.4337288
+iloilo_icon,Iloilo,Philippines,January,Iloilo,icon,,2011,2011-01-01,Iloilo,city,"Iloilo, Philippines",10.9534597,122.57563259999999
+iloilo_yah,Iloilo,Philippines,April,Iloilo,yah,,2017,2017-04-01,Iloilo,city,"Iloilo, Philippines",10.9534597,122.57563259999999
+india_icon,,India,January,India,icon,,2012,2012-01-01,,country,India,22.3511148,78.6677428
+indiana_bto,,United States,August,Indiana,bto,Indiana,2018,2018-08-01,,state,"Indiana, United States",40.327012700000004,-86.1746933
+indiana_bts,,United States,March,Indiana,bts,Indiana,2018,2018-03-01,,state,"Indiana, United States",40.327012700000004,-86.1746933
+indianapolis_icon,Indianapolis,United States,January,Indianapolis,icon,Indiana,2008,2008-01-01,Indianapolis,city,"Indianapolis, Indiana, United States",39.7683331,-86.1583502
+indianapolis_yah,Indianapolis,United States,April,Indianapolis,yah,Indiana,2013,2013-04-01,Indianapolis,city,"Indianapolis, Indiana, United States",39.7683331,-86.1583502
+indonesia_icon,,Indonesia,January,Indonesia,icon,,2009,2009-01-01,,country,Indonesia,-2.4833826,117.89028529999999
+iowa_bto,,United States,August,Iowa,bto,Iowa,2018,2018-08-01,,state,"Iowa, United States",41.9216734,-93.3122705
+iowa_bts,,United States,March,Iowa,bts,Iowa,2018,2018-03-01,,state,"Iowa, United States",41.9216734,-93.3122705
+ireland_icon,,Ireland,January,Ireland,icon,,2009,2009-01-01,,country,Ireland,52.865196,-7.9794599
+ireland_yah,,Ireland,May,Ireland,yah,,2019,2019-05-01,,country,Ireland,52.865196,-7.9794599
+istanbul_icon,Istanbul,Turkey,January,Istanbul,icon,,2010,2010-01-01,Istanbul,city,"Istanbul, Turkey",41.0096334,28.9651646
+istanbul_rlf,Istanbul,Turkey,January,Istanbul,rlf,,2015,2015-01-01,Istanbul,city,"Istanbul, Turkey",41.0096334,28.9651646
+istanbul_yah,Istanbul,Turkey,July,İstanbul,yah,,2016,2016-07-01,Istanbul,city,"Istanbul, Turkey",41.0096334,28.9651646
+istanbul_yaho,Istanbul,Turkey,October,İstanbul,yaho,,2019,2019-10-01,Istanbul,city,"Istanbul, Turkey",41.0096334,28.9651646
+istanbul_yahx,Istanbul,Turkey,November,İstanbul,yahx,,2017,2017-11-01,Istanbul,city,"Istanbul, Turkey",41.0096334,28.9651646
+istanbul_yahx_2,Istanbul,Turkey,November,İstanbul v.2,yahx,,2018,2018-11-01,Istanbul,city,"Istanbul, Turkey",41.0096334,28.9651646
+italy_yah,,Italy,November,Italy,yah,,2018,2018-11-01,,country,Italy,42.6384261,12.674297
+italy_yaho,,Italy,May,Italy,yaho,,2019,2019-05-01,,country,Italy,42.6384261,12.674297
+izmir_icon,Izmir,Turkey,January,Izmir,icon,,2012,2012-01-01,Izmir,city,"Izmir, Turkey",38.415342100000004,27.144474
+izmir_yah,Izmir,Turkey,September,İzmir,yah,,2016,2016-09-01,Izmir,city,"Izmir, Turkey",38.415342100000004,27.144474
+jacksonville_icon,Jacksonville,United States,January,Jacksonville,icon,Florida,2008,2008-01-01,Jacksonville,city,"Jacksonville, Florida, United States",30.3321838,-81.655651
+jakarta_icon,Jakarta,Indonesia,January,Jakarta,icon,,2008,2008-01-01,Jakarta,city,"Jakarta, Indonesia",-6.1753942,106.827183
+jamaica_icon,,Jamaica,January,Jamaica,icon,,2017,2017-01-01,,country,Jamaica,18.185050699999998,-77.3947693
+japan_yah,,Japan,September,Japan,yah,,2017,2017-09-01,,country,Japan,36.5748441,139.2394179
+japan_yah_2,,Japan,November,Japan v.2,yah,,2018,2018-11-01,,country,Japan,36.5748441,139.2394179
+japan_yah_3,,Japan,March,Japan v.3,yah,,2019,2019-03-01,,country,Japan,36.5748441,139.2394179
+japan_yah_4,,Japan,June,Japan v.4,yah,,2019,2019-06-01,,country,Japan,36.5748441,139.2394179
+japan_yah_5,,Japan,August,Japan v.5,yah,,2019,2019-08-01,,country,Japan,36.5748441,139.2394179
+japan_yaho,,Japan,September,Japan,yaho,,2017,2017-09-01,,country,Japan,36.5748441,139.2394179
+japan_yaho_2,,Japan,November,Japan v.2,yaho,,2018,2018-11-01,,country,Japan,36.5748441,139.2394179
+japan_yaho_3,,Japan,March,Japan v.3,yaho,,2019,2019-03-01,,country,Japan,36.5748441,139.2394179
+japan_yaho_4,,Japan,June,Japan v.4,yaho,,2019,2019-06-01,,country,Japan,36.5748441,139.2394179
+japan_yaho_5,,Japan,August,Japan v.5,yaho,,2019,2019-08-01,,country,Japan,36.5748441,139.2394179
+jeddah_icon,Jeddah,Saudi Arabia,January,Jeddah,icon,,2010,2010-01-01,Jeddah,city,"Jeddah, Saudi Arabia",21.5822247,39.1640396
+jeju_rlf,Jeju,South Korea,January,Jeju,rlf,,2014,2014-01-01,Jeju City,city,"Jeju, South Korea",33.3939924,126.56266529999999
+jeju_rlf_2,Jeju,South Korea,November,Jeju Gold,rlf,,2014,2014-11-01,Jeju City,city,"Jeju, South Korea",33.3939924,126.56266529999999
+jilin_icon,Jilin,China,January,Jilin,icon,,2014,2014-01-01,Jilin,city,"Jilin, China",42.9995032,125.9816054
+jilin_yah,Jilin,China,January,Jilin,yah,,2019,2019-01-01,Jilin,city,"Jilin, China",42.9995032,125.9816054
+jinan_icon,Jinan,China,January,Jinan,icon,,2011,2011-01-01,Jinan,city,"Jinan, China",36.6507007,117.11400420000001
+jinan_yah,Jinan,China,September,Jinan,yah,,2017,2017-09-01,Jinan,city,"Jinan, China",36.6507007,117.11400420000001
+jinghong_yah,Jinghong,China,August,Jinghong,yah,,2019,2019-08-01,Jinghong,city,"Jinghong, China",22.002551500000003,100.77072740000001
+jiujiang_yah,Jiujiang,China,November,Jiujiang,yah,,2018,2018-11-01,Jiujiang,city,"Jiujiang, China",29.727536100000002,115.99131340000001
+johannesburg_yah,Johannesburg,South Africa,May,Johannesburg,yah,,2016,2016-05-01,Johannesburg,city,"Johannesburg, South Africa",-26.205,28.049721999999996
+johor_rlf,,Malaysia,January,Johor,rlf,Johor,2015,2015-01-01,,state,"Johor, Malaysia",2.0119217000000003,103.446608
+jordan_icon,,Jordan,January,Jordan,icon,,2011,2011-01-01,,country,Jordan,31.1667049,36.941628
+jordan_yah,,Jordan,September,Jordan,yah,,2018,2018-09-01,,country,Jordan,31.1667049,36.941628
+kaifeng_yah,Kaifeng,China,September,Kaifeng,yah,,2019,2019-09-01,Kaifeng,city,"Kaifeng, China",34.796110600000006,114.34720379999999
+kansas_bto,,United States,August,Kansas,bto,Kansas,2018,2018-08-01,,state,"Kansas, United States",38.27312,-98.58218719999999
+kansas_bts,,United States,March,Kansas,bts,Kansas,2018,2018-03-01,,state,"Kansas, United States",38.27312,-98.58218719999999
+kansas_city_bts,Kansas City,United States,June,Kansas City,bts,Missouri,2018,2018-06-01,Kansas City,city,"Kansas City, Missouri, United States",39.100105,-94.5781416
+kansas_city_yah,Kansas City,United States,November,Kansas City,yah,Missouri,2014,2014-11-01,Kansas City,city,"Kansas City, Missouri, United States",39.100105,-94.5781416
+kaohsiung_icon,Kaohsiung,Taiwan,January,Kaohsiung,icon,,2009,2009-01-01,Kaohsiung,city,"Kaohsiung, Taiwan",22.6203348,120.3120375
+kaohsiung_rlf,Kaohsiung,Taiwan,January,Kaohsiung,rlf,,2013,2013-01-01,Kaohsiung,city,"Kaohsiung, Taiwan",22.6203348,120.3120375
+kaohsiung_rlf_2,Kaohsiung,Taiwan,November,Kaohsiung Gold,rlf,,2014,2014-11-01,Kaohsiung,city,"Kaohsiung, Taiwan",22.6203348,120.3120375
+kaohsiung_rlf_3,Kaohsiung,Taiwan,November,Kaohsiung Green,rlf,,2015,2015-11-01,Kaohsiung,city,"Kaohsiung, Taiwan",22.6203348,120.3120375
+kaohsiung_yah,Kaohsiung,Taiwan,November,Kaohsiung,yah,,2016,2016-11-01,Kaohsiung,city,"Kaohsiung, Taiwan",22.6203348,120.3120375
+kaohsiung_yaho,Kaohsiung,Taiwan,November,Kaohsiung,yaho,,2016,2016-11-01,Kaohsiung,city,"Kaohsiung, Taiwan",22.6203348,120.3120375
+karlsruhe_icon,Karlsruhe,Germany,January,Karlsruhe,icon,,2014,2014-01-01,Karlsruhe,city,"Karlsruhe, Germany",49.006870500000005,8.4034195
+karneval_icon,,Germany,January,Karneval,icon,,2015,2015-01-01,,country,Germany,51.0834196,10.4234469
+karneval_icon_2,,Germany,January,Karneval v.2,icon,,2016,2016-01-01,,country,Germany,51.0834196,10.4234469
+karneval_icon_3,,Germany,January,Karneval v.3,icon,,2017,2017-01-01,,country,Germany,51.0834196,10.4234469
+kassel_icon,Kassel,Germany,January,Kassel,icon,,2014,2014-01-01,Kassel,city,"Kassel, Germany",51.307686700000005,9.4624705
+katowice_icon,Katowice,Poland,January,Katowice,icon,,2012,2012-01-01,Katowice,city,"Katowice, Poland",50.2598987,19.021585199999997
+kazakhstan_icon,,Kazakhstan,January,Kazakhstan,icon,,2016,2016-01-01,,country,Kazakhstan,47.2286086,65.20931970000001
+kazan_icon,Kazan,Russia,January,Kazan,icon,,2015,2015-01-01,Kazan,city,"Kazan, Russia",55.7823547,49.1242266
+kedah_rlf,,Malaysia,January,Kedah,rlf,Kedah,2015,2015-01-01,,state,"Kedah, Malaysia",5.9682875,100.6660103
+kentucky_bto,,United States,August,Kentucky,bto,Kentucky,2018,2018-08-01,,state,"Kentucky, United States",37.5726028,-85.1551411
+kentucky_bts,,United States,March,Kentucky,bts,Kentucky,2018,2018-03-01,,state,"Kentucky, United States",37.5726028,-85.1551411
+kentucky_yah,,United States,July,Kentucky,yah,Kentucky,2014,2014-07-01,,state,"Kentucky, United States",37.5726028,-85.1551411
+kiel_icon,Kiel,Germany,January,Kiel,icon,,2009,2009-01-01,Kiel,city,"Kiel, Germany",54.3227085,10.135555
+kingdom_of_saudi_arabia_icon,,Saudi Arabia,January,Kingdom of Saudi Arabia,icon,,2010,2010-01-01,,country,Saudi Arabia,25.624261800000003,42.352832799999995
+kingdom_of_saudi_arabia_yah,,Saudi Arabia,August,Kingdom of Saudi Arabia,yah,,2018,2018-08-01,,country,Saudi Arabia,25.624261800000003,42.352832799999995
+kingdom_of_saudi_arabia_yah_2,,Saudi Arabia,September,Kingdom of Saudi Arabia v.2,yah,,2019,2019-09-01,,country,Saudi Arabia,25.624261800000003,42.352832799999995
+koeln_icon,Cologne,Germany,January,Köln,icon,,2009,2009-01-01,Koeln,city,"Cologne, Germany",50.938361,6.959974000000001
+koln_yah,Cologne,Germany,April,Köln,yah,,2017,2017-04-01,Koeln,city,"Cologne, Germany",50.938361,6.959974000000001
+korea_icon,,South Korea,January,Korea,icon,,2008,2008-01-01,,country,South Korea,36.5581914,127.9408564
+krakow_icon,Krakow,Poland,January,Kraków,icon,,2010,2010-01-01,Krakow,city,"Krakow, Poland",50.0469432,19.997153435836697
+krakow_yah,Krakow,Poland,June,Krakow,yah,,2018,2018-06-01,Krakow,city,"Krakow, Poland",50.0469432,19.997153435836697
+krasnodar_icon,Krasnodar,Russia,January,Krasnodar,icon,,2014,2014-01-01,Krasnodar,city,"Krasnodar, Russia",45.0352566,38.976481400000004
+krasnodar_icon_2,Krasnodar,Russia,January,Krasnodar v.2,icon,,2014,2014-01-01,Krasnodar,city,"Krasnodar, Russia",45.0352566,38.976481400000004
+kuala_lumpur_icon,Kuala Lumpur,Malaysia,January,Kuala Lumpur,icon,,2008,2008-01-01,Kuala Lumpur,city,"Kuala Lumpur, Malaysia",3.1516636,101.69430279999999
+kuala_lumpur_icon_2,Kuala Lumpur,Malaysia,January,Kuala Lumpur v.2,icon,,2017,2017-01-01,Kuala Lumpur,city,"Kuala Lumpur, Malaysia",3.1516636,101.69430279999999
+kuala_lumpur_rlf,Kuala Lumpur,Malaysia,January,Kuala Lumpur,rlf,,2014,2014-01-01,Kuala Lumpur,city,"Kuala Lumpur, Malaysia",3.1516636,101.69430279999999
+kuala_lumpur_rlf_2,Kuala Lumpur,Malaysia,November,Kuala Lumpur Gold,rlf,,2014,2014-11-01,Kuala Lumpur,city,"Kuala Lumpur, Malaysia",3.1516636,101.69430279999999
+kuala_lumpur_rlf_3,Kuala Lumpur,Malaysia,November,Kuala Lumpur Green,rlf,,2015,2015-11-01,Kuala Lumpur,city,"Kuala Lumpur, Malaysia",3.1516636,101.69430279999999
+kuala_lumpur_rlf_4,Kuala Lumpur,Malaysia,November,Kuala Lumpur Silver,rlf,,2016,2016-11-01,Kuala Lumpur,city,"Kuala Lumpur, Malaysia",3.1516636,101.69430279999999
+kuala_lumpur_rlf_5,Kuala Lumpur,Malaysia,November,Kuala Lumpur Red,rlf,,2017,2017-11-01,Kuala Lumpur,city,"Kuala Lumpur, Malaysia",3.1516636,101.69430279999999
+kuching_yah,Kuching,Malaysia,June,Kuching,yah,,2017,2017-06-01,Kuching,city,"Kuching, Malaysia",1.5574127,110.3439862
+kunming_icon,Kunming,China,January,Kunming,icon,,2011,2011-01-01,Kunming,city,"Kunming, China",25.0437977,102.714338
+kunming_rlf,Kunming,China,November,Kunming Blue,rlf,,2016,2016-11-01,Kunming,city,"Kunming, China",25.0437977,102.714338
+kunming_yah,Kunming,China,September,Kunming,yah,,2017,2017-09-01,Kunming,city,"Kunming, China",25.0437977,102.714338
+kuwait_icon,,Kuwait,January,Kuwait,icon,,2010,2010-01-01,,country,Kuwait,29.2733964,47.4979476
+kuwait_yah,,Kuwait,August,Kuwait,yah,,2016,2016-08-01,,country,Kuwait,29.2733964,47.4979476
+lake_tahoe_bts,,United States,March,Lake Tahoe,bts,California - Nevada,2018,2018-03-01,,state,"California - Nevada, United States",40.659622,-118.14931999999999
+lake_tahoe_icon,,United States,January,Lake Tahoe,icon,California - Nevada,2012,2012-01-01,,state,"California - Nevada, United States",40.659622,-118.14931999999999
+lake_tahoe_yah,,United States,April,Lake Tahoe,yah,California - Nevada,2013,2013-04-01,,state,"California - Nevada, United States",40.659622,-118.14931999999999
+langkawi_yah,Langkawi,Malaysia,November,Langkawi,yah,,2018,2018-11-01,Langkawi,city,"Langkawi, Malaysia",6.3700386,99.7928634
+lanzhou_icon,Lanzhou,China,January,Lanzhou,icon,,2015,2015-01-01,Lanzhou,city,"Lanzhou, China",36.0606904,103.8305691
+lanzhou_yah,Lanzhou,China,November,Lanzhou,yah,,2018,2018-11-01,Lanzhou,city,"Lanzhou, China",36.0606904,103.8305691
+las_vegas_bto,Las Vegas,United States,August,Las Vegas,bto,Nevada,2018,2018-08-01,Las Vegas,city,"Las Vegas, Nevada, United States",36.1662859,-115.149225
+las_vegas_bts,Las Vegas,United States,April,Las Vegas,bts,Nevada,2018,2018-04-01,Las Vegas,city,"Las Vegas, Nevada, United States",36.1662859,-115.149225
+las_vegas_btx,Las Vegas,United States,October,Las Vegas,btx,Nevada,2018,2018-10-01,Las Vegas,city,"Las Vegas, Nevada, United States",36.1662859,-115.149225
+las_vegas_icon,Las Vegas,United States,January,Las Vegas,icon,Nevada,2008,2008-01-01,Las Vegas,city,"Las Vegas, Nevada, United States",36.1662859,-115.149225
+las_vegas_yah,Las Vegas,United States,March,Las Vegas,yah,Nevada,2013,2013-03-01,Las Vegas,city,"Las Vegas, Nevada, United States",36.1662859,-115.149225
+las_vegas_yaho,Las Vegas,United States,March,Las Vegas,yaho,Nevada,2017,2017-03-01,Las Vegas,city,"Las Vegas, Nevada, United States",36.1662859,-115.149225
+lausanne_icon,Lausanne,Switzerland,January,Lausanne,icon,,2009,2009-01-01,Lausanne,city,"Lausanne, Switzerland",46.5218269,6.6327025
+lebanon_icon,,Lebanon,January,Lebanon,icon,,2010,2010-01-01,,country,Lebanon,33.875062899999996,35.843409
+lebanon_yah,,Lebanon,August,Lebanon,yah,,2018,2018-08-01,,country,Lebanon,33.875062899999996,35.843409
+lebanon_yahx,,Lebanon,November,Lebanon,yahx,,2018,2018-11-01,,country,Lebanon,33.875062899999996,35.843409
+leiden_icon,Leiden,Netherlands,January,Leiden,icon,,2012,2012-01-01,Leiden,city,"Leiden, Netherlands",52.1518157,4.4811088666204295
+leipzig_icon,Leipzig,Germany,January,Leipzig,icon,,2009,2009-01-01,Leipzig,city,"Leipzig, Germany",51.3406321,12.3747329
+leipzig_yah,Leipzig,Germany,February,Leipzig,yah,,2018,2018-02-01,Leipzig,city,"Leipzig, Germany",51.3406321,12.3747329
+leon_bts,Leon,Mexico,January,León,bts,Guanajuato,2019,2019-01-01,Leon de los Aldama,city,"Leon, Guanajuato, Mexico",21.0973352,-101.64764230661801
+leon_icon,Leon,Mexico,January,León,icon,Guanajuato,2016,2016-01-01,Leon de los Aldama,city,"Leon, Guanajuato, Mexico",21.0973352,-101.64764230661801
+leshan_icon,Leshan,China,January,Leshan,icon,,2016,2016-01-01,Leshan,city,"Leshan, China",29.5608755,103.76199220000001
+leshan_yah,Leshan,China,October,Leshan,yah,,2019,2019-10-01,Leshan,city,"Leshan, China",29.5608755,103.76199220000001
+leuven_icon,Leuven,Belgium,January,Leuven,icon,,2014,2014-01-01,Leuven,city,"Leuven, Belgium",50.879202,4.7011675
+liege_icon,Liege,Belgium,January,Liège,icon,,2015,2015-01-01,Liege,city,"Liege, Belgium",50.6451381,5.5734203
+lijiang_icon,Lijiang,China,January,Lijiang,icon,,2015,2015-01-01,Lijiang,city,"Lijiang, China",26.874086600000005,100.23563320000001
+lijiang_rlf,Lijiang,China,November,Lijiang Blue,rlf,,2016,2016-11-01,Lijiang,city,"Lijiang, China",26.874086600000005,100.23563320000001
+lijiang_yah,Lijiang,China,June,Lijiang,yah,,2018,2018-06-01,Lijiang,city,"Lijiang, China",26.874086600000005,100.23563320000001
+lille_icon,Lille,France,January,Lille,icon,,2015,2015-01-01,Lille,city,"Lille, France",50.636565399999995,3.0635282000000004
+lille_yah,Lille,France,June,Lille,yah,,2019,2019-06-01,Lille,city,"Lille, France",50.636565399999995,3.0635282000000004
+lima_bts,Lima,Peru,March,Lima,bts,,2019,2019-03-01,Lima,city,"Lima, Peru",-12.0621065,-77.03652559999999
+lima_icon,Lima,Peru,January,Lima,icon,,2010,2010-01-01,Lima,city,"Lima, Peru",-12.0621065,-77.03652559999999
+limassol_yah,Limassol,Cyprus,December,Limassol,yah,,2018,2018-12-01,Limassol,city,"Limassol, Cyprus",34.79489125,32.985589384507996
+lisboa_icon,Lisbon,Portugal,January,Lisboa,icon,,2011,2011-01-01,Lisbon,city,"Lisbon, Portugal",38.707750700000005,-9.1365919
+lisboa_yah,Lisbon,Portugal,June,Lisboa,yah,,2017,2017-06-01,Lisbon,city,"Lisbon, Portugal",38.707750700000005,-9.1365919
+lisbon_icon,Lisbon,Portugal,January,Lisbon,icon,,2008,2008-01-01,Lisbon,city,"Lisbon, Portugal",38.707750700000005,-9.1365919
+liuzhou_icon,Liuzhou,China,January,Liuzhou,icon,,2013,2013-01-01,Liuzhou,city,"Liuzhou, China",24.328582100000002,109.409259
+liuzhou_yah,Liuzhou,China,December,Liuzhou,yah,,2018,2018-12-01,Liuzhou,city,"Liuzhou, China",24.328582100000002,109.409259
+liverpool_icon,Liverpool,United Kingdom,January,Liverpool,icon,England,2015,2015-01-01,Liverpool,city,"Liverpool, England, United Kingdom",53.407154000000006,-2.9916650000000002
+liverpool_yah,Liverpool,United Kingdom,May,Liverpool,yah,England,2017,2017-05-01,Liverpool,city,"Liverpool, England, United Kingdom",53.407154000000006,-2.9916650000000002
+lodz_icon,Lodz,Poland,January,Łódź,icon,,2016,2016-01-01,Lodz,city,"Lodz, Poland",51.768732299999996,19.456991100000003
+london_icon,London,United Kingdom,January,London,icon,England,2009,2009-01-01,London,city,"London, England, United Kingdom",51.5073219,-0.1276474
+london_icon_2,London,United Kingdom,January,London v.2,icon,England,2015,2015-01-01,London,city,"London, England, United Kingdom",51.5073219,-0.1276474
+london_rlf,London,United Kingdom,January,London,rlf,England,2011,2011-01-01,London,city,"London, England, United Kingdom",51.5073219,-0.1276474
+london_rlf_2,London,United Kingdom,November,London Red,rlf,England,2013,2013-11-01,London,city,"London, England, United Kingdom",51.5073219,-0.1276474
+london_rlf_3,London,United Kingdom,November,London Gold,rlf,England,2014,2014-11-01,London,city,"London, England, United Kingdom",51.5073219,-0.1276474
+london_rlf_4,London,United Kingdom,November,London Green,rlf,England,2015,2015-11-01,London,city,"London, England, United Kingdom",51.5073219,-0.1276474
+london_yah,London,United Kingdom,May,London,yah,England,2016,2016-05-01,London,city,"London, England, United Kingdom",51.5073219,-0.1276474
+london_yaho,London,United Kingdom,October,London,yaho,England,2016,2016-10-01,London,city,"London, England, United Kingdom",51.5073219,-0.1276474
+london_yahx,London,United Kingdom,October,London,yahx,England,2016,2016-10-01,London,city,"London, England, United Kingdom",51.5073219,-0.1276474
+london_yahx_2,London,United Kingdom,October,London v.2,yahx,England,2017,2017-10-01,London,city,"London, England, United Kingdom",51.5073219,-0.1276474
+los_angeles_btr1,Los Angeles,United States,April,Los Angeles v.1,bts,California,2018,2018-04-01,Los Angeles,city,"Los Angeles, California, United States",34.0536909,-118.2427666
+los_angeles_bts,Los Angeles,United States,May,Los Angeles v.2,bts,California,2018,2018-05-01,Los Angeles,city,"Los Angeles, California, United States",34.0536909,-118.2427666
+los_angeles_btx,Los Angeles,United States,November,Los Angeles,btx,California,2018,2018-11-01,Los Angeles,city,"Los Angeles, California, United States",34.0536909,-118.2427666
+los_angeles_icon,Los Angeles,United States,January,Los Angeles,icon,California,2008,2008-01-01,Los Angeles,city,"Los Angeles, California, United States",34.0536909,-118.2427666
+los_angeles_rlf,Los Angeles,United States,January,Los Angeles,rlf,California,2012,2012-01-01,Los Angeles,city,"Los Angeles, California, United States",34.0536909,-118.2427666
+los_angeles_yah,Los Angeles,United States,March,Los Angeles,yah,California,2013,2013-03-01,Los Angeles,city,"Los Angeles, California, United States",34.0536909,-118.2427666
+los_angeles_yaho,Los Angeles,United States,August,Los Angeles,yaho,California,2016,2016-08-01,Los Angeles,city,"Los Angeles, California, United States",34.0536909,-118.2427666
+los_angeles_yahox,Los Angeles,United States,November,Los Angeles,yahox,California,2014,2014-11-01,Los Angeles,city,"Los Angeles, California, United States",34.0536909,-118.2427666
+los_cabos_bts,Los Cabos,Mexico,August,Los Cabos,bts,Baja California,2018,2018-08-01,Los Cabos,city,"Los Cabos, Baja California, Mexico",31.700640600000003,-116.56075359999998
+los_cabos_ico1,Los Cabos,Mexico,January,Los Cabos v.1,icon,Baja California Sur,2009,2009-01-01,Los Cabos,city,"Los Cabos, Baja California Sur, Mexico",23.27184805,-109.68976841306299
+los_cabos_icon,Los Cabos,Mexico,January,Los Cabos,icon,Baja California Sur,2009,2009-01-01,Los Cabos,city,"Los Cabos, Baja California Sur, Mexico",23.27184805,-109.68976841306299
+louisiana_bto,,United States,September,Louisiana,bto,Louisiana,2018,2018-09-01,,state,"Louisiana, United States",30.8703881,-92.007126
+louisiana_btr1,,United States,April,Louisiana v.1,bts,Louisiana,2018,2018-04-01,,state,"Louisiana, United States",30.8703881,-92.007126
+louisiana_bts,,United States,May,Louisiana v.2,bts,Louisiana,2018,2018-05-01,,state,"Louisiana, United States",30.8703881,-92.007126
+lucerne_icon,Lucerne,Switzerland,January,Lucerne,icon,,2009,2009-01-01,Luzern,city,"Lucerne, Switzerland",47.0505452,8.3054682
+lucerne_yah,Lucerne,Switzerland,October,Lucerne,yah,,2017,2017-10-01,Luzern,city,"Lucerne, Switzerland",47.0505452,8.3054682
+luoyang_icon,Luoyang,China,January,Luoyang,icon,,2015,2015-01-01,Luoyang,city,"Luoyang, China",34.6556873,112.42096289999999
+luoyang_yah,Luoyang,China,November,Luoyang,yah,,2018,2018-11-01,Luoyang,city,"Luoyang, China",34.6556873,112.42096289999999
+luxembourg_icon,,Luxembourg,January,Luxembourg,icon,,2016,2016-01-01,,country,Luxembourg,49.8158683,6.1296751
+luzhou_yah,Luzhou,China,October,Luzhou,yah,,2019,2019-10-01,Luzhou,city,"Luzhou, China",28.8743249,105.4383176
+lyon_icon,Lyon,France,January,Lyon,icon,,2010,2010-01-01,Lyon,city,"Lyon, France",45.6963425,4.73594802991681
+maanshan_yah,Ma'anshan,China,November,Ma'anshan,yah,,2018,2018-11-01,Ma'anshan,city,"Ma'anshan, China",31.686610499999997,118.50483770000001
+macau_icon,Macau,Macao,January,Macau,icon,,2008,2008-01-01,Macau,city,"Macau, Macao",22.195629399999998,113.548784711485
+macau_rlf,Macau,Macao,January,Macau,rlf,,2015,2015-01-01,Macau,city,"Macau, Macao",22.195629399999998,113.548784711485
+macau_rlf_2,Macau,Macao,November,Macau Green,rlf,,2015,2015-11-01,Macau,city,"Macau, Macao",22.195629399999998,113.548784711485
+macau_rlf_3,Macau,Macao,November,Macau Sliver,rlf,,2016,2016-11-01,Macau,city,"Macau, Macao",22.195629399999998,113.548784711485
+macau_yah,Macau,Macao,September,Macau,yah,,2016,2016-09-01,Macau,city,"Macau, Macao",22.195629399999998,113.548784711485
+macau_yaho,Macau,Macao,August,Macau,yaho,,2016,2016-08-01,Macau,city,"Macau, Macao",22.195629399999998,113.548784711485
+macau_yahx,Macau,Macao,October,Macau,yahx,,2017,2017-10-01,Macau,city,"Macau, Macao",22.195629399999998,113.548784711485
+madrid_icon,Madrid,Spain,January,Madrid,icon,,2009,2009-01-01,Madrid,city,"Madrid, Spain",40.416704700000004,-3.7035824999999996
+madrid_yah,Madrid,Spain,August,Madrid,yah,,2016,2016-08-01,Madrid,city,"Madrid, Spain",40.416704700000004,-3.7035824999999996
+madrid_yahx,Madrid,Spain,November,Madrid,yahx,,2017,2017-11-01,Madrid,city,"Madrid, Spain",40.416704700000004,-3.7035824999999996
+magic_kingdom_bto,Lake Buena Vista,United States,July,Magic Kingdom,bts,Florida,2019,2019-07-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+magic_kingdom_bts,Lake Buena Vista,United States,April,Magic Kingdom,bts,Florida,2019,2019-04-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+magic_kingdom_yah,Lake Buena Vista,United States,January,Magic Kingdom,yah,Florida,2015,2015-01-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+magic_kingdom_yah_2,Lake Buena Vista,United States,September,Magic Kingdom v.2,yah,Florida,2017,2017-09-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+magic_kingdom_yah_3,Lake Buena Vista,United States,May,Magic Kingdom v.3,yah,Florida,2018,2018-05-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+magic_kingdom_yaho,Lake Buena Vista,United States,August,Magic Kingdom,yaho,Florida,2016,2016-08-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+magic_kingdom_yaho_2,Lake Buena Vista,United States,November,Magic Kingdom v.2,yaho,Florida,2017,2017-11-01,Lake Buena Vista,special,"Lake Buena Vista, Florida, United States",28.38034955,-81.5297578369267
+maine_bto,,United States,August,Maine,bto,Maine,2018,2018-08-01,,state,"Maine, United States",45.709097,-68.8590201
+maine_btr1,,United States,May,Maine v.1,bts,Maine,2018,2018-05-01,,state,"Maine, United States",45.709097,-68.8590201
+maine_bts,,United States,June,Maine v.2,bts,Maine,2018,2018-06-01,,state,"Maine, United States",45.709097,-68.8590201
+mainz_icon,Mainz,Germany,January,Mainz,icon,,2012,2012-01-01,Mainz,city,"Mainz, Germany",50.0012314,8.276251299999998
+makati_icon,Makati,Philippines,January,Makati,icon,,2012,2012-01-01,Makati City,city,"Makati, Philippines",14.55459465,121.021407905201
+makati_yah,Makati,Philippines,February,Makati,yah,,2017,2017-02-01,Makati City,city,"Makati, Philippines",14.55459465,121.021407905201
+malacca_rlf,,Malaysia,January,Malacca,rlf,Malacca,2014,2014-01-01,,state,"Malacca, Malaysia",2.2001524,102.2507207
+malaga_icon,Malaga,Spain,January,Málaga,icon,,2015,2015-01-01,Malaga,city,"Malaga, Spain",36.7213028,-4.421636599999999
+malaysia_icon,,Malaysia,January,Malaysia,icon,,2008,2008-01-01,,country,Malaysia,4.5693754,102.2656823
+malaysia_icon_2,,Malaysia,January,Malaysia v.2,icon,,2017,2017-01-01,,country,Malaysia,4.5693754,102.2656823
+malmo_icon,Malmo,Sweden,January,Malmo,icon,,2012,2012-01-01,Malmoe,city,"Malmo, Sweden",55.6052931,13.000156599999999
+malta_yah,,Malta,May,Malta,yah,,2019,2019-05-01,,country,Malta,35.888599299999996,14.4476911
+malta_yaho,,Malta,May,Malta,yaho,,2019,2019-05-01,,country,Malta,35.888599299999996,14.4476911
+manchester_icon,Manchester,United Kingdom,January,Manchester,icon,England,2012,2012-01-01,Manchester,city,"Manchester, England, United Kingdom",53.479489199999996,-2.2451147999999996
+manchster_yah,Manchester,United Kingdom,April,Manchester,yah,England,2017,2017-04-01,Manchester,city,"Manchester, England, United Kingdom",53.479489199999996,-2.2451147999999996
+manila_icon,Manila,Philippines,January,Manila,icon,,2008,2008-01-01,Manila,city,"Manila, Philippines",14.590621599999999,120.9799696
+manila_icon_2,Manila,Philippines,January,Manila v.2,icon,,2013,2013-01-01,Manila,city,"Manila, Philippines",14.590621599999999,120.9799696
+manila_rlf,Manila,Philippines,January,Manila,rlf,,2015,2015-01-01,Manila,city,"Manila, Philippines",14.590621599999999,120.9799696
+manila_rlf_2,Manila,Philippines,November,Manila Green,rlf,,2015,2015-11-01,Manila,city,"Manila, Philippines",14.590621599999999,120.9799696
+manila_rlf_3,Manila,Philippines,November,Manila Silver,rlf,,2016,2016-11-01,Manila,city,"Manila, Philippines",14.590621599999999,120.9799696
+manila_yah,Manila,Philippines,February,Manila,yah,,2017,2017-02-01,Manila,city,"Manila, Philippines",14.590621599999999,120.9799696
+manila_yahx,Manila,Philippines,October,Manila,yahx,,2017,2017-10-01,Manila,city,"Manila, Philippines",14.590621599999999,120.9799696
+manila_yahx_2,Manila,Philippines,November,Manila v.2,yahx,,2018,2018-11-01,Manila,city,"Manila, Philippines",14.590621599999999,120.9799696
+manitoba_bts,,Canada,May,Manitoba,bts,Manitoba,2018,2018-05-01,,state,"Manitoba, Canada",55.001251,-97.001038
+mannheim_icon,Mannheim,Germany,January,Mannheim,icon,,2011,2011-01-01,Mannheim,city,"Mannheim, Germany",49.489591,8.467236
+marbella_yah,Marbella,Spain,June,Marbella,yah,,2019,2019-06-01,Marbella,city,"Marbella, Spain",36.508976000000004,-4.885619999999999
+marrakech_yah,Marrakech,Morocco,July,Marrakech,yah,,2017,2017-07-01,Marrakesh,city,"Marrakech, Morocco",31.6258257,-7.9891608
+marseille_icon,Marseille,France,January,Marseille,icon,,2010,2010-01-01,Marseille,city,"Marseille, France",43.2961743,5.3699525
+marseille_yah,Marseille,France,June,Marseille,yah,,2017,2017-06-01,Marseille,city,"Marseille, France",43.2961743,5.3699525
+maryland_bto,,United States,August,Maryland,bto,Maryland,2018,2018-08-01,,state,"Maryland, United States",39.5162234,-76.9382069
+maryland_bto_2,,United States,March,Maryland v.2,bto,Maryland,2019,2019-03-01,,state,"Maryland, United States",39.5162234,-76.9382069
+maryland_bts,,United States,March,Maryland,bts,Maryland,2018,2018-03-01,,state,"Maryland, United States",39.5162234,-76.9382069
+maryland_bts_2,,United States,February,Maryland v.2,bts,Maryland,2019,2019-02-01,,state,"Maryland, United States",39.5162234,-76.9382069
+maryland_yah,,United States,October,Maryland,yah,Maryland,2015,2015-10-01,,state,"Maryland, United States",39.5162234,-76.9382069
+massachusetts_bto,,United States,August,Massachusetts,bto,Massachusetts,2018,2018-08-01,,state,"Massachusetts, United States",42.3788774,-72.03236600000001
+massachusetts_bts,,United States,March,Massachusetts,bts,Massachusetts,2018,2018-03-01,,state,"Massachusetts, United States",42.3788774,-72.03236600000001
+maui_bts,,United States,March,Maui,bts,Hawaii,2018,2018-03-01,,state,"Hawaii, United States",21.2160437,-157.975203
+mazatlan_bts,Mazatlan,Mexico,February,Mazatlán,bts,Sinaloa,2019,2019-02-01,Mazatlan,city,"Mazatlan, Sinaloa, Mexico",23.231305300000002,-106.41531440000001
+medellin_bts,Medellin,Colombia,August,Medellín,bts,,2018,2018-08-01,Medellin,city,"Medellin, Colombia",6.2443382000000005,-75.573553
+melbourne_icon,Melbourne,Australia,January,Melbourne,icon,Victoria,2008,2008-01-01,Melbourne,city,"Melbourne, Victoria, Australia",-37.814217600000006,144.9631608
+melbourne_rlf,Melbourne,Australia,January,Melbourne Green,rlf,,2015,2015-01-01,Melbourne,city,"Melbourne, Australia",-37.814217600000006,144.9631608
+melbourne_rlf_2,Melbourne,Australia,January,Melbourne,rlf,,2016,2016-01-01,Melbourne,city,"Melbourne, Australia",-37.814217600000006,144.9631608
+melbourne_rlf_3,Melbourne,Australia,November,Melbourne Green v.2,rlf,,2016,2016-11-01,Melbourne,city,"Melbourne, Australia",-37.814217600000006,144.9631608
+melbourne_yah,Melbourne,Australia,October,Melbourne,yah,Victoria,2016,2016-10-01,Melbourne,city,"Melbourne, Victoria, Australia",-37.814217600000006,144.9631608
+memphis_icon,Memphis,United States,January,Memphis,icon,Tennessee,2009,2009-01-01,Memphis,city,"Memphis, Tennessee, United States",35.1490215,-90.0516285
+memphis_yah,Memphis,United States,March,Memphis,yah,Tennessee,2013,2013-03-01,Memphis,city,"Memphis, Tennessee, United States",35.1490215,-90.0516285
+mendoza_bts,Mendoza,Argentina,August,Mendoza,bts,,2018,2018-08-01,Mendoza,city,"Mendoza, Argentina",-32.8897294,-68.8442956
+merida_bts,Merida,Mexico,August,Mérida,bts,Yucatan,2018,2018-08-01,Merida,city,"Merida, Yucatan, Mexico",20.967075899999998,-89.6237402
+merida_icon,Merida,Mexico,January,Mérida,icon,Yucatan,2010,2010-01-01,Merida,city,"Merida, Yucatan, Mexico",20.967075899999998,-89.6237402
+mexico_bts,,Mexico,March,México,bts,,2019,2019-03-01,,country,Mexico,19.4326009,-99.1333416
+mexico_icon,,Mexico,January,México,icon,,2010,2010-01-01,,country,Mexico,19.4326009,-99.1333416
+miami_bto,Miami,United States,September,Miami,bto,Florida,2018,2018-09-01,Miami,city,"Miami, Florida, United States",25.7742658,-80.1936589
+miami_bts,Miami,United States,April,Miami,bts,Florida,2018,2018-04-01,Miami,city,"Miami, Florida, United States",25.7742658,-80.1936589
+miami_icon,Miami,United States,January,Miami,icon,Florida,2009,2009-01-01,Miami,city,"Miami, Florida, United States",25.7742658,-80.1936589
+miami_yah,Miami,United States,March,Miami,yah,Florida,2013,2013-03-01,Miami,city,"Miami, Florida, United States",25.7742658,-80.1936589
+miami_yaho,Miami,United States,August,Miami,yaho,Florida,2016,2016-08-01,Miami,city,"Miami, Florida, United States",25.7742658,-80.1936589
+mianyang_icon,Mianyang,China,January,Mianyang,icon,,2015,2015-01-01,Mianyang,city,"Mianyang, China",31.458932,104.750108
+mianyang_yah,Mianyang,China,October,Mianyang,yah,,2019,2019-10-01,Mianyang,city,"Mianyang, China",31.458932,104.750108
+michigan_bto,,United States,August,Michigan v.1,bto,Michigan,2018,2018-08-01,,state,"Michigan, United States",43.6211955,-84.6824346
+michigan_bto_2,,United States,January,Michigan v.2,bto,Michigan,2019,2019-01-01,,state,"Michigan, United States",43.6211955,-84.6824346
+michigan_bts,,United States,March,Michigan v.1,bts,Michigan,2018,2018-03-01,,state,"Michigan, United States",43.6211955,-84.6824346
+michigan_bts_2,,United States,December,Michigan v.2,bts,Michigan,2018,2018-12-01,,state,"Michigan, United States",43.6211955,-84.6824346
+michigan_btx,,United States,November,Michigan,btx,Michigan,2018,2018-11-01,,state,"Michigan, United States",43.6211955,-84.6824346
+michigan_yah,,United States,October,Michigan,yah,Michigan,2015,2015-10-01,,state,"Michigan, United States",43.6211955,-84.6824346
+michigan_yaho,,United States,August,Michigan,yaho,Michigan,2016,2016-08-01,,state,"Michigan, United States",43.6211955,-84.6824346
+milan_yah,Milan,Italy,November,Milan,yah,,2018,2018-11-01,Milan,city,"Milan, Italy",45.4667971,9.1904984
+minnesota_bto,,United States,August,Minnesota,bto,Minnesota,2018,2018-08-01,,state,"Minnesota, United States",45.98965870000001,-94.6113288
+minnesota_bts,,United States,March,Minnesota,bts,Minnesota,2018,2018-03-01,,state,"Minnesota, United States",45.98965870000001,-94.6113288
+mississippi_bto,,United States,September,Mississippi,bto,Mississippi,2018,2018-09-01,,state,"Mississippi, United States",32.9715645,-89.7348497
+mississippi_bts,,United States,June,Mississippi,bts,Mississippi,2018,2018-06-01,,state,"Mississippi, United States",32.9715645,-89.7348497
+missouri_bto,,United States,August,Missouri,bto,Missouri,2018,2018-08-01,,state,"Missouri, United States",38.7604815,-92.5617875
+missouri_bto_2,,United States,March,Missouri v.2,bto,Missouri,2019,2019-03-01,,state,"Missouri, United States",38.7604815,-92.5617875
+missouri_bts,,United States,March,Missouri,bts,Missouri,2018,2018-03-01,,state,"Missouri, United States",38.7604815,-92.5617875
+monaco_icon,,Monaco,January,Monaco,icon,,2014,2014-01-01,,country,Monaco,43.73844025,7.424247402089031
+monaco_yah,,Monaco,May,Monaco,yah,,2019,2019-05-01,,country,Monaco,43.73844025,7.424247402089031
+montana_bto,,United States,August,Montana,bto,Montana,2018,2018-08-01,,state,"Montana, United States",47.3752671,-109.63875790000002
+montana_btr1,,United States,May,Montana v.1,bts,Montana,2018,2018-05-01,,state,"Montana, United States",47.3752671,-109.63875790000002
+montana_bts,,United States,May,Montana v.2,bts,Montana,2018,2018-05-01,,state,"Montana, United States",47.3752671,-109.63875790000002
+monterrey_bts,Monterrey,Mexico,January,Monterrey,bts,Neuvo Leon,2019,2019-01-01,Monterrey,city,"Monterrey, Neuvo Leon, Mexico",25.63978365,-100.293101629066
+monterrey_icon,Monterrey,Mexico,January,Monterrey,icon,Nuevo Leon,2009,2009-01-01,Monterrey,city,"Monterrey, Nuevo Leon, Mexico",25.63978365,-100.29310162906602
+monterrey_icon_2,Monterrey,Mexico,January,Monterrey v.2,icon,Nuevo Leon,2017,2017-01-01,Monterrey,city,"Monterrey, Nuevo Leon, Mexico",25.63978365,-100.29310162906602
+montreal_bts,Montreal,Canada,June,Montréal,bts,Quebec,2018,2018-06-01,Montreal,city,"Montreal, Quebec, Canada",45.4972159,-73.61036419999999
+montreal_bts_2,Montreal,Canada,November,Montréal v.2,bts,Quebec,2018,2018-11-01,Montreal,city,"Montreal, Quebec, Canada",45.4972159,-73.61036419999999
+montreal_icon,Montreal,Canada,January,Montréal,icon,Quebec,2009,2009-01-01,Montreal,city,"Montreal, Quebec, Canada",45.4972159,-73.61036419999999
+montreal_yah,Montreal,Canada,April,Montreal,yah,Quebec,2013,2013-04-01,Montreal,city,"Montreal, Quebec, Canada",45.4972159,-73.61036419999999
+montreal_yah_2,Montreal,Canada,March,Montréal v.2,yah,Quebec,2016,2016-03-01,Montreal,city,"Montreal, Quebec, Canada",45.4972159,-73.61036419999999
+morelia_bts,Morelia,Mexico,January,Morelia,bts,Michoacan,2019,2019-01-01,Morelia,city,"Morelia, Michoacan, Mexico",19.7027116,-101.19238179999999
+morelia_icon,Morelia,Mexico,January,Morelia,icon,Michoacan,2016,2016-01-01,Morelia,city,"Morelia, Michoacan, Mexico",19.7027116,-101.19238179999999
+morocco_icon,,Morocco,January,Morocco,icon,,2011,2011-01-01,,country,Morocco,31.1728205,-7.3362482
+moscow_icon,Moscow,Russia,January,Moscow,icon,,2008,2008-01-01,Moscow,city,"Moscow, Russia",55.7504461,37.6174943
+moscow_rlf,Moscow,Russia,January,Moscow,rlf,,2013,2013-01-01,Moscow,city,"Moscow, Russia",55.7504461,37.6174943
+moscow_rlf_2,Moscow,Russia,November,Moscow Gold,rlf,,2014,2014-11-01,Moscow,city,"Moscow, Russia",55.7504461,37.6174943
+moscow_rlf_3,Moscow,Russia,November,Moscow Green,rlf,,2015,2015-11-01,Moscow,city,"Moscow, Russia",55.7504461,37.6174943
+moscow_yah,Moscow,Russia,May,Moscow,yah,,2016,2016-05-01,Moscow,city,"Moscow, Russia",55.7504461,37.6174943
+moscow_yahx,Moscow,Russia,October,Moscow,yahx,,2016,2016-10-01,Moscow,city,"Moscow, Russia",55.7504461,37.6174943
+moscow_yahx_2,Moscow,Russia,October,Moscow v.2,yahx,,2017,2017-10-01,Moscow,city,"Moscow, Russia",55.7504461,37.6174943
+mumbai_yah,Mumbai,India,October,Mumbai,yah,,2017,2017-10-01,Mumbai,city,"Mumbai, India",18.9387711,72.8353355
+munich_icon,Munich,Germany,January,München,icon,,2009,2009-01-01,Munich,city,"Munich, Germany",48.1371079,11.575382199999998
+munich_yah,Munich,Germany,May,München,yah,,2016,2016-05-01,Munich,city,"Munich, Germany",48.1371079,11.575382199999998
+munster_icon,Munster,Germany,January,Münster,icon,,2009,2009-01-01,Muenster,city,"Munster, Germany",51.95013170000001,7.61330165026119
+mykonos_icon,Mykonos,Greece,January,Mykonos,icon,,2011,2011-01-01,Mykonos,city,"Mykonos, Greece",37.45142265,25.392309996672395
+mykonos_yah,Mykonos,Greece,July,Mykonos,yah,,2017,2017-07-01,Mykonos,city,"Mykonos, Greece",37.45142265,25.392309996672395
+naga_icon,Naga,Philippines,January,Naga,icon,,2011,2011-01-01,Naga,city,"Naga, Philippines",13.640319199999999,123.24065104861
+namur_icon,Namur,Belgium,January,Namur,icon,,2013,2013-01-01,Namur,city,"Namur, Belgium",50.4665284,4.8661892
+nanchang_icon,Nanchang,China,January,Nanchang,icon,,2011,2011-01-01,Nanchang,city,"Nanchang, China",28.6792695,115.8885987
+nanchang_yah,Nanchang,China,June,Nanchang,yah,,2018,2018-06-01,Nanchang,city,"Nanchang, China",28.6792695,115.8885987
+nanchong_yah,Nanchong,China,November,Nanchong,yah,,2018,2018-11-01,Nanchong,city,"Nanchong, China",30.7955696,106.08355390000001
+nanjing_icon,Nanjing,China,January,Nanjing,icon,,2011,2011-01-01,Nanjing,city,"Nanjing, China",32.060973600000004,118.79164579999998
+nanjing_rlf,Nanjing,China,January,Nanjing Blue,rlf,,2013,2013-01-01,Nanjing,city,"Nanjing, China",32.060973600000004,118.79164579999998
+nanjing_rlf_2,Nanjing,China,November,Nanjing Silver,rlf,,2016,2016-11-01,Nanjing,city,"Nanjing, China",32.060973600000004,118.79164579999998
+nanjing_yah,Nanjing,China,September,Nanjing,yah,,2017,2017-09-01,Nanjing,city,"Nanjing, China",32.060973600000004,118.79164579999998
+nanjing_yahx,Nanjing,China,November,Nanjing,yahx,,2017,2017-11-01,Nanjing,city,"Nanjing, China",32.060973600000004,118.79164579999998
+nanning_icon,Nanning,China,January,Nanning,icon,,2012,2012-01-01,Nanning,city,"Nanning, China",22.821165399999998,108.3159756
+nanning_rlf,Nanning,China,November,Nanning Blue,rlf,,2016,2016-11-01,Nanning,city,"Nanning, China",22.821165399999998,108.3159756
+nanning_yah,Nanning,China,September,Nanning,yah,,2017,2017-09-01,Nanning,city,"Nanning, China",22.821165399999998,108.3159756
+nantes_yah,Nantes,France,May,Nantes,yah,,2016,2016-05-01,Nantes,city,"Nantes, France",47.2186371,-1.5541361999999999
+nashville_bts,Nashville,United States,April,Nashville,bts,Tennessee,2018,2018-04-01,Nashville,city,"Nashville, Tennessee, United States",36.1622296,-86.7743531
+nashville_icon,Nashville,United States,January,Nashville,icon,Tennessee,2009,2009-01-01,Nashville,city,"Nashville, Tennessee, United States",36.1622296,-86.7743531
+nashville_yah,Nashville,United States,April,Nashville,yah,Tennessee,2013,2013-04-01,Nashville,city,"Nashville, Tennessee, United States",36.1622296,-86.7743531
+nashville_yaho,Nashville,United States,August,Nashville,yaho,Tennessee,2016,2016-08-01,Nashville,city,"Nashville, Tennessee, United States",36.1622296,-86.7743531
+nebraska_bto,,United States,October,Nebraska,bto,Nebraska,2018,2018-10-01,,state,"Nebraska, United States",41.7370229,-99.5873816
+nebraska_btr1,,United States,March,Nebraska v.1,bts,Nebraska,2018,2018-03-01,,state,"Nebraska, United States",41.7370229,-99.5873816
+nebraska_bts,,United States,March,Nebraska v.2,bts,Nebraska,2018,2018-03-01,,state,"Nebraska, United States",41.7370229,-99.5873816
+netherlands_icon,,Netherlands,January,Netherlands,icon,,2010,2010-01-01,,country,Netherlands,52.500169799999995,5.7480820999999995
+netherlands_yah,,Netherlands,October,Netherlands,yah,,2017,2017-10-01,,country,Netherlands,52.500169799999995,5.7480820999999995
+netherlands_yaho,,Netherlands,April,Netherlands,yaho,,2019,2019-04-01,,country,Netherlands,52.500169799999995,5.7480820999999995
+netherlands_yahox,,Netherlands,November,Netherlands,yahox,,2018,2018-11-01,,country,Netherlands,52.500169799999995,5.7480820999999995
+netherlands_yahx,,Netherlands,November,Netherlands,yahx,,2018,2018-11-01,,country,Netherlands,52.500169799999995,5.7480820999999995
+nevada_bto,,United States,August,Nevada,bto,Nevada,2018,2018-08-01,,state,"Nevada, United States",39.515882500000004,-116.85372269999999
+nevada_bts,,United States,March,Nevada,bts,Nevada,2018,2018-03-01,,state,"Nevada, United States",39.515882500000004,-116.85372269999999
+new_delhi_yah,New Delhi,India,December,New Delhi,yah,,2017,2017-12-01,New Delhi,city,"New Delhi, India",28.6141793,77.2022662
+new_hampshire_bto,,United States,September,New Hampshire,bto,New Hampshire,2018,2018-09-01,,state,"New Hampshire, United States",43.484913299999995,-71.6553992
+new_hampshire_bts,,United States,March,New Hampshire,bts,New Hampshire,2018,2018-03-01,,state,"New Hampshire, United States",43.484913299999995,-71.6553992
+new_jersey_bto,,United States,August,New Jersey,bto,New Jersey,2018,2018-08-01,,state,"New Jersey, United States",40.0757384,-74.4041622
+new_jersey_bts,,United States,March,New Jersey,bts,New Jersey,2018,2018-03-01,,state,"New Jersey, United States",40.0757384,-74.4041622
+new_jersey_yah,,United States,July,New Jersey,yah,New Jersey,2015,2015-07-01,,state,"New Jersey, United States",40.0757384,-74.4041622
+new_jersey_yaho,,United States,August,New Jersey,yaho,New Jersey,2016,2016-08-01,,state,"New Jersey, United States",40.0757384,-74.4041622
+new_mexico_bto,,United States,September,New Mexico,bto,New Mexico,2018,2018-09-01,,state,"New Mexico, United States",34.5708167,-105.993007
+new_mexico_bts,,United States,March,New Mexico,bts,New Mexico,2018,2018-03-01,,state,"New Mexico, United States",34.5708167,-105.993007
+new_mexico_icon,,United States,January,New Mexico,icon,New Mexico,2009,2009-01-01,,state,"New Mexico, United States",34.5708167,-105.993007
+new_mexico_yah,,United States,April,New Mexico,yah,New Mexico,2013,2013-04-01,,state,"New Mexico, United States",34.5708167,-105.993007
+new_orleans_bts,New Orleans,United States,April,New Orleans,bts,Louisiana,2018,2018-04-01,New Orleans,city,"New Orleans, Louisiana, United States",29.949932300000004,-90.0701156
+new_orleans_icon,New Orleans,United States,January,New Orleans,icon,Louisiana,2008,2008-01-01,New Orleans,city,"New Orleans, Louisiana, United States",29.949932300000004,-90.0701156
+new_orleans_yah,New Orleans,United States,April,New Orleans,yah,Louisiana,2013,2013-04-01,New Orleans,city,"New Orleans, Louisiana, United States",29.949932300000004,-90.0701156
+new_york_bto,,United States,August,New York,bto,New York,2018,2018-08-01,,state,"New York, United States",40.7127281,-74.0060152
+new_york_bts,,United States,March,New York,bts,New York,2018,2018-03-01,,state,"New York, United States",40.7127281,-74.0060152
+new_york_btx,,United States,October,New York,btx,New York,2018,2018-10-01,,state,"New York, United States",40.7127281,-74.0060152
+new_york_city_bts,New York,United States,April,New York City,bts,New York,2018,2018-04-01,New York City,city,"New York, New York, United States",40.7127281,-74.0060152
+new_york_city_rlf,New York City,United States,January,New York City,rlf,New York,2010,2010-01-01,New York City,city,"New York City, New York, United States",40.7127281,-74.0060152
+new_york_city_rlf_2,New York City,United States,January,New York City v.2,rlf,New York,2012,2012-01-01,New York City,city,"New York City, New York, United States",40.7127281,-74.0060152
+new_york_icon,New York,United States,January,New York,icon,New York,2008,2008-01-01,New York City,city,"New York, New York, United States",40.7127281,-74.0060152
+new_york_yah,New York,United States,March,New York,yah,New York,2013,2013-03-01,New York City,city,"New York, New York, United States",40.7127281,-74.0060152
+new_york_yaho,New York,United States,August,New York,yaho,New York,2016,2016-08-01,New York City,city,"New York, New York, United States",40.7127281,-74.0060152
+new_york_yahox,New York,United States,November,New York,yahox,New York,2014,2014-11-01,New York City,city,"New York, New York, United States",40.7127281,-74.0060152
+new_zealand_icon,,New Zealand,January,New Zealand,icon,,2011,2011-01-01,,country,New Zealand,-41.5000831,172.83440769999999
+newcastle_upon_tyne_yah,Newcastle Upon Tyne,United Kingdom,August,Newcastle Upon Tyne,yah,England,2017,2017-08-01,Newcastle upon Tyne,city,"Newcastle Upon Tyne, England, United Kingdom",54.97384739999999,-1.6131572
+niagara_falls_bto,Niagara Falls,Canada,August,Niagara Falls,bto,Ontario,2018,2018-08-01,Niagara Falls,city,"Niagara Falls, Ontario, Canada",43.100983,-79.11529499999999
+niagara_falls_bts,Niagara Falls,Canada,May,Niagara Falls,bts,Ontario,2018,2018-05-01,Niagara Falls,city,"Niagara Falls, Ontario, Canada",43.100983,-79.11529499999999
+niagara_falls_icon,Niagara Falls,Canada,January,Niagara Falls,icon,Ontario,2009,2009-01-01,Niagara Falls,city,"Niagara Falls, Ontario, Canada",43.100983,-79.11529499999999
+niagara_falls_yah,Niagara Falls,Canada,March,Niagara Falls,yah,Ontario,2013,2013-03-01,Niagara Falls,city,"Niagara Falls, Ontario, Canada",43.100983,-79.11529499999999
+nice_icon,Nice,France,January,Nice,icon,,2014,2014-01-01,Nice,city,"Nice, France",43.700935799999996,7.2683912
+nice_yah,Nice,France,September,Nice,yah,,2019,2019-09-01,Nice,city,"Nice, France",43.700935799999996,7.2683912
+nijmegen_icon,Nijmegen,Netherlands,January,Nijmegen,icon,,2013,2013-01-01,Nijmegen,city,"Nijmegen, Netherlands",51.84257485,5.8389606287482305
+nijmegen_icon_2,Nijmegen,Netherlands,January,Nijmegen v.2,icon,,2014,2014-01-01,Nijmegen,city,"Nijmegen, Netherlands",51.84257485,5.8389606287482305
+ningbo_icon,Ningbo,China,January,Ningbo,icon,,2011,2011-01-01,Ningbo,city,"Ningbo, China",29.862219399999997,121.62038729999999
+ningbo_rlf,Ningbo,China,January,Ningbo Blue,rlf,,2013,2013-01-01,Ningbo,city,"Ningbo, China",29.862219399999997,121.62038729999999
+ningbo_yah,Ningbo,China,September,Ningbo,yah,,2017,2017-09-01,Ningbo,city,"Ningbo, China",29.862219399999997,121.62038729999999
+north_carolina_bto,,United States,August,North Carolina,bto,North Carolina,2018,2018-08-01,,state,"North Carolina, United States",35.6729639,-79.03929190000001
+north_carolina_bts,,United States,March,North Carolina v.1,bts,North Carolina,2018,2018-03-01,,state,"North Carolina, United States",35.6729639,-79.03929190000001
+north_carolina_bts_2,,United States,March,North Carolina v.2,bts,North Carolina,2019,2019-03-01,,state,"North Carolina, United States",35.6729639,-79.03929190000001
+north_carolina_btx,,United States,November,North Carolina,btx,North Carolina,2018,2018-11-01,,state,"North Carolina, United States",35.6729639,-79.03929190000001
+north_carolina_icon,,United States,January,North Carolina,icon,North Carolina,2009,2009-01-01,,state,"North Carolina, United States",35.6729639,-79.03929190000001
+north_carolina_yah,,United States,April,North Carolina,yah,North Carolina,2013,2013-04-01,,state,"North Carolina, United States",35.6729639,-79.03929190000001
+north_carolina_yaho,,United States,August,North Carolina,yaho,North Carolina,2016,2016-08-01,,state,"North Carolina, United States",35.6729639,-79.03929190000001
+north_dakota_bto,,United States,September,North Dakota,bto,North Dakota,2018,2018-09-01,,state,"North Dakota, United States",47.6201461,-100.540737
+north_dakota_btr1,,United States,May,North Dakota v.1,bts,North Dakota,2018,2018-05-01,,state,"North Dakota, United States",47.6201461,-100.540737
+north_dakota_bts,,United States,May,North Dakota v.2,bts,North Dakota,2018,2018-05-01,,state,"North Dakota, United States",47.6201461,-100.540737
+north_island_icon,,New Zealand,January,North Island,icon,,2008,2008-01-01,,country,New Zealand,-41.5000831,172.83440769999999
+northern_ireland_icon,,United Kingdom,January,Northern Ireland,icon,Northern Ireland,2010,2010-01-01,,state,"Northern Ireland, United Kingdom",54.62949820000001,-6.7654416
+northern_ireland_yah,,United Kingdom,September,Northern Ireland,yah,Northern Ireland,2019,2019-09-01,,state,"Northern Ireland, United Kingdom",54.62949820000001,-6.7654416
+norway_icon,,Norway,January,Norway,icon,,2014,2014-01-01,,country,Norway,64.5731537,11.528036439548199
+norway_yah,,Norway,May,Norway,yah,,2018,2018-05-01,,country,Norway,64.5731537,11.528036439548199
+norway_yahx,,Norway,October,Norway,yahx,,2018,2018-10-01,,country,Norway,64.5731537,11.528036439548199
+novosibirsk_icon,Novosibirsk,Russia,January,Novosibirsk,icon,,2014,2014-01-01,Novosibirsk,city,"Novosibirsk, Russia",55.0282171,82.9234509
+nuernberg_icon,Nuremberg,Germany,January,Nürnberg,icon,,2009,2009-01-01,Nuernberg,city,"Nuremberg, Germany",49.453872,11.077297999999999
+nurnberg_yah,Nuremberg,Germany,November,Nürnberg,yah,,2017,2017-11-01,Nuernberg,city,"Nuremberg, Germany",49.453872,11.077297999999999
+oaxaca_bts,Oaxaca,Mexico,March,Oaxaca,bts,Oaxaca,2019,2019-03-01,Oaxaca,city,"Oaxaca, Oaxaca, Mexico",17.0604663,-96.7253575
+ohio_bto,,United States,August,Ohio,bto,Ohio,2018,2018-08-01,,state,"Ohio, United States",40.225356899999994,-82.6881395
+ohio_bts,,United States,March,Ohio,bts,Ohio,2018,2018-03-01,,state,"Ohio, United States",40.225356899999994,-82.6881395
+ohio_btx,,United States,November,Ohio,btx,Ohio,2018,2018-11-01,,state,"Ohio, United States",40.225356899999994,-82.6881395
+ohio_icon,,United States,January,Ohio,icon,Ohio,2009,2009-01-01,,state,"Ohio, United States",40.225356899999994,-82.6881395
+ohio_yah,,United States,April,Ohio,yah,Ohio,2013,2013-04-01,,state,"Ohio, United States",40.225356899999994,-82.6881395
+ohio_yaho,,United States,August,Ohio,yaho,Ohio,2016,2016-08-01,,state,"Ohio, United States",40.225356899999994,-82.6881395
+oklahoma_bto,,United States,October,Oklahoma,bto,Oklahoma,2018,2018-10-01,,state,"Oklahoma, United States",34.9550817,-97.2684063
+oklahoma_bts,,United States,March,Oklahoma,bts,Oklahoma,2018,2018-03-01,,state,"Oklahoma, United States",34.9550817,-97.2684063
+oklahoma_yah,,United States,March,Oklahoma,yah,Oklahoma,2016,2016-03-01,,state,"Oklahoma, United States",34.9550817,-97.2684063
+oktoberfest_icon,Munich,Germany,January,Oktoberfest,icon,,2011,2011-01-01,Munich,city,"Munich, Germany",48.1371079,11.575382199999998
+oktoberfest_icon_2,Munich,Germany,January,Oktoberfest v.2,icon,,2014,2014-01-01,Munich,city,"Munich, Germany",48.1371079,11.575382199999998
+oktoberfest_icon_3,Munich,Germany,January,Oktoberfest v.3,icon,,2015,2015-01-01,Munich,city,"Munich, Germany",48.1371079,11.575382199999998
+oktoberfest_icon_4,Munich,Germany,January,Oktoberfest v.4,icon,,2016,2016-01-01,Munich,city,"Munich, Germany",48.1371079,11.575382199999998
+oktoberfest_icon_5,Munich,Germany,January,Oktoberfest v.5,icon,,2017,2017-01-01,Munich,city,"Munich, Germany",48.1371079,11.575382199999998
+oktoberfest_yah,Munich,Germany,August,Oktoberfest,yah,,2019,2019-08-01,Munich,city,"Munich, Germany",48.1371079,11.575382199999998
+oman_icon,,Oman,January,Oman,icon,,2012,2012-01-01,,country,Oman,21.000028699999998,57.00369010000001
+oman_yah,,Oman,August,Oman,yah,,2018,2018-08-01,,country,Oman,21.000028699999998,57.00369010000001
+ontario_bts,,Canada,June,Ontario v.1,bts,Ontario,2018,2018-06-01,,state,"Ontario, Canada",50.000678,-86.000977
+ontario_bts_2,,Canada,December,Ontario v.2,bts,Ontario,2018,2018-12-01,,state,"Ontario, Canada",50.000678,-86.000977
+orange_county_icon,,United States,January,Orange County,icon,California,2008,2008-01-01,,state,"California, United States",36.7014631,-118.75599740000001
+orange_county_yah,Orange County,United States,March,Orange County,yah,California,2013,2013-03-01,Orange County,city,"Orange County, California, United States",33.750037799999994,-117.87049309999999
+oregon_bto,,United States,August,Oregon,bto,Oregon,2018,2018-08-01,,state,"Oregon, United States",43.9792797,-120.737257
+oregon_bts,,United States,March,Oregon,bts,Oregon,2018,2018-03-01,,state,"Oregon, United States",43.9792797,-120.737257
+oregon_btx,,United States,November,Oregon,btx,Oregon,2018,2018-11-01,,state,"Oregon, United States",43.9792797,-120.737257
+oregon_yah,,United States,August,Oregon,yah,Oregon,2015,2015-08-01,,state,"Oregon, United States",43.9792797,-120.737257
+oregon_yaho,,United States,March,Oregon,yaho,Oregon,2017,2017-03-01,,state,"Oregon, United States",43.9792797,-120.737257
+orlando_bts,Orlando,United States,April,Orlando,bts,Florida,2018,2018-04-01,Orlando,city,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+orlando_icon,Orlando,United States,January,Orlando,icon,Florida,2008,2008-01-01,Orlando,city,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+orlando_yah,Orlando,United States,March,Orlando,yah,Florida,2013,2013-03-01,Orlando,city,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+orlando_yaho,Orlando,United States,August,Orlando,yaho,Florida,2016,2016-08-01,Orlando,city,"Orlando, Florida, United States",28.5421097,-81.37903879999999
+osaka_icon,Osaka,Japan,January,Osaka,icon,,2009,2009-01-01,Osaka,city,"Osaka, Japan",34.6937569,135.5014539
+oslo_icon,Oslo,Norway,January,Oslo,icon,,2012,2012-01-01,Oslo,city,"Oslo, Norway",59.913330099999996,10.7389701
+oslo_yah,Oslo,Norway,May,Oslo,yah,,2017,2017-05-01,Oslo,city,"Oslo, Norway",59.913330099999996,10.7389701
+osnabrueck_icon,Osnabrueck,Germany,January,Osnabrück,icon,,2012,2012-01-01,Osnabrueck,city,"Osnabrueck, Germany",52.266837,8.049741000000001
+ostrava_icon,Ostrava,Czech Republic,January,Ostrava,icon,,2012,2012-01-01,Ostrava,city,"Ostrava, Czech Republic",49.8349139,18.2820084
+ottawa_bts,Ottawa,Canada,May,Ottawa,bts,Ontario,2018,2018-05-01,Ottawa,city,"Ottawa, Ontario, Canada",45.421106,-75.690308
+oxford_icon,Oxford,United Kingdom,January,Oxford,icon,England,2015,2015-01-01,Oxford,city,"Oxford, England, United Kingdom",51.7520131,-1.2578499
+oxford_yah,Oxford,United Kingdom,May,Oxford,yah,England,2017,2017-05-01,Oxford,city,"Oxford, England, United Kingdom",51.7520131,-1.2578499
+pahang_rlf,,Malaysia,January,Pahang,rlf,Pahang,2015,2015-01-01,,state,"Pahang, Malaysia",3.6278466000000003,102.58709509999998
+pampanga_icon,Pampanga,Philippines,January,Pampanga,icon,,2012,2012-01-01,Pampanga,city,"Pampanga, Philippines",15.0251068,120.68704740000001
+pampanga_yah,Pampanga,Philippines,March,Pampanga,yah,,2017,2017-03-01,Pampanga,city,"Pampanga, Philippines",15.0251068,120.68704740000001
+panama_bts,,Panama,January,Panamá,bts,,2019,2019-01-01,,country,Panama,8.3096067,-81.30662459999999
+panama_icon,,Panama,January,Panamá,icon,,2015,2015-01-01,,country,Panama,8.3096067,-81.30662459999999
+parc_walt_disney_studios_yah,Chessy,France,June,Parc Walt Disney Studios,yah,,2018,2018-06-01,Chessy,special,"Chessy, France",45.8871851,4.6229818
+paris_icon,Paris,France,January,Paris,icon,,2009,2009-01-01,Paris,city,"Paris, France",48.856610100000005,2.3514992
+paris_icon_2,Paris,France,January,Paris v.2,icon,,2015,2015-01-01,Paris,city,"Paris, France",48.856610100000005,2.3514992
+paris_rlf,Paris,France,January,Paris,rlf,,2011,2011-01-01,Paris,city,"Paris, France",48.856610100000005,2.3514992
+paris_rlf_2,Paris,France,November,Paris Red,rlf,,2013,2013-11-01,Paris,city,"Paris, France",48.856610100000005,2.3514992
+paris_rlf_3,Paris,France,November,Paris Gold,rlf,,2014,2014-11-01,Paris,city,"Paris, France",48.856610100000005,2.3514992
+paris_rlf_4,Paris,France,November,Paris Green,rlf,,2015,2015-11-01,Paris,city,"Paris, France",48.856610100000005,2.3514992
+paris_yah,Paris,France,July,Paris,yah,,2016,2016-07-01,Paris,city,"Paris, France",48.856610100000005,2.3514992
+paris_yaho,Paris,France,October,Paris,yaho,,2016,2016-10-01,Paris,city,"Paris, France",48.856610100000005,2.3514992
+paris_yahx,Paris,France,October,Paris,yahx,,2016,2016-10-01,Paris,city,"Paris, France",48.856610100000005,2.3514992
+paris_yahx_2,Paris,France,October,Paris v.2,yahx,,2017,2017-10-01,Paris,city,"Paris, France",48.856610100000005,2.3514992
+pattaya_icon,Pattaya,Thailand,January,Pattaya,icon,,2009,2009-01-01,Phatthaya,city,"Pattaya, Thailand",12.931941,100.9009534
+pattaya_yah,Pattaya,Thailand,April,Pattaya,yah,,2019,2019-04-01,Phatthaya,city,"Pattaya, Thailand",12.931941,100.9009534
+pattaya_yaho,Pattaya,Thailand,April,Pattaya,yaho,,2019,2019-04-01,Phatthaya,city,"Pattaya, Thailand",12.931941,100.9009534
+penang_icon,Penang,Malaysia,January,Penang,icon,,2008,2008-01-01,Penang,city,"Penang, Malaysia",5.4065012999999995,100.25590770000001
+penang_rlf,,Malaysia,January,Penang,rlf,Penang,2014,2014-01-01,,state,"Penang, Malaysia",5.4065012999999995,100.25590770000001
+pennsylvania_bto,,United States,August,Pennsylvania,bto,Pennsylvania,2018,2018-08-01,,state,"Pennsylvania, United States",40.9699889,-77.72788309999999
+pennsylvania_bto_2,,United States,April,Pennsylvania v.2,bto,Pennsylvania,2019,2019-04-01,,state,"Pennsylvania, United States",40.9699889,-77.72788309999999
+pennsylvania_bts,,United States,March,Pennsylvania,bts,Pennsylvania,2018,2018-03-01,,state,"Pennsylvania, United States",40.9699889,-77.72788309999999
+perak_rlf,,Malaysia,January,Perak,rlf,Perak,2015,2015-01-01,,state,"Perak, Malaysia",4.7916539,100.9276057
+peru_icon,,Peru,January,Perú,icon,,2012,2012-01-01,,country,Peru,-6.8699697,-75.0458515
+philadelphia_bts,Philadelphia,United States,April,Philadelphia,bts,Pennsylvania,2018,2018-04-01,Philadelphia,city,"Philadelphia, Pennsylvania, United States",39.9527237,-75.16352619999999
+philadelphia_icon,Philadelphia,United States,January,Philadelphia,icon,Pennsylvania,2009,2009-01-01,Philadelphia,city,"Philadelphia, Pennsylvania, United States",39.9527237,-75.16352619999999
+philadelphia_yah,Philadelphia,United States,March,Philadelphia,yah,Pennsylvania,2013,2013-03-01,Philadelphia,city,"Philadelphia, Pennsylvania, United States",39.9527237,-75.16352619999999
+philadelphia_yaho,Philadelphia,United States,August,Philadelphia,yaho,Pennsylvania,2016,2016-08-01,Philadelphia,city,"Philadelphia, Pennsylvania, United States",39.9527237,-75.16352619999999
+philippines_icon,,Philippines,January,Philippines,icon,,2008,2008-01-01,,country,Philippines,12.750348599999999,122.7312101
+philippines_icon_2,,Philippines,January,Philippines v.2,icon,,2016,2016-01-01,,country,Philippines,12.750348599999999,122.7312101
+philippines_yah,,Philippines,February,Philippines,yah,,2017,2017-02-01,,country,Philippines,12.750348599999999,122.7312101
+philippines_yahx,,Philippines,November,Philippines,yahx,,2017,2017-11-01,,country,Philippines,12.750348599999999,122.7312101
+philippines_yahx_2,,Philippines,November,Philippines v.2,yahx,,2018,2018-11-01,,country,Philippines,12.750348599999999,122.7312101
+phnom_penh_yah,Phnom Penh,Cambodia,October,Phnom Penh,yah,,2016,2016-10-01,Phnom Penh,city,"Phnom Penh, Cambodia",11.568271000000001,104.9224426
+phnom_penh_yaho,Phnom Penh,Cambodia,February,Phnom Penh,yaho,,2018,2018-02-01,Phnom Penh,city,"Phnom Penh, Cambodia",11.568271000000001,104.9224426
+phoenix_bts,Phoenix,United States,April,Phoenix,bts,Arizona,2018,2018-04-01,Phoenix,city,"Phoenix, Arizona, United States",33.448586600000006,-112.0773456
+phoenix_icon,Phoenix,United States,January,Phoenix,icon,Arizona,2009,2009-01-01,Phoenix,city,"Phoenix, Arizona, United States",33.448586600000006,-112.0773456
+phoenix_yah,Phoenix,United States,April,Phoenix,yah,Arizona,2013,2013-04-01,Phoenix,city,"Phoenix, Arizona, United States",33.448586600000006,-112.0773456
+phoenix_yaho,Phoenix,United States,June,Phoenix,yaho,Arizona,2017,2017-06-01,Phoenix,city,"Phoenix, Arizona, United States",33.448586600000006,-112.0773456
+phuket_icon,Phuket,Thailand,January,Phuket,icon,,2009,2009-01-01,Phuket,city,"Phuket, Thailand",7.9366015,98.3529292
+phuket_rlf,Phuket,Thailand,January,Phuket,rlf,,2016,2016-01-01,Phuket,city,"Phuket, Thailand",7.9366015,98.3529292
+phuket_yah,Phuket,Thailand,April,Phuket,yah,,2019,2019-04-01,Phuket,city,"Phuket, Thailand",7.9366015,98.3529292
+phuket_yaho,Phuket,Thailand,April,Phuket,yaho,,2019,2019-04-01,Phuket,city,"Phuket, Thailand",7.9366015,98.3529292
+pike_place_bto,Seattle,United States,November,Pike Place,bto,Washington,2018,2018-11-01,Seattle,special,"Seattle, Washington, United States",47.6038321,-122.3300624
+pike_place_btx,Seattle,United States,November,Pike Place,btx,Washington,2018,2018-11-01,Seattle,special,"Seattle, Washington, United States",47.6038321,-122.3300624
+pike_place_market_bts,Seattle,United States,April,Pike Place,bts,Washington,2018,2018-04-01,Seattle,special,"Seattle, Washington, United States",47.6038321,-122.3300624
+pike_place_market_icon,Seattle,United States,January,Pike Place Market,icon,Washington,2008,2008-01-01,Seattle,special,"Seattle, Washington, United States",47.6038321,-122.3300624
+pike_place_market_yah,Seattle,United States,March,Pike Place Market,yah,Washington,2013,2013-03-01,Seattle,special,"Seattle, Washington, United States",47.6038321,-122.3300624
+pike_place_market_yahox,Seattle,United States,November,Pike Place Market,yahox,Washington,2014,2014-11-01,Seattle,special,"Seattle, Washington, United States",47.6038321,-122.3300624
+pike_place_market_yahx,Seattle,United States,November,Pike Place Market,yahx,Washington,2014,2014-11-01,Seattle,special,"Seattle, Washington, United States",47.6038321,-122.3300624
+pittsburgh_bts,Pittsburgh,United States,April,Pittsburgh,bts,Pennsylvania,2018,2018-04-01,Pittsburgh,city,"Pittsburgh, Pennsylvania, United States",40.4416941,-79.99008609999998
+pittsburgh_icon,Pittsburgh,United States,January,Pittsburgh,icon,Pennsylvania,2009,2009-01-01,Pittsburgh,city,"Pittsburgh, Pennsylvania, United States",40.4416941,-79.99008609999998
+pittsburgh_yah,Pittsburgh,United States,March,Pittsburgh,yah,Pennsylvania,2013,2013-03-01,Pittsburgh,city,"Pittsburgh, Pennsylvania, United States",40.4416941,-79.99008609999998
+playa_del_carmen_bts,Playa del Carmen,Mexico,August,Playa del Carmen,bts,Quintana Roo,2018,2018-08-01,Playa del Carmen,city,"Playa del Carmen, Quintana Roo, Mexico",20.628223000000002,-87.07565799999999
+playa_del_carmen_icon,Playa Del Carmen,Mexico,January,Playa del Carmen,icon,Quintana Roo,2009,2009-01-01,Playa del Carmen,city,"Playa Del Carmen, Quintana Roo, Mexico",20.628223000000002,-87.07565799999999
+poland_icon,,Poland,January,Poland,icon,,2011,2011-01-01,,country,Poland,52.215933,19.134422
+poland_yah,,Poland,July,Poland,yah,,2018,2018-07-01,,country,Poland,52.215933,19.134422
+portland_bts,Portland,United States,April,Portland,bts,Oregon,2018,2018-04-01,Portland,city,"Portland, Oregon, United States",45.5202471,-122.6741949
+portland_icon,Portland,United States,January,Portland,icon,Oregon,2009,2009-01-01,Portland,city,"Portland, Oregon, United States",45.5202471,-122.6741949
+portland_yah,Portland,United States,March,Portland,yah,Oregon,2013,2013-03-01,Portland,city,"Portland, Oregon, United States",45.5202471,-122.6741949
+porto_yah,Porto,Portugal,November,Porto,yah,,2017,2017-11-01,Porto,city,"Porto, Portugal",41.1494512,-8.6107884
+portugal_icon,,Portugal,January,Portugal,icon,,2008,2008-01-01,,country,Portugal,40.033265,-7.889626299999999
+portugal_icon_2,,Portugal,January,Portugal v.2,icon,,2011,2011-01-01,,country,Portugal,40.033265,-7.889626299999999
+portugal_yah,,Portugal,November,Portugal,yah,,2018,2018-11-01,,country,Portugal,40.033265,-7.889626299999999
+portugal_yaho,,Portugal,February,Portugal,yaho,,2019,2019-02-01,,country,Portugal,40.033265,-7.889626299999999
+portugal_yahox,,Portugal,November,Portugal,yahox,,2018,2018-11-01,,country,Portugal,40.033265,-7.889626299999999
+portugal_yahx,,Portugal,November,Portugal,yahx,,2018,2018-11-01,,country,Portugal,40.033265,-7.889626299999999
+potsdam_icon,Potsdam,Germany,January,Potsdam,icon,,2009,2009-01-01,Potsdam,city,"Potsdam, Germany",52.4009309,13.0591397
+poznan_icon,Poznan,Poland,January,Poznań,icon,,2010,2010-01-01,Poznan,city,"Poznan, Poland",52.408266299999994,16.9335199
+prague_icon,Prague,Czech Republic,January,Prague,icon,,2009,2009-01-01,Prague,city,"Prague, Czech Republic",50.0874654,14.4212535
+prague_rlf,Prague,Czech Republic,January,Prague,rlf,,2011,2011-01-01,Prague,city,"Prague, Czech Republic",50.0874654,14.4212535
+prague_rlf_2,Prague,Czech Republic,November,Prague Gold,rlf,,2014,2014-11-01,Prague,city,"Prague, Czech Republic",50.0874654,14.4212535
+prague_rlf_3,Prague,Czech Republic,November,Prague Green,rlf,,2015,2015-11-01,Prague,city,"Prague, Czech Republic",50.0874654,14.4212535
+prague_yah,Prague,Czech Republic,September,Prague,yah,,2016,2016-09-01,Prague,city,"Prague, Czech Republic",50.0874654,14.4212535
+prague_yah_2,Prague,Czech Republic,January,Prague v.2,yah,,2018,2018-01-01,Prague,city,"Prague, Czech Republic",50.0874654,14.4212535
+prague_yaho,Prague,Czech Republic,November,Prague,yaho,,2016,2016-11-01,Prague,city,"Prague, Czech Republic",50.0874654,14.4212535
+prague_yahx,Prague,Czech Republic,October,Prague,yahx,,2016,2016-10-01,Prague,city,"Prague, Czech Republic",50.0874654,14.4212535
+prague_yahx_2,Prague,Czech Republic,November,Prague v.2,yahx,,2017,2017-11-01,Prague,city,"Prague, Czech Republic",50.0874654,14.4212535
+pretoria_yah,Pretoria,South Africa,September,Pretoria,yah,,2016,2016-09-01,Pretoria,city,"Pretoria, South Africa",-25.7459374,28.187944399999996
+puebla_bts,Puebla,Mexico,January,Puebla,bts,Puebla,2019,2019-01-01,Puebla,city,"Puebla, Puebla, Mexico",19.0437227,-98.19847440000001
+puebla_icon,Puebla,Mexico,January,Puebla,icon,Puebla,2016,2016-01-01,Puebla,city,"Puebla, Puebla, Mexico",19.0437227,-98.19847440000001
+puer_yah,Pu'er,China,June,Puer,yah,,2018,2018-06-01,Pu'er,city,"Pu'er, China",22.77326,100.9707544
+puer_yaho,Pu'er,China,June,Puer,yaho,,2018,2018-06-01,Pu'er,city,"Pu'er, China",22.77326,100.9707544
+puerto_rico_bts,,Puerto Rico,January,Puerto Rico,bts,,2019,2019-01-01,,country,Puerto Rico,18.22141715,-66.4132818505648
+puerto_rico_icon,,Puerto Rico,January,Puerto Rico,icon,,2011,2011-01-01,,country,Puerto Rico,18.22141715,-66.4132818505648
+puerto_vallarta_bts,Puerto Vallarta,Mexico,January,Puerto Vallarta,bts,Jalisco,2019,2019-01-01,Puerto Vallarta,city,"Puerto Vallarta, Jalisco, Mexico",20.69820775,-105.181524169965
+puerto_vallarta_icon,Puerto Vallarta,Mexico,January,Puerto Vallarta,icon,Jalisco,2008,2008-01-01,Puerto Vallarta,city,"Puerto Vallarta, Jalisco, Mexico",20.69820775,-105.181524169965
+puerto_vallarta_icon_2,Puerto Vallarta,Mexico,January,Puerto Vallarta v.2,icon,Jalisco,2011,2011-01-01,Puerto Vallarta,city,"Puerto Vallarta, Jalisco, Mexico",20.69820775,-105.181524169965
+qatar_icon,,Qatar,January,Qatar,icon,,2008,2008-01-01,,country,Qatar,25.3336984,51.2295295
+qatar_icon_2,,Qatar,January,Qatar v.2,icon,,2012,2012-01-01,,country,Qatar,25.3336984,51.2295295
+qatar_yah,,Qatar,September,Qatar,yah,,2018,2018-09-01,,country,Qatar,25.3336984,51.2295295
+qingdao_icon,Qingdao,China,January,Qingdao,icon,,2008,2008-01-01,Qingdao,city,"Qingdao, China",36.0634258,120.3785584
+qingdao_rlf,Qingdao,China,January,Qingdao Blue,rlf,,2014,2014-01-01,Qingdao,city,"Qingdao, China",36.0634258,120.3785584
+qinhuangdao_icon,Qinhuangdao,China,January,Qinhuangdao,icon,,2014,2014-01-01,Qinhuangdao,city,"Qinhuangdao, China",39.939572399999996,119.5894129
+qinhuangdao_yah,Qinhuangdao,China,January,Qinhuangdao,yah,,2019,2019-01-01,Qinhuangdao,city,"Qinhuangdao, China",39.939572399999996,119.5894129
+quanzhou_icon,Quanzhou,China,January,Quanzhou,icon,,2014,2014-01-01,Quanzhou,city,"Quanzhou, China",24.903880100000002,118.58514579999999
+quanzhou_yah,Quanzhou,China,December,Quanzhou,yah,,2018,2018-12-01,Quanzhou,city,"Quanzhou, China",24.903880100000002,118.58514579999999
+quebec_bts,,Canada,May,Québec,bts,Quebec,2018,2018-05-01,,state,"Quebec, Canada",52.4760892,-71.8258668
+quebec_icon,Quebec,Canada,January,Québec,icon,Quebec,2012,2012-01-01,Quebec,city,"Quebec, Quebec, Canada",46.8259601,-71.23522259999999
+quebec_yah,Quebec,Canada,September,Quebec,yah,Quebec,2013,2013-09-01,Quebec,city,"Quebec, Quebec, Canada",46.8259601,-71.23522259999999
+quebec_yah_2,Quebec,Canada,March,Québec v.2,yah,Quebec,2016,2016-03-01,Quebec,city,"Quebec, Quebec, Canada",46.8259601,-71.23522259999999
+queenstown_yah,Queenstown,New Zealand,October,Queenstown,yah,,2016,2016-10-01,Queenstown,city,"Queenstown, New Zealand",-45.031720299999996,168.6608096
+queretaro_bts,,Mexico,January,Querétaro,bts,Queretaro,2019,2019-01-01,,state,"Queretaro, Mexico",20.854257500000003,-99.84756
+queretaro_icon,,Mexico,January,Querétaro,icon,Queretaro,2016,2016-01-01,,state,"Queretaro, Mexico",20.854257500000003,-99.84756
+quezon_city_yah,Quezon City,Philippines,February,Quezon City,yah,,2017,2017-02-01,Quezon City,city,"Quezon City, Philippines",14.6509905,121.0486155
+qujing_yah,Qujing,China,April,Qujing,yah,,2019,2019-04-01,Qujing,city,"Qujing, China",25.4902717,103.79654000000001
+ramstein_yah,Ramstein,Germany,September,Ramstein,yah,,2016,2016-09-01,Ramstein,city,"Ramstein, Germany",49.4475167,7.555467599999999
+ras_al_khaimah_yah,Ras Al Khaimah,United Arab Emirates,September,Ras Al Khaimah,yah,,2018,2018-09-01,Ras al-Khaimah,city,"Ras Al Khaimah, United Arab Emirates",25.737639,55.907801629725896
+rhode_island_bto,,United States,August,Rhode Island,bto,Rhode Island,2018,2018-08-01,,state,"Rhode Island, United States",41.7962409,-71.59923719999999
+rhode_island_bts,,United States,March,Rhode Island,bts,Rhode Island,2018,2018-03-01,,state,"Rhode Island, United States",41.7962409,-71.59923719999999
+rhodes_icon,Rhodes,Greece,January,Rhodes,icon,,2009,2009-01-01,Rhodes,city,"Rhodes, Greece",36.437987400000004,28.2233083
+rio_de_janeiro_bts,Rio de Janeiro,Brazil,November,Rio De Janeiro,bts,,2018,2018-11-01,Rio de Janeiro,city,"Rio de Janeiro, Brazil",-22.911013699999998,-43.2093727
+rio_de_janeiro_icon,Rio De Janeiro,Brazil,January,Rio de Janeiro,icon,,2009,2009-01-01,Rio de Janeiro,city,"Rio De Janeiro, Brazil",-22.911013699999998,-43.2093727
+riyadh_icon,Riyadh,Saudi Arabia,January,Riyadh,icon,,2010,2010-01-01,Riyadh,city,"Riyadh, Saudi Arabia",24.631969199999997,46.7150648
+roermond_yah,Roermond,Netherlands,June,Roermond,yah,,2017,2017-06-01,Roermond,city,"Roermond, Netherlands",51.190174,5.9914098
+romania_icon,,Romania,January,Romania,icon,,2009,2009-01-01,,country,Romania,45.98521289999999,24.6859225
+romania_yah,,Romania,December,Romania,yah,,2018,2018-12-01,,country,Romania,45.98521289999999,24.6859225
+romania_yaho,,Romania,February,Romania,yaho,,2019,2019-02-01,,country,Romania,45.98521289999999,24.6859225
+romania_yahx,,Romania,December,Romania,yahx,,2018,2018-12-01,,country,Romania,45.98521289999999,24.6859225
+rosario_bts,Rosario,Argentina,August,Rosario,bts,,2018,2018-08-01,Rosario,city,"Rosario, Argentina",-32.959500399999996,-60.661541500000006
+rosario_icon,Rosario,Argentina,January,Rosario,icon,,2011,2011-01-01,Rosario,city,"Rosario, Argentina",-32.959500399999996,-60.661541500000006
+rostov-on-don_icon,Rostov-on-Don,Russia,January,Rostov-on-Don,icon,,2013,2013-01-01,Rostov-na-Donu,city,"Rostov-on-Don, Russia",47.22138579999999,39.7114196
+rotterdam_icon,Rotterdam,Netherlands,January,Rotterdam,icon,,2013,2013-01-01,Rotterdam,city,"Rotterdam, Netherlands",51.9228934,4.463178599999999
+rotterdam_yah,Rotterdam,Netherlands,December,Rotterdam,yah,,2017,2017-12-01,Rotterdam,city,"Rotterdam, Netherlands",51.9228934,4.463178599999999
+ruhrgebiet_icon,Ruhrgebiet,Germany,January,Ruhrgebiet,icon,,2009,2009-01-01,Ruhrgebiet,city,"Ruhrgebiet, Germany",51.51751795,7.14391820171324
+russia_icon,,Russia,January,Russia,icon,,2014,2014-01-01,,country,Russia,64.6863136,97.7453061
+russia_yah,,Russia,August,Russia,yah,,2018,2018-08-01,,country,Russia,64.6863136,97.7453061
+russia_yaho,,Russia,August,Russia,yaho,,2019,2019-08-01,,country,Russia,64.6863136,97.7453061
+russia_yahx,,Russia,October,Russia,yahx,,2018,2018-10-01,,country,Russia,64.6863136,97.7453061
+saarbruecken_icon,Saarbruecken,Germany,January,Saarbrücken,icon,,2012,2012-01-01,Saarbruecken,city,"Saarbruecken, Germany",49.234362,6.996378999999999
+sabah_icon,Sabah,Malaysia,January,Sabah,icon,,2009,2009-01-01,Sabah,city,"Sabah, Malaysia",5.595237,117.00517340000002
+sabah_rlf,,Malaysia,January,Sabah,rlf,Sabah,2014,2014-01-01,,state,"Sabah, Malaysia",5.595237,117.00517340000002
+sacramento_icon,Sacramento,United States,January,Sacramento,icon,California,2009,2009-01-01,Sacramento,city,"Sacramento, California, United States",38.5815719,-121.49439960000001
+salzburg_icon,Salzburg,Austria,January,Salzburg,icon,,2014,2014-01-01,Salzburg,city,"Salzburg, Austria",47.798134600000004,13.046480599999999
+salzburg_yah,Salzburg,Austria,June,Salzburg,yah,,2017,2017-06-01,Salzburg,city,"Salzburg, Austria",47.798134600000004,13.046480599999999
+samara_icon,Samara,Russia,January,Samara,icon,,2015,2015-01-01,Samara,city,"Samara, Russia",53.198627,50.113987
+san_antonio_bts,San Antonio,United States,April,San Antonio,bts,Texas,2018,2018-04-01,San Antonio,city,"San Antonio, Texas, United States",29.424600199999997,-98.4951405
+san_antonio_icon,San Antonio,United States,January,San Antonio,icon,Texas,2009,2009-01-01,San Antonio,city,"San Antonio, Texas, United States",29.424600199999997,-98.4951405
+san_antonio_yah,San Antonio,United States,April,San Antonio,yah,Texas,2013,2013-04-01,San Antonio,city,"San Antonio, Texas, United States",29.424600199999997,-98.4951405
+san_diego_btr1,San Diego,United States,May,San Diego v.1,bts,California,2018,2018-05-01,San Diego,city,"San Diego, California, United States",32.7174209,-117.16277140000001
+san_diego_bts,San Diego,United States,June,San Diego v.2,bts,California,2018,2018-06-01,San Diego,city,"San Diego, California, United States",32.7174209,-117.16277140000001
+san_diego_icon,San Diego,United States,January,San Diego,icon,California,2008,2008-01-01,San Diego,city,"San Diego, California, United States",32.7174209,-117.16277140000001
+san_diego_yah,San Diego,United States,March,San Diego,yah,California,2013,2013-03-01,San Diego,city,"San Diego, California, United States",32.7174209,-117.16277140000001
+san_diego_yaho,San Diego,United States,March,San Diego,yaho,California,2017,2017-03-01,San Diego,city,"San Diego, California, United States",32.7174209,-117.16277140000001
+san_francisco_bto,San Francisco,United States,August,San Francisco,bto,California,2018,2018-08-01,San Francisco,city,"San Francisco, California, United States",37.779280799999995,-122.4192363
+san_francisco_bts,San Francisco,United States,April,San Francisco,bts,California,2018,2018-04-01,San Francisco,city,"San Francisco, California, United States",37.779280799999995,-122.4192363
+san_francisco_btx,San Francisco,United States,October,San Francisco,btx,California,2018,2018-10-01,San Francisco,city,"San Francisco, California, United States",37.779280799999995,-122.4192363
+san_francisco_icon,San Francisco,United States,January,San Francisco,icon,California,2008,2008-01-01,San Francisco,city,"San Francisco, California, United States",37.779280799999995,-122.4192363
+san_francisco_rlf,San Francisco,United States,January,San Francisco,rlf,California,2012,2012-01-01,San Francisco,city,"San Francisco, California, United States",37.779280799999995,-122.4192363
+san_francisco_yah,San Francisco,United States,March,San Francisco,yah,California,2013,2013-03-01,San Francisco,city,"San Francisco, California, United States",37.779280799999995,-122.4192363
+san_francisco_yaho,San Francisco,United States,August,San Francisco,yaho,California,2016,2016-08-01,San Francisco,city,"San Francisco, California, United States",37.779280799999995,-122.4192363
+san_francisco_yahox,San Francisco,United States,November,San Francisco,yahox,California,2014,2014-11-01,San Francisco,city,"San Francisco, California, United States",37.779280799999995,-122.4192363
+san_jose_bts,San Jose,Costa Rica,December,San José,bts,,2018,2018-12-01,San Jose,city,"San Jose, Costa Rica",9.932542699999999,-84.0795782
+san_juan_bts,San Juan,Puerto Rico,January,San Juan,bts,,2019,2019-01-01,San Juan,city,"San Juan, Puerto Rico",18.465298999999998,-66.11666600000001
+san_miguel_de_allende_bts,San Miguel de Allende,Mexico,January,San Miguel de Allende,bts,Guanajuato,2019,2019-01-01,San Miguel de Allende,city,"San Miguel de Allende, Guanajuato, Mexico",20.9139025,-100.744012
+san_miguel_de_allende_icon,San Miguel de Allende,Mexico,January,San Miguel de Allende,icon,Guanajuato,2016,2016-01-01,San Miguel de Allende,city,"San Miguel de Allende, Guanajuato, Mexico",20.9139025,-100.744012
+santa_cruz_de_la_sierra_bts,Santa Cruz de la Sierra,Bolivia,August,Santa Cruz de la Sierra,bts,,2019,2019-08-01,Santa Cruz de la Sierra,city,"Santa Cruz de la Sierra, Bolivia",-17.7834936,-63.1820853
+santiago_bts,Santiago,Chile,August,Santiago,bts,,2018,2018-08-01,Santiago,city,"Santiago, Chile",-33.4377968,-70.65044509999998
+sanya_icon,Sanya,China,January,Sanya,icon,,2012,2012-01-01,Sanya,city,"Sanya, China",18.2534658,109.5034392
+sanya_yah,Sanya,China,September,Sanya,yah,,2017,2017-09-01,Sanya,city,"Sanya, China",18.2534658,109.5034392
+sao_paulo_bts,Sao Paulo,Brazil,November,São Paulo,bts,,2018,2018-11-01,Sao Paulo,city,"Sao Paulo, Brazil",-23.5506507,-46.633382399999995
+sao_paulo_icon,Sao Paulo,Brazil,January,São Paulo,icon,,2011,2011-01-01,Sao Paulo,city,"Sao Paulo, Brazil",-23.5506507,-46.633382399999995
+sapporo_icon,Sapporo,Japan,January,Sapporo,icon,,2009,2009-01-01,Sapporo,city,"Sapporo, Japan",43.0614489,141.354538
+sarawak_rlf,,Malaysia,January,Sarawak,rlf,Sarawak,2014,2014-01-01,,state,"Sarawak, Malaysia",2.3926225,113.64686699999999
+saskatchewan_bts,,Canada,May,Saskatchewan,bts,Saskatchewan,2018,2018-05-01,,state,"Saskatchewan, Canada",55.5321257,-106.1412243
+scotland_icon,,United Kingdom,January,Scotland,icon,Scotland,2010,2010-01-01,,state,"Scotland, United Kingdom",56.78611120000001,-4.1140517999999995
+scotland_yah,,United Kingdom,May,Scotland,yah,Scotland,2018,2018-05-01,,state,"Scotland, United Kingdom",56.78611120000001,-4.1140517999999995
+scotland_yaho,,United Kingdom,July,Scotland,yaho,Scotland,2019,2019-07-01,,state,"Scotland, United Kingdom",56.78611120000001,-4.1140517999999995
+scotland_yahx,,United Kingdom,November,Scotland,yahx,Scotland,2018,2018-11-01,,state,"Scotland, United Kingdom",56.78611120000001,-4.1140517999999995
+seattle_bto,Seattle,United States,August,Seattle,bto,Washington,2018,2018-08-01,Seattle,city,"Seattle, Washington, United States",47.6038321,-122.3300624
+seattle_bts,Seattle,United States,April,Seattle,bts,Washington,2018,2018-04-01,Seattle,city,"Seattle, Washington, United States",47.6038321,-122.3300624
+seattle_btx,Seattle,United States,October,Seattle,btx,Washington,2018,2018-10-01,Seattle,city,"Seattle, Washington, United States",47.6038321,-122.3300624
+seattle_icon,Seattle,United States,January,Seattle,icon,Washington,2008,2008-01-01,Seattle,city,"Seattle, Washington, United States",47.6038321,-122.3300624
+seattle_icon_2,Seattle,United States,January,Seattle v.2,icon,Washington,2009,2009-01-01,Seattle,city,"Seattle, Washington, United States",47.6038321,-122.3300624
+seattle_rlf,Seattle,United States,January,Seattle,rlf,Washington,2012,2012-01-01,Seattle,city,"Seattle, Washington, United States",47.6038321,-122.3300624
+seattle_yah,Seattle,United States,March,Seattle,yah,Washington,2013,2013-03-01,Seattle,city,"Seattle, Washington, United States",47.6038321,-122.3300624
+seattle_yaho,Seattle,United States,August,Seattle,yaho,Washington,2016,2016-08-01,Seattle,city,"Seattle, Washington, United States",47.6038321,-122.3300624
+seattle_yahox,Seattle,United States,November,Seattle,yahox,Washington,2014,2014-11-01,Seattle,city,"Seattle, Washington, United States",47.6038321,-122.3300624
+selangor_rlf,,Malaysia,January,Selangor,rlf,Selangor,2015,2015-01-01,,state,"Selangor, Malaysia",3.2083304,101.304146
+seoul_icon,Seoul,South Korea,January,Seoul,icon,,2008,2008-01-01,Seoul,city,"Seoul, South Korea",37.5666791,126.97829140000002
+seoul_rlf,Seoul,South Korea,January,Seoul,rlf,,2012,2012-01-01,Seoul,city,"Seoul, South Korea",37.5666791,126.97829140000002
+seoul_rlf_2,Seoul,South Korea,November,Seoul Red,rlf,,2013,2013-11-01,Seoul,city,"Seoul, South Korea",37.5666791,126.97829140000002
+seoul_rlf_3,Seoul,South Korea,November,Seoul Gold,rlf,,2014,2014-11-01,Seoul,city,"Seoul, South Korea",37.5666791,126.97829140000002
+serbia_yah,,Serbia,April,Serbia,yah,,2019,2019-04-01,,country,Serbia,44.153412100000004,20.55144
+sevilla_icon,Seville,Spain,January,Sevilla,icon,,2010,2010-01-01,Sevilla,city,"Seville, Spain",37.388630299999996,-5.9953403
+sevilla_yah,Sevilla,Spain,June,Sevilla,yah,,2019,2019-06-01,Sevilla,city,"Sevilla, Spain",37.388630299999996,-5.9953403
+seville_icon,Seville,Spain,January,Seville,icon,,2008,2008-01-01,Sevilla,city,"Seville, Spain",37.388630299999996,-5.9953403
+shanghai_icon,Shanghai,China,January,Shanghai,icon,,2008,2008-01-01,Shanghai,city,"Shanghai, China",31.232273499999998,121.46917490000001
+shanghai_rlf,Shanghai,China,January,Shanghai Blue,rlf,,2012,2012-01-01,Shanghai,city,"Shanghai, China",31.232273499999998,121.46917490000001
+shanghai_rlf_2,Shanghai,China,November,Shanghai Red,rlf,,2013,2013-11-01,Shanghai,city,"Shanghai, China",31.232273499999998,121.46917490000001
+shanghai_rlf_3,Shanghai,China,November,Shanghai Gold,rlf,,2014,2014-11-01,Shanghai,city,"Shanghai, China",31.232273499999998,121.46917490000001
+shanghai_rlf_4,Shanghai,China,January,Shanghai Blue v.2,rlf,,2015,2015-01-01,Shanghai,city,"Shanghai, China",31.232273499999998,121.46917490000001
+shanghai_rlf_5,Shanghai,China,November,Shanghai Green,rlf,,2015,2015-11-01,Shanghai,city,"Shanghai, China",31.232273499999998,121.46917490000001
+shanghai_rlf_6,Shanghai,China,November,Shanghai Silver,rlf,,2016,2016-11-01,Shanghai,city,"Shanghai, China",31.232273499999998,121.46917490000001
+shanghai_yah,Shanghai,China,September,Shanghai,yah,,2017,2017-09-01,Shanghai,city,"Shanghai, China",31.232273499999998,121.46917490000001
+shanghai_yahx,Shanghai,China,November,Shanghai,yahx,,2017,2017-11-01,Shanghai,city,"Shanghai, China",31.232273499999998,121.46917490000001
+shantou_icon,Shantou,China,January,Shantou,icon,,2015,2015-01-01,Shantou,city,"Shantou, China",23.356377,116.6775918
+sharjah_icon,Sharjah,United Arab Emirates,January,Sharjah,icon,,2011,2011-01-01,Sharjah,city,"Sharjah, United Arab Emirates",25.2311534,54.2190083135592
+sharm_el_sheikh_icon,Sharm El Sheikh,Egypt,January,Sharm El Sheikh,icon,,2009,2009-01-01,Sharm El Sheikh,city,"Sharm El Sheikh, Egypt",27.8669082,34.301455100000005
+shenyang_icon,Shenyang,China,January,Shenyang,icon,,2008,2008-01-01,Shenyang,city,"Shenyang, China",41.8041094,123.42763629999999
+shenyang_rlf,Shenyang,China,November,Shenyang Blue,rlf,,2016,2016-11-01,Shenyang,city,"Shenyang, China",41.8041094,123.42763629999999
+shenyang_yah,Shenyang,China,September,Shenyang,yah,,2017,2017-09-01,Shenyang,city,"Shenyang, China",41.8041094,123.42763629999999
+shenzhen_icon,Shenzhen,China,January,Shenzhen,icon,,2008,2008-01-01,Shenzhen,city,"Shenzhen, China",22.5445697,114.0545346
+shenzhen_rlf,Shenzhen,China,January,Shenzhen Blue,rlf,,2014,2014-01-01,Shenzhen,city,"Shenzhen, China",22.5445697,114.0545346
+shenzhen_rlf_2,Shenzhen,China,November,Shenzhen Green,rlf,,2015,2015-11-01,Shenzhen,city,"Shenzhen, China",22.5445697,114.0545346
+shenzhen_yah,Shenzhen,China,September,Shenzhen,yah,,2017,2017-09-01,Shenzhen,city,"Shenzhen, China",22.5445697,114.0545346
+shijiazhuang_icon,Shijiazhuang,China,January,Shijiazhuang,icon,,2011,2011-01-01,Shijiazhuang,city,"Shijiazhuang, China",38.04,114.47
+shijiazhuang_yah,Shijiazhuang,China,June,Shijiazhuang,yah,,2018,2018-06-01,Shijiazhuang,city,"Shijiazhuang, China",38.04,114.47
+siem_reap_yah,Siem Reap,Cambodia,August,Siem Reap,yah,,2017,2017-08-01,Siem Reap,city,"Siem Reap, Cambodia",13.3617562,103.8590321
+siem_reap_yaho,Siem Reap,Cambodia,December,Siem Reap,yaho,,2017,2017-12-01,Siem Reap,city,"Siem Reap, Cambodia",13.3617562,103.8590321
+singapore_icon,Singapore,Singapore,January,Singapore,icon,,2008,2008-01-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_icon_2,Singapore,Singapore,January,Singapore v.2,icon,,2008,2008-01-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_icon_3,Singapore,Singapore,January,Singapore v.3,icon,,2013,2013-01-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_icon_4,Singapore,Singapore,January,Singapore v.4,icon,,2013,2013-01-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_rlf,Singapore,Singapore,January,Singapore,rlf,,2014,2014-01-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_rlf_2,Singapore,Singapore,November,Singapore Gold,rlf,,2014,2014-11-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_rlf_3,Singapore,Singapore,November,Singapore Green,rlf,,2015,2015-11-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_rlf_4,Singapore,Singapore,November,Singapore Silver,rlf,,2016,2016-11-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_rlf_5,Singapore,Singapore,November,Singapore Red,rlf,,2017,2017-11-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_yah,Singapore,Singapore,June,Singapore,yah,,2016,2016-06-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_yah_2,Singapore,Singapore,June,Singapore v.2,yah,,2016,2016-06-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_yaho,Singapore,Singapore,August,Singapore,yaho,,2016,2016-08-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_yaho_2,Singapore,Singapore,August,Singapore v.2,yaho,,2016,2016-08-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+singapore_yahx,Singapore,Singapore,October,Singapore,yahx,,2017,2017-10-01,Singapore,city,"Singapore, Singapore",1.340863,103.83039182212099
+slovakia_icon,,Slovakia,January,Slovakia,icon,,2016,2016-01-01,,country,Slovakia,48.74115220000001,19.4528646
+slovakia_icon_2,,Slovakia,February,Slovakia v.2,icon,,2019,2019-02-01,,country,Slovakia,48.74115220000001,19.4528646
+slovakia_yah,,Slovakia,March,Slovakia,yah,,2019,2019-03-01,,country,Slovakia,48.74115220000001,19.4528646
+slovakia_yaho,,Slovakia,January,Slovakia,yaho,,2019,2019-01-01,,country,Slovakia,48.74115220000001,19.4528646
+sochi_icon,Sochi,Russia,January,Sochi,icon,,2014,2014-01-01,Sochi,city,"Sochi, Russia",43.585482299999995,39.723109
+sochi_icon_2,Sochi,Russia,January,Sochi v.2,icon,,2014,2014-01-01,Sochi,city,"Sochi, Russia",43.585482299999995,39.723109
+sofia_icon,Sofia,Bulgaria,January,Sofia,icon,,2009,2009-01-01,Sofia,city,"Sofia, Bulgaria",42.697863399999996,23.322178899999997
+south_africa_icon,,South Africa,January,South Africa,icon,,2016,2016-01-01,,country,South Africa,-28.816623600000003,24.991639000000003
+south_africa_yah,,South Africa,February,South Africa,yah,,2019,2019-02-01,,country,South Africa,-28.816623600000003,24.991639000000003
+south_carolina_bto,,United States,August,South Carolina,bto,South Carolina,2018,2018-08-01,,state,"South Carolina, United States",33.687438799999995,-80.4363743
+south_carolina_bts,,United States,March,South Carolina,bts,South Carolina,2018,2018-03-01,,state,"South Carolina, United States",33.687438799999995,-80.4363743
+south_dakota_bto,,United States,August,South Dakota,bto,South Dakota,2018,2018-08-01,,state,"South Dakota, United States",44.6471761,-100.348761
+south_dakota_btr1,,United States,April,South Dakota v.1,bts,South Dakota,2018,2018-04-01,,state,"South Dakota, United States",44.6471761,-100.348761
+south_dakota_bts,,United States,August,South Dakota v.2,bts,South Dakota,2018,2018-08-01,,state,"South Dakota, United States",44.6471761,-100.348761
+south_island_icon,,New Zealand,January,South Island,icon,,2008,2008-01-01,,country,New Zealand,-41.5000831,172.83440769999999
+spain_icon,,Spain,January,Spain,icon,,2008,2008-01-01,,country,Spain,39.3262345,-4.838064900000001
+spain_yah,,Spain,May,Spain,yah,,2018,2018-05-01,,country,Spain,39.3262345,-4.838064900000001
+spain_yaho,,Spain,February,Spain,yaho,,2019,2019-02-01,,country,Spain,39.3262345,-4.838064900000001
+spain_yahox,,Spain,November,Spain,yahox,,2018,2018-11-01,,country,Spain,39.3262345,-4.838064900000001
+spain_yahx,,Spain,November,Spain,yahx,,2018,2018-11-01,,country,Spain,39.3262345,-4.838064900000001
+spangdahlem_icon,Spangdahlem,Germany,January,Spangdahlem,icon,,2014,2014-01-01,Spangdahlem,city,"Spangdahlem, Germany",49.9833,6.683330000000001
+st_gallen_icon,St. Gallen,Switzerland,January,St. Gallen,icon,,2009,2009-01-01,Sankt Gallen,city,"St. Gallen, Switzerland",47.4250593,9.376587800000001
+st_louis_bts,St. Louis,United States,April,St.Louis,bts,Missouri,2018,2018-04-01,St. Louis,city,"St. Louis, Missouri, United States",38.6268039,-90.1994097
+st_louis_icon,St. Louis,United States,January,St. Louis,icon,Missouri,2008,2008-01-01,St. Louis,city,"St. Louis, Missouri, United States",38.6268039,-90.1994097
+st_louis_yah,St. Louis,United States,April,St. Louis,yah,Missouri,2013,2013-04-01,St. Louis,city,"St. Louis, Missouri, United States",38.6268039,-90.1994097
+st_petersburg_icon,Saint Petersburg,Russia,January,St. Petersburg,icon,,2012,2012-01-01,Saint Petersburg,city,"Saint Petersburg, Russia",59.938731999999995,30.316228999999996
+st_petersburg_icon_2,Saint Petersburg,Russia,January,St. Petersburg v.2,icon,,2014,2014-01-01,Saint Petersburg,city,"Saint Petersburg, Russia",59.938731999999995,30.316228999999996
+st_petersburg_rlf,St. Petersburg,Russia,January,St. Petersburg,rlf,,2014,2014-01-01,Saint Petersburg,city,"St. Petersburg, Russia",59.938731999999995,30.316228999999996
+st_petersburg_yah,Saint Petersburg,Russia,March,St. Petersburg,yah,,2017,2017-03-01,Saint Petersburg,city,"Saint Petersburg, Russia",59.938731999999995,30.316228999999996
+stavanger_icon,Stavanger,Norway,January,Stavanger,icon,,2015,2015-01-01,Stavanger,city,"Stavanger, Norway",58.968042700000005,5.7324722
+stockholm_icon,Stockholm,Sweden,January,Stockholm,icon,,2010,2010-01-01,Stockholm,city,"Stockholm, Sweden",59.3251172,18.0710935
+stockholm_yah,Stockholm,Sweden,June,Stockholm,yah,,2016,2016-06-01,Stockholm,city,"Stockholm, Sweden",59.3251172,18.0710935
+stockholm_yahx,Stockholm,Sweden,October,Stockholm,yahx,,2017,2017-10-01,Stockholm,city,"Stockholm, Sweden",59.3251172,18.0710935
+strasbourg_yah,Strasbourg,France,June,Strasbourg,yah,,2016,2016-06-01,Strasbourg,city,"Strasbourg, France",48.584614,7.750712700000001
+stuttgart_icon,Stuttgart,Germany,January,Stuttgart,icon,,2009,2009-01-01,Stuttgart,city,"Stuttgart, Germany",48.778448499999996,9.1800132
+stuttgart_yah,Stuttgart,Germany,November,Stuttgart,yah,,2017,2017-11-01,Stuttgart,city,"Stuttgart, Germany",48.778448499999996,9.1800132
+suzhou_icon,Suzhou,China,January,Suzhou,icon,,2011,2011-01-01,Suzhou,city,"Suzhou, China",31.4029941,120.73353475518499
+suzhou_rlf,Suzhou,China,January,Suzhou Blue,rlf,,2013,2013-01-01,Suzhou,city,"Suzhou, China",31.4029941,120.733534755185
+suzhou_yah,Suzhou,China,September,Suzhou,yah,,2017,2017-09-01,Suzhou,city,"Suzhou, China",31.4029941,120.733534755185
+sweden_icon,,Sweden,January,Sweden,icon,,2012,2012-01-01,,country,Sweden,59.6749712,14.5208584
+sweden_yah,,Sweden,September,Sweden,yah,,2018,2018-09-01,,country,Sweden,59.6749712,14.5208584
+switzerland_icon,,Switzerland,January,Switzerland,icon,,2009,2009-01-01,,country,Switzerland,46.7985624,8.2319736
+switzerland_icon_2,,Switzerland,January,Switzerland v.2,icon,,2015,2015-01-01,,country,Switzerland,46.7985624,8.2319736
+switzerland_yah,,Switzerland,October,Switzerland,yah,,2017,2017-10-01,,country,Switzerland,46.7985624,8.2319736
+switzerland_yaho,,Switzerland,April,Switzerland,yaho,,2019,2019-04-01,,country,Switzerland,46.7985624,8.2319736
+switzerland_yahox,,Switzerland,October,Switzerland,yahox,,2018,2018-10-01,,country,Switzerland,46.7985624,8.2319736
+switzerland_yahx,,Switzerland,October,Switzerland,yahx,,2018,2018-10-01,,country,Switzerland,46.7985624,8.2319736
+sydney_icon,Sydney,Australia,January,Sydney,icon,New South Wales,2008,2008-01-01,Sydney,city,"Sydney, New South Wales, Australia",-33.8548157,151.2164539
+sydney_rlf,Sydney,Australia,January,Sydney Green,rlf,,2015,2015-01-01,Sydney,city,"Sydney, Australia",-33.8548157,151.2164539
+sydney_rlf_2,Sydney,Australia,January,Sydney,rlf,,2016,2016-01-01,Sydney,city,"Sydney, Australia",-33.8548157,151.2164539
+sydney_rlf_3,Sydney,Australia,November,Sydney Green v.2,rlf,,2016,2016-11-01,Sydney,city,"Sydney, Australia",-33.8548157,151.2164539
+sydney_yah,Sydney,Australia,October,Sydney,yah,New South Wales,2016,2016-10-01,Sydney,city,"Sydney, New South Wales, Australia",-33.8548157,151.2164539
+szczecin_icon,Szczecin,Poland,January,Szczecin,icon,,2011,2011-01-01,Szczecin,city,"Szczecin, Poland",53.42968095,14.5929126702923
+tagaytay_icon,Tagaytay,Philippines,January,Tagaytay,icon,,2012,2012-01-01,Tagaytay,city,"Tagaytay, Philippines",14.1149812,120.9635545
+tagaytay_yah,Tagaytay,Philippines,February,Tagaytay,yah,,2017,2017-02-01,Tagaytay,city,"Tagaytay, Philippines",14.1149812,120.9635545
+taian_yah,Tai'an,China,January,Tai'an,yah,,2019,2019-01-01,Tai'an,city,"Tai'an, China",36.2002968,117.0809316
+taichung_icon,Taichung,Taiwan,January,Taichung,icon,,2009,2009-01-01,Taichung,city,"Taichung, Taiwan",24.163162,120.6478282
+taichung_rlf,Taichung,Taiwan,January,Taichung,rlf,,2013,2013-01-01,Taichung,city,"Taichung, Taiwan",24.163162,120.6478282
+taichung_rlf_2,Taichung,Taiwan,November,Taichung Gold,rlf,,2014,2014-11-01,Taichung,city,"Taichung, Taiwan",24.163162,120.6478282
+taichung_rlf_3,Taichung,Taiwan,November,Taichung Green,rlf,,2015,2015-11-01,Taichung,city,"Taichung, Taiwan",24.163162,120.6478282
+taichung_yah,Taichung,Taiwan,November,Taichung,yah,,2016,2016-11-01,Taichung,city,"Taichung, Taiwan",24.163162,120.6478282
+taichung_yaho,Taichung,Taiwan,November,Taichung,yaho,,2016,2016-11-01,Taichung,city,"Taichung, Taiwan",24.163162,120.6478282
+tainan_icon,Tainan,Taiwan,January,Tainan,icon,,2009,2009-01-01,Tainan,city,"Tainan, Taiwan",22.9912348,120.184982
+tainan_rlf,Tainan,Taiwan,January,Tainan,rlf,,2013,2013-01-01,Tainan,city,"Tainan, Taiwan",22.9912348,120.184982
+tainan_rlf_2,Tainan,Taiwan,November,Tainan Gold,rlf,,2014,2014-11-01,Tainan,city,"Tainan, Taiwan",22.9912348,120.184982
+tainan_rlf_3,Tainan,Taiwan,November,Tainan Green,rlf,,2015,2015-11-01,Tainan,city,"Tainan, Taiwan",22.9912348,120.184982
+tainan_yah,Tainan,Taiwan,November,Tainan,yah,,2016,2016-11-01,Tainan,city,"Tainan, Taiwan",22.9912348,120.184982
+tainan_yaho,Tainan,Taiwan,November,Tainan,yaho,,2016,2016-11-01,Tainan,city,"Tainan, Taiwan",22.9912348,120.184982
+taipei_icon,Taipei,Taiwan,January,Taipei,icon,,2009,2009-01-01,Taipei,city,"Taipei, Taiwan",25.0375198,121.5636796
+taipei_rlf,Taipei,Taiwan,January,Taipei,rlf,,2013,2013-01-01,Taipei,city,"Taipei, Taiwan",25.0375198,121.5636796
+taipei_rlf_2,Taipei,Taiwan,November,Taipei Red,rlf,,2013,2013-11-01,Taipei,city,"Taipei, Taiwan",25.0375198,121.5636796
+taipei_rlf_3,Taipei,Taiwan,November,Taipei Gold,rlf,,2014,2014-11-01,Taipei,city,"Taipei, Taiwan",25.0375198,121.5636796
+taipei_rlf_4,Taipei,Taiwan,November,Taipei Green,rlf,,2015,2015-11-01,Taipei,city,"Taipei, Taiwan",25.0375198,121.5636796
+taipei_rlf_5,Taipei,Taiwan,November,Taipei Silver,rlf,,2016,2016-11-01,Taipei,city,"Taipei, Taiwan",25.0375198,121.5636796
+taipei_yah,Taipei,Taiwan,November,Taipei,yah,,2016,2016-11-01,Taipei,city,"Taipei, Taiwan",25.0375198,121.5636796
+taipei_yaho,Taipei,Taiwan,November,Taipei,yaho,,2016,2016-11-01,Taipei,city,"Taipei, Taiwan",25.0375198,121.5636796
+taipei_yahx,Taipei,Taiwan,October,Taipei,yahx,,2017,2017-10-01,Taipei,city,"Taipei, Taiwan",25.0375198,121.5636796
+taiwan_icon,,Taiwan,January,Taiwan,icon,,2009,2009-01-01,,country,Taiwan,23.59829785,120.835363138175
+taiwan_rlf,,Taiwan,January,Taiwan,rlf,,2014,2014-01-01,,country,Taiwan,23.59829785,120.835363138175
+taiwan_rlf_2,,Taiwan,November,Taiwan Red,rlf,,2014,2014-11-01,,country,Taiwan,23.59829785,120.835363138175
+taiwan_rlf_3,,Taiwan,November,Taiwan Green,rlf,,2015,2015-11-01,,country,Taiwan,23.59829785,120.835363138175
+taiwan_rlf_4,,Taiwan,November,Taiwan Silver,rlf,,2016,2016-11-01,,country,Taiwan,23.59829785,120.835363138175
+taiwan_yah,,Taiwan,November,Taiwan,yah,,2016,2016-11-01,,country,Taiwan,23.59829785,120.835363138175
+taiwan_yaho,,Taiwan,November,Taiwan,yaho,,2016,2016-11-01,,country,Taiwan,23.59829785,120.835363138175
+taiwan_yahx,,Taiwan,October,Taiwan,yahx,,2017,2017-10-01,,country,Taiwan,23.59829785,120.835363138175
+taiyuan_icon,Taiyuan,China,January,Taiyuan,icon,,2012,2012-01-01,Taiyuan,city,"Taiyuan, China",37.8561856,112.5561744
+taiyuan_rlf,Taiyuan,China,November,Taiyuan Blue,rlf,,2016,2016-11-01,Taiyuan,city,"Taiyuan, China",37.8561856,112.5561744
+taiyuan_yah,Taiyuan,China,June,Taiyuan,yah,,2018,2018-06-01,Taiyuan,city,"Taiyuan, China",37.8561856,112.5561744
+tampa_icon,Tampa,United States,January,Tampa,icon,Florida,2009,2009-01-01,Tampa,city,"Tampa, Florida, United States",27.9477595,-82.458444
+taoyuan_rlf,Taoyuan,Taiwan,January,Taoyuan,rlf,,2015,2015-01-01,Taoyuan City,city,"Taoyuan, Taiwan",24.993923,121.30168
+taoyuan_rlf_2,Taoyuan,Taiwan,November,Taoyuan Green,rlf,,2015,2015-11-01,Taoyuan City,city,"Taoyuan, Taiwan",24.993923,121.30168
+tennessee_bto,,United States,August,Tennessee,bto,Tennessee,2018,2018-08-01,,state,"Tennessee, United States",35.7730076,-86.2820081
+tennessee_bts,,United States,March,Tennessee,bts,Tennessee,2018,2018-03-01,,state,"Tennessee, United States",35.7730076,-86.2820081
+tennessee_yah,,United States,July,Tennessee,yah,Tennessee,2014,2014-07-01,,state,"Tennessee, United States",35.7730076,-86.2820081
+texas_bto,,United States,August,Texas,bto,Texas,2018,2018-08-01,,state,"Texas, United States",31.8160381,-99.5120986
+texas_bts,,United States,March,Texas,bts,Texas,2018,2018-03-01,,state,"Texas, United States",31.8160381,-99.5120986
+texas_btx,,United States,October,Texas,btx,Texas,2018,2018-10-01,,state,"Texas, United States",31.8160381,-99.5120986
+texas_yah,,United States,July,Texas,yah,Texas,2015,2015-07-01,,state,"Texas, United States",31.8160381,-99.5120986
+texas_yaho,,United States,August,Texas,yaho,Texas,2016,2016-08-01,,state,"Texas, United States",31.8160381,-99.5120986
+thailand_icon,,Thailand,January,Thailand,icon,,2009,2009-01-01,,country,Thailand,14.8971921,100.83273
+thailand_yah,,Thailand,February,Thailand,yah,,2017,2017-02-01,,country,Thailand,14.8971921,100.83273
+thailand_yaho,,Thailand,February,Thailand,yaho,,2017,2017-02-01,,country,Thailand,14.8971921,100.83273
+thailand_yahx,,Thailand,November,Thailand,yahx,,2017,2017-11-01,,country,Thailand,14.8971921,100.83273
+the_hamptons_yah,,United States,March,The Hamptons,yah,New York,2013,2013-03-01,,state,"New York, United States",40.7127281,-74.0060152
+thessaloniki_icon,Thessaloniki,Greece,January,Thessaloniki,icon,,2009,2009-01-01,Thessaloniki,city,"Thessaloniki, Greece",40.6403167,22.9352716
+tianjin_icon,Tianjin,China,January,Tianjin,icon,,2008,2008-01-01,Tianjin,city,"Tianjin, China",39.3032619,117.4163641
+tianjin_rlf,Tianjin,China,January,Tianjin Blue,rlf,,2014,2014-01-01,Tianjin,city,"Tianjin, China",39.3032619,117.4163641
+tianjin_yah,Tianjin,China,June,Tianjin,yah,,2018,2018-06-01,Tianjin,city,"Tianjin, China",39.3032619,117.4163641
+tokyo_icon,Tokyo,Japan,January,Tokyo,icon,,2009,2009-01-01,Tokyo,city,"Tokyo, Japan",35.6828387,139.7594549
+toronto_bto,Toronto,Canada,August,Toronto,bto,Ontario,2018,2018-08-01,Toronto,city,"Toronto, Ontario, Canada",43.653963,-79.387207
+toronto_bts,Toronto,Canada,May,Toronto,bts,Ontario,2018,2018-05-01,Toronto,city,"Toronto, Ontario, Canada",43.653963,-79.387207
+toronto_icon,Toronto,Canada,January,Toronto,icon,Ontario,2009,2009-01-01,Toronto,city,"Toronto, Ontario, Canada",43.653963,-79.387207
+toronto_yah,Toronto,Canada,April,Toronto,yah,Ontario,2013,2013-04-01,Toronto,city,"Toronto, Ontario, Canada",43.653963,-79.387207
+toronto_yaho,Toronto,Canada,February,Toronto,yaho,Ontario,2017,2017-02-01,Toronto,city,"Toronto, Ontario, Canada",43.653963,-79.387207
+toulouse_yah,Toulouse,France,October,Toulouse,yah,,2016,2016-10-01,Toulouse,city,"Toulouse, France",43.6044622,1.4442469
+trinidad_&_tobago_bts,,Trinidad & Tobago,October,Trinidad & Tobago,bts,,2019,2019-10-01,,country,Trinidad & Tobago,10.8677845,-60.9821067
+trinidad_&_tobago_icon,,Trinidad & Tobago,January,Trinidad & Tobago,icon,,2016,2016-01-01,,country,Trinidad & Tobago,10.8677845,-60.9821067
+trondheim_icon,Trondheim,Norway,January,Trondheim,icon,,2014,2014-01-01,Trondheim,city,"Trondheim, Norway",63.4305658,10.3951929
+tsingtao_yah,Tsingtao,China,September,Tsingtao,yah,,2017,2017-09-01,Qingdao,city,"Tsingtao, China",36.0634258,120.3785584
+tulum_bts,Tulum,Mexico,August,Tulum,bts,Quintana Roo,2018,2018-08-01,Tulum,city,"Tulum, Quintana Roo, Mexico",20.2152358,-87.4295353143922
+tulum_icon,Tulum,Mexico,January,Tulum,icon,Quintana Roo,2017,2017-01-01,Tulum,city,"Tulum, Quintana Roo, Mexico",20.2152358,-87.4295353143922
+turkey_icon,,Turkey,January,Turkey,icon,,2009,2009-01-01,,country,Turkey,38.9597594,34.9249653
+turkey_yah,,Turkey,December,Turkey,yah,,2018,2018-12-01,,country,Turkey,38.9597594,34.9249653
+turkey_yaho,,Turkey,February,Turkey,yaho,,2019,2019-02-01,,country,Turkey,38.9597594,34.9249653
+turks_and_caicos_bts,,Turks and Caicos,August,Turks & Caicos,bts,,2018,2018-08-01,,country,Turks and Caicos,21.7214683,-71.6201783
+twin_cities_bts,,United States,March,Twin Cities,bts,Minnesota,2018,2018-03-01,,state,"Minnesota, United States",45.9896587,-94.6113288
+twin_cities_icon,,United States,January,Twin Cities,icon,Minnesota,2009,2009-01-01,,state,"Minnesota, United States",45.9896587,-94.6113288
+twin_cities_yah,,United States,April,Twin Cities,yah,Minnesota,2013,2013-04-01,,state,"Minnesota, United States",45.9896587,-94.6113288
+tyumen_icon,Tyumen,Russia,January,Tyumen,icon,,2014,2014-01-01,Tyumen,city,"Tyumen, Russia",57.153534,65.542274
+united_arab_emirates_icon,,United Arab Emirates,January,United Arab Emirates,icon,,2010,2010-01-01,,country,United Arab Emirates,24.0002488,53.9994829
+united_arab_emirates_yah,,United Arab Emirates,September,United Arab Emirates,yah,,2018,2018-09-01,,country,United Arab Emirates,24.0002488,53.9994829
+united_arab_emirates_yahx,,United Arab Emirates,October,United Arab Emirates,yahx,,2018,2018-10-01,,country,United Arab Emirates,24.0002488,53.9994829
+universal_orlando_resort_bts,Orlando,United States,December,Universal Orlando Resort,bts,Florida,2018,2018-12-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.3790388
+universal_orlando_resort_yah,Orlando,United States,December,Universal Orlando Resort™,yah,Florida,2016,2016-12-01,Orlando,special,"Orlando, Florida, United States",28.5421097,-81.3790388
+universal_studios_hollywood_bts,Universal City,United States,December,Universal Studios Hollywood,bts,California,2018,2018-12-01,Universal City,special,"Universal City, California, United States",34.1412926,-118.3584364
+universal_studios_hollywood_yah,Universal City,United States,December,Universal Studios Hollywood™,yah,California,2016,2016-12-01,Universal City,special,"Universal City, California, United States",34.1412926,-118.3584364
+uruguay_icon,,Uruguay,January,Uruguay,icon,,2018,2018-01-01,,country,Uruguay,-32.8755548,-56.0201525
+utah_bto,,United States,August,Utah,bto,Utah,2018,2018-08-01,,state,"Utah, United States",39.4225192,-111.7143584
+utah_bts,,United States,March,Utah,bts,Utah,2018,2018-03-01,,state,"Utah, United States",39.4225192,-111.7143584
+utah_icon,,United States,January,Utah,icon,Utah,2012,2012-01-01,,state,"Utah, United States",39.4225192,-111.7143584
+utah_yah,,United States,April,Utah,yah,Utah,2013,2013-04-01,,state,"Utah, United States",39.4225192,-111.7143584
+utrecht_icon,Utrecht,Netherlands,January,Utrecht,icon,,2012,2012-01-01,Utrecht,city,"Utrecht, Netherlands",52.0809856,5.12768396945229
+utrecht_yah,Utrecht,Netherlands,January,Utrecht,yah,,2018,2018-01-01,Utrecht,city,"Utrecht, Netherlands",52.0809856,5.12768396945229
+vail_yah,Vail,United States,March,Vail,yah,Colorado,2013,2013-03-01,Vail,city,"Vail, Colorado, United States",39.6426439,-106.3862088
+valencia_icon,Valencia,Spain,January,Valencia,icon,,2009,2009-01-01,Valencia,city,"Valencia, Spain",39.4699014,-0.3759513
+valencia_yah,Valencia,Spain,August,Valencia,yah,,2019,2019-08-01,Valencia,city,"Valencia, Spain",39.4699014,-0.3759513
+valparaiso_bts,Valparaiso,Chile,December,Valparaíso,bts,,2018,2018-12-01,Valparaiso,city,"Valparaiso, Chile",-33.0458456,-71.6196749
+vancouver_bto,Vancouver,Canada,August,Vancouver,bto,British Columbia,2018,2018-08-01,Vancouver,city,"Vancouver, British Columbia, Canada",49.2608724,-123.1139529
+vancouver_bts,Vancouver,Canada,May,Vancouver,bts,British Columbia,2018,2018-05-01,Vancouver,city,"Vancouver, British Columbia, Canada",49.2608724,-123.1139529
+vancouver_icon,Vancouver,Canada,January,Vancouver,icon,British Columbia,2009,2009-01-01,Vancouver,city,"Vancouver, British Columbia, Canada",49.2608724,-123.1139529
+vancouver_island_bts,,Canada,June,Vancouver Island,bts,British Columbia,2018,2018-06-01,,state,"British Columbia, Canada",55.001251,-125.002441
+vancouver_island_icon,,Canada,January,Vancouver Island,icon,British Columbia,2009,2009-01-01,,state,"British Columbia, Canada",55.001251,-125.002441
+vancouver_island_yah,,Canada,April,Vancouver Island,yah,British Columbia,2013,2013-04-01,,state,"British Columbia, Canada",55.001251,-125.002441
+vancouver_yah,Vancouver,Canada,April,Vancouver,yah,British Columbia,2013,2013-04-01,Vancouver,city,"Vancouver, British Columbia, Canada",49.2608724,-123.1139529
+vancouver_yaho,Vancouver,Canada,February,Vancouver,yaho,British Columbia,2017,2017-02-01,Vancouver,city,"Vancouver, British Columbia, Canada",49.2608724,-123.1139529
+veracruz_bts,Veracruz,Mexico,August,Veracruz,bts,Veracruz,2018,2018-08-01,Veracruz,city,"Veracruz, Veracruz, Mexico",19.1798858,-96.135648
+veracruz_icon,Veracruz,Mexico,January,Veracruz,icon,Veracruz,2008,2008-01-01,Veracruz,city,"Veracruz, Veracruz, Mexico",19.1798858,-96.135648
+vermont_bto,,United States,September,Vermont,bto,Vermont,2018,2018-09-01,,state,"Vermont, United States",44.5990718,-72.5002608
+vermont_bts,,United States,March,Vermont,bts,Vermont,2018,2018-03-01,,state,"Vermont, United States",44.5990718,-72.5002608
+victoria_bts,Victoria,Canada,June,Victoria,bts,British Columbia,2018,2018-06-01,Victoria,city,"Victoria, British Columbia, Canada",48.4283182,-123.3649533
+vienna_icon,Vienna,Austria,January,Vienna,icon,,2008,2008-01-01,Vienna,city,"Vienna, Austria",48.2083537,16.3725042
+vienna_yah,Vienna,Austria,July,Vienna,yah,,2016,2016-07-01,Vienna,city,"Vienna, Austria",48.2083537,16.3725042
+vietnam_icon,,Vietnam,January,Vietnam,icon,,2012,2012-01-01,,country,Vietnam,13.2904027,108.4265113
+vietnam_icon_2,,Vietnam,January,Vietnam v.2,icon,,2013,2013-01-01,,country,Vietnam,13.2904027,108.4265113
+vietnam_rlf,,Vietnam,January,Vietnam,rlf,,2016,2016-01-01,,country,Vietnam,13.2904027,108.4265113
+vietnam_yah,,Vietnam,August,Vietnam,yah,,2016,2016-08-01,,country,Vietnam,13.2904027,108.4265113
+vietnam_yaho,,Vietnam,August,Vietnam,yaho,,2016,2016-08-01,,country,Vietnam,13.2904027,108.4265113
+villahermosa_bts,Villahermosa,Mexico,August,Villahermosa,bts,Tabasco,2018,2018-08-01,Villahermosa,city,"Villahermosa, Tabasco, Mexico",17.988924,-92.9803686
+villahermosa_icon,Villahermosa,Mexico,January,Villahermosa,icon,Tabasco,2010,2010-01-01,Villahermosa,city,"Villahermosa, Tabasco, Mexico",17.988924,-92.9803686
+virginia_bto,,United States,August,Virginia,bto,Virginia,2018,2018-08-01,,state,"Virginia, United States",37.1232245,-78.4927721
+virginia_bts,,United States,March,Virginia,bts,Virginia,2018,2018-03-01,,state,"Virginia, United States",37.1232245,-78.4927721
+virginia_btx,,United States,October,Virginia,btx,Virginia,2018,2018-10-01,,state,"Virginia, United States",37.1232245,-78.4927721
+virginia_yah,,United States,November,Virginia,yah,Virginia,2014,2014-11-01,,state,"Virginia, United States",37.1232245,-78.4927721
+virginia_yaho,,United States,August,Virginia,yaho,Virginia,2016,2016-08-01,,state,"Virginia, United States",37.1232245,-78.4927721
+waikiki_bto,Waikiki,United States,August,Waikiki,bto,Hawaii,2018,2018-08-01,Waikiki,city,"Waikiki, Hawaii, United States",21.2793568,-157.8285713
+waikiki_bts,Honolulu,United States,April,Waikiki,bts,Hawaii,2018,2018-04-01,Honolulu,city,"Honolulu, Hawaii, United States",21.304547,-157.8556764
+waikiki_icon,Honolulu,United States,January,Waikiki,icon,Waikiki,2009,2009-01-01,Honolulu,city,"Honolulu, Waikiki, United States",21.2759834,-157.82580015
+waikiki_yah,Honolulu,United States,March,Waikiki,yah,Hawaii,2013,2013-03-01,Honolulu,city,"Honolulu, Hawaii, United States",21.304547,-157.8556764
+waikiki_yaho,Honolulu,United States,April,Waikiki,yaho,Hawaii,2017,2017-04-01,Honolulu,city,"Honolulu, Hawaii, United States",21.304547,-157.8556764
+wales_icon,,United Kingdom,January,Wales,icon,Wales,2010,2010-01-01,,state,"Wales, United Kingdom",52.2928116,-3.73893
+wales_yah,,United Kingdom,June,Wales,yah,Wales,2018,2018-06-01,,state,"Wales, United Kingdom",52.2928116,-3.73893
+warsaw_icon,Warsaw,Poland,January,Warsaw,icon,,2010,2010-01-01,Warsaw,city,"Warsaw, Poland",52.2337172,21.0714111288323
+warsaw_yah,Warsaw,Poland,October,Warsaw,yah,,2018,2018-10-01,Warsaw,city,"Warsaw, Poland",52.2337172,21.0714111288323
+washington_bto,,United States,August,Washington,bto,Washington,2018,2018-08-01,,state,"Washington, United States",47.2868352,-120.2126139
+washington_bts,,United States,March,Washington,bts,Washington,2018,2018-03-01,,state,"Washington, United States",47.2868352,-120.2126139
+washington_btx,,United States,October,Washington,btx,Washington,2018,2018-10-01,,state,"Washington, United States",47.2868352,-120.2126139
+washington_dc_bto,Washington,United States,August,"Washington, D.C.",bto,District of Columbia,2018,2018-08-01,Washington DC,city,"Washington, District of Columbia, United States",38.8950092,-77.0365625
+washington_dc_bts,Washington,United States,April,"Washington, D.C.",bts,District of Columbia,2018,2018-04-01,Washington DC,city,"Washington, District of Columbia, United States",38.8950092,-77.0365625
+washington_dc_btx,Washington,United States,November,"Washington, D.C.",btx,District of Columbia,2018,2018-11-01,Washington DC,city,"Washington, District of Columbia, United States",38.8950092,-77.0365625
+washington_dc_icon,Washington,United States,January,Washington DC,icon,District of Columbia,2009,2009-01-01,Washington DC,city,"Washington, District of Columbia, United States",38.8950092,-77.0365625
+washington_dc_yah,Washington,United States,April,"Washington, D.C.",yah,District of Columbia,2013,2013-04-01,Washington DC,city,"Washington, District of Columbia, United States",38.8950092,-77.0365625
+washington_dc_yaho,Washington,United States,August,"Washington, D.C.",yaho,District of Columbia ,2016,2016-08-01,Washington DC,city,"Washington, District of Columbia , United States",38.8950092,-77.0365625
+washington_dc_yahox,Washington,United States,November,"Washington, D.C.",yahox,District of Columbia,2014,2014-11-01,Washington DC,city,"Washington, District of Columbia, United States",38.8950092,-77.0365625
+washington_yah,,United States,August,Washington,yah,Washington,2015,2015-08-01,,state,"Washington, United States",47.2868352,-120.2126139
+washington_yaho,,United States,March,Washington,yaho,Washington,2017,2017-03-01,,state,"Washington, United States",47.2868352,-120.2126139
+wellington_icon,Wellington,New Zealand,January,Wellington,icon,,2016,2016-01-01,Wellington,city,"Wellington, New Zealand",-41.2887953,174.7772114
+wellington_rlf,Wellington,New Zealand,January,Wellington,rlf,,2013,2013-01-01,Wellington,city,"Wellington, New Zealand",-41.2887953,174.7772114
+west_virginia_bto,,United States,August,West Virginia,bto,West Virginia,2018,2018-08-01,,state,"West Virginia, United States",38.4758406,-80.8408415
+west_virginia_bts,,United States,March,West Virginia,bts,West Virginia,2018,2018-03-01,,state,"West Virginia, United States",38.4758406,-80.8408415
+whistler_bts,Whistler,Canada,June,Whistler,bts,British Columbia,2018,2018-06-01,Whistler,city,"Whistler, British Columbia, Canada",50.1171903,-122.9543022
+whistler_icon,Whistler,Canada,January,Whistler,icon,British Columbia,2009,2009-01-01,Whistler,city,"Whistler, British Columbia, Canada",50.1171903,-122.9543022
+whistler_yah,Whistler,Canada,April,Whistler,yah,British Columbia,2013,2013-04-01,Whistler,city,"Whistler, British Columbia, Canada",50.1171903,-122.9543022
+wiesbaden_icon,Wiesbaden,Germany,January,Wiesbaden,icon,,2009,2009-01-01,Wiesbaden,city,"Wiesbaden, Germany",50.0820384,8.2416556
+winnipeg_bts,Winnipeg,Canada,May,Winnipeg,bts,Manitoba,2018,2018-05-01,Winnipeg,city,"Winnipeg, Manitoba, Canada",49.884017,-97.168579
+wisconsin_bto,,United States,August,Wisconsin,bto,Wisconsin,2018,2018-08-01,,state,"Wisconsin, United States",44.4308975,-89.6884637
+wisconsin_bts,,United States,March,Wisconsin,bts,Wisconsin,2018,2018-03-01,,state,"Wisconsin, United States",44.4308975,-89.6884637
+wisconsin_yah,,United States,November,Wisconsin,yah,Wisconsin,2013,2013-11-01,,state,"Wisconsin, United States",44.4308975,-89.6884637
+wisconsin_yah_2,,United States,July,Wisconsin v.2,yah,Wisconsin,2014,2014-07-01,,state,"Wisconsin, United States",44.4308975,-89.6884637
+wroclaw_icon,Wroclaw,Poland,January,Wrocław,icon,,2010,2010-01-01,Wroclaw,city,"Wroclaw, Poland",51.1263106,16.9781963305126
+wuhan_icon,Wuhan,China,January,Wuhan,icon,,2008,2008-01-01,Wuhan,city,"Wuhan, China",30.5951051,114.2999353
+wuhan_rlf,Wuhan,China,November,Wuhan Blue,rlf,,2016,2016-11-01,Wuhan,city,"Wuhan, China",30.5951051,114.2999353
+wuhan_yah,Wuhan,China,September,Wuhan,yah,,2017,2017-09-01,Wuhan,city,"Wuhan, China",30.5951051,114.2999353
+wuhu_icon,Wuhu,China,January,Wuhu,icon,,2014,2014-01-01,Wuhu,city,"Wuhu, China",31.3536127,118.4277477
+wuhu_yah,Wuhu,China,November,Wuhu,yah,,2018,2018-11-01,Wuhu,city,"Wuhu, China",31.3536127,118.4277477
+wuxi_rlf,Wuxi,China,November,Wuxi Blue,rlf,,2016,2016-11-01,Wuxi,city,"Wuxi, China",31.5776264,120.2951311
+wuxi_yah,Wuxi,China,September,Wuxi,yah,,2017,2017-09-01,Wuxi,city,"Wuxi, China",31.5776264,120.2951311
+wyoming_bto,,United States,August,Wyoming,bto,Wyoming,2018,2018-08-01,,state,"Wyoming, United States",43.1700264,-107.5685348
+wyoming_bts,,United States,March,Wyoming,bts,Wyoming,2018,2018-03-01,,state,"Wyoming, United States",43.1700264,-107.5685348
+xiamen_icon,Xiamen,China,January,Xiamen,icon,,2011,2011-01-01,Xiamen,city,"Xiamen, China",24.4586961,118.0745391
+xiamen_rlf,Xiamen,China,November,Xiamen Blue,rlf,,2016,2016-11-01,Xiamen,city,"Xiamen, China",24.4586961,118.0745391
+xiamen_yah,Xiamen,China,September,Xiamen,yah,,2017,2017-09-01,Xiamen,city,"Xiamen, China",24.4586961,118.0745391
+xian_icon,Xian,China,January,Xian,icon,,2008,2008-01-01,Xi'an,city,"Xian, China",35.000074,104.999927
+xian_rlf,Xian,China,January,Xian Blue,rlf,,2014,2014-01-01,Xi'an,city,"Xian, China",35.000074,104.999927
+xian_yah,Xi'an,China,September,Xi'an,yah,,2017,2017-09-01,Xi'an,city,"Xi'an, China",35.000074,104.999927
+xiangyang_icon,Xiangyang,China,January,Xiangyang,icon,,2016,2016-01-01,Xiangyang,city,"Xiangyang, China",32.0189235,112.1463759
+xiangyang_yah,Xiangyang,China,September,Xiangyang,yah,,2019,2019-09-01,Xiangyang,city,"Xiangyang, China",32.0189235,112.1463759
+xining_icon,Xining,China,January,Xining,icon,,2015,2015-01-01,Xining,city,"Xining, China",36.6225321,101.7721957
+xining_yah,Xining,China,January,Xining,yah,,2019,2019-01-01,Xining,city,"Xining, China",36.6225321,101.7721957
+yangzhou_rlf,Yangzhou,China,November,Yangzhou Blue,rlf,,2016,2016-11-01,Yangzhou,city,"Yangzhou, China",32.3926973,119.4365759
+yantai_yah,Yantai,China,December,Yantai,yah,,2018,2018-12-01,Yantai,city,"Yantai, China",37.461928,121.4425255
+yaroslavl_icon,Yaroslavl,Russia,January,Yaroslavl,icon,,2014,2014-01-01,Yaroslavl,city,"Yaroslavl, Russia",57.6263877,39.8933705
+yekaterinburg_icon,Yekaterinburg,Russia,January,Yekaterinburg,icon,,2014,2014-01-01,Yekaterinburg,city,"Yekaterinburg, Russia",56.839104,60.60825
+yibin_yah,Yibin,China,November,Yibin,yah,,2018,2018-11-01,Yibin,city,"Yibin, China",28.5566979,104.765166925242
+yichang_icon,Yichang,China,January,Yichang,icon,,2014,2014-01-01,Yichang,city,"Yichang, China",30.7031196,111.2750181
+yichang_yah,Yichang,China,November,Yichang,yah,,2018,2018-11-01,Yichang,city,"Yichang, China",30.7031196,111.2750181
+yinchuan_icon,Yinchuan,China,January,Yinchuan,icon,,2016,2016-01-01,Yinchuan,city,"Yinchuan, China",38.466667,106.316667
+yinchuan_yah,Yinchuan,China,November,Yinchuan,yah,,2018,2018-11-01,Yinchuan,city,"Yinchuan, China",38.466667,106.316667
+yueyang_yah,Yueyang,China,June,Yueyang,yah,,2018,2018-06-01,Yueyang,city,"Yueyang, China",29.3691365,113.095513
+zacatecas_bts,,Mexico,August,Zacatecas,bts,Zacatecas,2018,2018-08-01,,state,"Zacatecas, Mexico",23.0000001,-103.0000001
+zacatecas_icon,Zacatecas,Mexico,January,Zacatecas,icon,Zacatecas,2008,2008-01-01,Zacatecas,city,"Zacatecas, Zacatecas, Mexico",22.7293312,-102.668598836424
+zagreb_icon,Zagreb,Croatia,January,Zagreb,icon,,2011,2011-01-01,Zagreb,city,"Zagreb, Croatia",45.813177,15.977048
+zhengzhou_icon,Zhengzhou,China,January,Zhengzhou,icon,,2011,2011-01-01,Zhengzhou,city,"Zhengzhou, China",34.7591877,113.6524076
+zhengzhou_yah,Zhengzhou,China,August,Zhengzhou,yah,,2018,2018-08-01,Zhengzhou,city,"Zhengzhou, China",34.7591877,113.6524076
+zhongshan_icon,Zhongshan,China,January,Zhongshan,icon,,2014,2014-01-01,Zhongshan,city,"Zhongshan, China",22.5213807,113.3656141
+zhongshan_yah,Zhongshan,China,December,Zhongshan,yah,,2018,2018-12-01,Zhongshan,city,"Zhongshan, China",22.5213807,113.3656141
+zhuhai_icon,Zhuhai,China,January,Zhuhai,icon,,2015,2015-01-01,Zhuhai,city,"Zhuhai, China",21.9745252,113.931350084859
+zhuhai_yah,Zhuhai,China,June,Zhuhai,yah,,2018,2018-06-01,Zhuhai,city,"Zhuhai, China",21.9745252,113.931350084859
+zhuzhou_yah,Zhuzhou,China,October,Zhuzhou,yah,,2019,2019-10-01,Zhuzhou,city,"Zhuzhou, China",27.8394983,113.1482168
+zunyi_yah,Zunyi,China,January,Zunyi,yah,,2019,2019-01-01,Zunyi,city,"Zunyi, China",27.7293815,106.9232185
+zurich_icon,Zurich,Switzerland,January,Zurich,icon,,2009,2009-01-01,Zurich,city,"Zurich, Switzerland",47.3723941,8.5423328
+zurich_rlf,Zurich,Switzerland,January,Zurich Green,rlf,,2013,2013-01-01,Zurich,city,"Zurich, Switzerland",47.3723941,8.5423328
+zurich_yah,Zurich,Switzerland,May,Zürich,yah,,2017,2017-05-01,Zurich,city,"Zurich, Switzerland",47.3723941,8.5423328
